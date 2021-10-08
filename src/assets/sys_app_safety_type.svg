@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>sys_app_safety_type</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="100%" y2="8.69717775%" id="linearGradient-1">
+            <stop stop-color="#D3E8FF" offset="0%"></stop>
+            <stop stop-color="#C0DEFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M15.9057869,33.6 C27.5230673,29.8794418 31.3680574,23.3410991 31.7778185,19.4316899 C32.0432778,16.8990207 32.0708619,12.1821389 31.8605705,5.28104441 L31.8606291,5.28104263 C31.8496934,4.92216889 31.601022,4.61452957 31.2524156,4.5286023 L16.2175676,0.822694132 C16.0927666,0.791932214 15.9623909,0.79169474 15.8374787,0.822001815 L0.787057853,4.47365812 C0.438386583,4.55825522 0.188684133,4.864647 0.17618454,5.2232165 C-0.0657127127,12.1624008 -0.0585205128,16.8985586 0.19776114,19.4316899 C0.59328342,23.3410991 4.3043274,29.8357768 15.9057869,33.6 Z" id="path-2"></path>
+        <linearGradient x1="0%" y1="88.9299665%" x2="100%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#E7F2FF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M11.9293402,24.8 C20.6423005,22.0095814 23.5260431,17.1058243 23.8333639,14.1737674 C24.0306839,12.291195 24.0527635,8.7376963 23.8996024,3.51327122 L23.8995712,3.51327213 C23.8890411,3.15408359 23.6402986,2.84599256 23.2913984,2.75999288 L12.2106656,0.0287262956 C12.0858647,-0.00203562241 11.9554889,-0.00227309681 11.8305768,0.0280339786 L0.738319508,2.71925696 C0.389254993,2.80394948 0.139420084,3.11089598 0.127355865,3.46988528 C-0.0491741713,8.72280623 -0.0421858411,12.2907669 0.148320855,14.1737674 C0.444962565,17.1058243 3.22824555,21.9768326 11.9293402,24.8 Z" id="path-4"></path>
+        <linearGradient x1="116.204427%" y1="80.855757%" x2="28.0598958%" y2="80.8557581%" id="linearGradient-6">
+            <stop stop-color="#A2CFFF" offset="0%"></stop>
+            <stop stop-color="#84C0FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-7" x="0" y="0" width="12.8" height="34.4"></rect>
+    </defs>
+    <g id="应用中心" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sys_app_safety_type">
+            <rect id="Rectangle-11-Copy-2" x="0" y="0" width="40" height="40"></rect>
+            <g id="Group-10" transform="translate(4.000000, 3.000000)">
+                <g id="Stroke-3">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <path stroke="#D5E9FF" stroke-width="0.8" d="M15.9065842,33.1795276 C25.5917166,30.0454843 30.8432171,24.5112581 31.3799978,19.3899927 C31.643003,16.8807371 31.670524,12.1771387 31.4608147,5.29322584 C31.4553465,5.11377583 31.3310017,4.9599449 31.1566857,4.91697812 L16.1218376,1.21106995 C16.0594372,1.19568899 15.9942493,1.19557026 15.9317936,1.2107237 L0.881372341,4.8623801 C0.707040153,4.90467781 0.582191396,5.05787067 0.575941723,5.23715188 C0.334654874,12.1588258 0.341827071,16.8818113 0.595729573,19.3914267 C1.1160926,24.534783 6.24660679,30.013245 15.9065842,33.1795276 Z"></path>
+                </g>
+                <g id="Rectangle-10" transform="translate(4.000000, 4.800000)">
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <use id="Mask" fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                    <g mask="url(#mask-5)">
+                        <g transform="translate(12.000000, -4.000000)">
+                            <g>
+                                <use fill="url(#linearGradient-6)" fill-rule="evenodd" xlink:href="#path-7"></use>
+                                <rect stroke="#A0CEFF" stroke-width="0.8" x="0.4" y="0.4" width="12" height="33.6"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+

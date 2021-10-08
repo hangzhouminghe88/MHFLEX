@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+  <title>vxlanpool_n</title>
+  <desc>Created with Sketch.</desc>
+  <defs></defs>
+  <g id="*图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1244.000000, -1396.000000)">
+    <g id="vxlanpool_n" transform="translate(1244.000000, 1396.000000)">
+      <rect id="Rectangle-6" x="0" y="-4.54747351e-13" width="36" height="36"></rect>
+      <g id="Group-24" transform="translate(9.000000, 8.000000)">
+        <circle id="Oval" stroke="#97A4B6" cx="9.5" cy="5.5" r="5"></circle>
+        <circle id="Oval-Copy" stroke="#97A4B6" cx="2.5" cy="13.5" r="2"></circle>
+        <circle id="Oval-Copy-2" stroke="#97A4B6" cx="9.5" cy="17.5" r="2"></circle>
+        <path d="M3.90292329,15.142735 L4.42702072,14.2910767 L7.77940732,16.3540838 L7.2553099,17.2057421 L3.90292329,15.142735 Z M11.71838,17.221933 L11.1942826,16.3702747 L14.6691408,14.2319004 L15.1932383,15.0835587 L11.71838,17.221933 Z" id="Path-30" fill="#97A4B6" fill-rule="nonzero"></path>
+        <circle id="Oval-Copy-2" stroke="#97A4B6" cx="16.5" cy="13.5" r="2"></circle>
+        <path d="M9.5,10.5 L9.5,15.5" id="Path-6" stroke="#97A4B6"></path>
+      </g>
+    </g>
+  </g>
+</svg>

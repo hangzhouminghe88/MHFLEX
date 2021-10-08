@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+  <title>Group 133 Copy 2</title>
+  <desc>Created with Sketch.</desc>
+  <defs></defs>
+  <g id="UI-KIT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="*图标" transform="translate(-1273.000000, -900.000000)">
+      <g id="Group-135-Copy" transform="translate(1273.000000, 900.000000)">
+        <rect id="Rectangle-2" x="0" y="0" width="36" height="36"></rect>
+        <g id="Group-134" transform="translate(8.000000, 9.000000)" stroke="#97A4B6">
+          <rect id="Rectangle-56" x="0.5" y="10.5" width="19" height="7" rx="1"></rect>
+          <circle id="Oval-25-Copy-2" transform="translate(6.000000, 14.000000) scale(1, -1) translate(-6.000000, -14.000000) " cx="6" cy="14" r="1.5"></circle>
+          <rect id="Rectangle-56" x="0.5" y="0.5" width="19" height="7" rx="1"></rect>
+          <circle id="Oval-25-Copy-2" transform="translate(6.000000, 4.000000) scale(1, -1) translate(-6.000000, -4.000000) " cx="6" cy="4" r="1.5"></circle>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

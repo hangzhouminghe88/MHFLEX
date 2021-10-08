@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 11 Copy 9</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="16" rx="1"></rect>
+    </defs>
+    <g id="2.1风格调整" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="Rectangle-2" x="0" y="0" width="16" height="16"></rect>
+            <g id="Rectangle-15">
+                <use fill="#1A2736" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#1A2736" stroke-width="1" x="0.5" y="0.5" width="15" height="15" rx="1"></rect>
+            </g>
+            <rect id="Rectangle-16-Copy" fill="#FAFDFF" x="3" y="3" width="4" height="3" rx="1"></rect>
+            <rect id="Rectangle-21" fill="#FAFDFF" x="3" y="8" width="10" height="1" rx="0.5"></rect>
+            <rect id="Rectangle-21" fill="#FAFDFF" x="3" y="11" width="10" height="1" rx="0.5"></rect>
+        </g>
+    </g>
+</svg>

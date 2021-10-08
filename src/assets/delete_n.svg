@@ -1,0 +1,19 @@
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="9" cy="9" r="7"></circle>
+    </defs>
+    <g id="0421" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="用户_权限" transform="translate(-440.000000, -98.000000)">
+            <g id="Group-17" transform="translate(440.000000, 98.000000)">
+                <rect id="Rectangle-24" x="0" y="0" width="18" height="18"></rect>
+                <g id="Oval-9">
+                    <use fill-opacity="0.4" fill="#0077D2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#3C73B9" stroke-width="1" cx="9" cy="9" r="6.5"></circle>
+                </g>
+                <rect id="Rectangle-39" fill="#3C73B9" x="6" y="8.5" width="6" height="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="120px" viewBox="0 0 140 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>sys_about_community</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="52.4980187%" y1="165.856934%" x2="52.4980187%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#B5DAFF" offset="0%"></stop>
+            <stop stop-color="#D9ECFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-25.0%" y="-150.0%" width="150.0%" height="400.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#007FDF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#007FDF" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-4" cx="30" cy="30" r="30"></circle>
+        <path d="M5.07193879,23.1191686 L19.0005308,21.6 L32.9285236,23.1191595 C34.4666947,23.2869315 35.7256145,24.418819 36.0554388,25.9305511 L37.1289128,30.8509336 C37.2510168,31.4105911 36.9605255,31.9785159 36.435265,32.207049 C30.623451,34.735683 24.8117192,36 19.0000696,36 C13.1884217,36 7.37678545,34.7356837 1.56516071,32.2070512 L1.56516182,32.2070487 C1.03989405,31.9785051 0.74940098,31.4105688 0.871507372,30.8509006 L1.94500936,25.9305617 C2.27483479,24.4188245 3.53376175,23.286935 5.07193879,23.1191686 Z" id="path-5"></path>
+        <path d="M19,25.2 C25.4920302,25.2 29.8,18.2127314 29.8,12.0726244 C29.8,5.93251751 24.9646753,0 19,0 C13.0353247,0 8.2,5.93251751 8.2,12.0726244 C8.2,18.2127314 12.5079698,25.2 19,25.2 Z" id="path-6"></path>
+    </defs>
+    <g id="关于" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sys_about_community" transform="translate(1.000000, 0.000000)">
+            <path d="M69,87 C107.107648,87 138,78.2842712 138,70 C138,61.7157288 107.107648,55 69,55 C30.8923523,55 0,61.7157288 0,70 C0,78.2842712 30.8923523,87 69,87 Z" id="Oval-Copy-2" fill="url(#linearGradient-1)"></path>
+            <path d="M69,103 C85.5685425,103 99,100.276335 99,97.6875 C99,95.0986652 85.5685425,93 69,93 C52.4314575,93 39,95.0986652 39,97.6875 C39,100.276335 52.4314575,103 69,103 Z" id="Oval-Copy-2" fill="#DCEDFF" filter="url(#filter-2)"></path>
+            <g id="Group-22" transform="translate(0.000000, 42.000000)">
+                <path d="M69,32 C107.107648,32 138,23.2842712 138,15 C138,6.71572875 107.107648,0 69,0 C30.8923523,0 0,6.71572875 0,15 C0,23.2842712 30.8923523,32 69,32 Z" id="Oval-Copy-2" stroke="url(#linearGradient-3)" stroke-dasharray="1,5"></path>
+                <circle id="Oval-3" fill="#007FDF" cx="41" cy="30" r="2"></circle>
+            </g>
+            <circle id="Oval" fill="#89D7FF" opacity="0.400000006" cx="91.5" cy="16.5" r="16.5"></circle>
+            <g id="Group-25" transform="translate(39.000000, 4.000000)">
+                <g id="Oval">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#007FDF" stroke-width="3" cx="30" cy="30" r="28.5"></circle>
+                </g>
+                <g id="Group-24" transform="translate(11.000000, 12.000000)">
+                    <g id="Rectangle">
+                        <use fill="#89D7FF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        <path stroke="#007FDF" stroke-width="3" d="M2.38968567,30.9293115 C7.94068145,33.3122996 13.4741486,34.5 19.0000696,34.5 C24.5259902,34.5 30.0595499,33.3122997 35.610729,30.9293108 L34.5899135,26.2502941 C34.397516,25.3684505 33.6631461,24.7081827 32.7658796,24.6103157 L19.0005278,23.1088959 L5.23457682,24.6103255 C4.33730688,24.7081892 3.60293282,25.3684581 3.41053465,26.2503048 L2.38968562,30.9293117 Z"></path>
+                    </g>
+                    <g id="Oval-3">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                        <path stroke="#007FDF" stroke-width="3" d="M19,23.7 C24.0850711,23.7 28.3,18.0882735 28.3,12.0726244 C28.3,6.53543495 23.9273235,1.5 19,1.5 C14.0726765,1.5 9.7,6.53543495 9.7,12.0726244 C9.7,18.0882735 13.9149289,23.7 19,23.7 Z"></path>
+                    </g>
+                </g>
+                <circle id="Oval-22" fill="#007FDF" cx="51.6" cy="12" r="8.4"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
+

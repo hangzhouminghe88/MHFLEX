@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+  <title>Rectangle 2</title>
+  <desc>Created with Sketch.</desc>
+  <defs></defs>
+  <g id="Hybrid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="*图标" transform="translate(-839.000000, -450.000000)">
+      <rect id="Rectangle-2" x="839" y="450" width="36" height="36"></rect>
+      <g id="Group-128" transform="translate(847.000000, 459.000000)">
+        <path d="M6.05537037,1.11183202 L4.94402511,3.07142857 L0.99180311,3.07142857 C0.727653375,3.07142857 0.5,3.2992739 0.5,3.57185241 L0.5,16.9995762 C0.5,17.278533 0.719983372,17.5 0.99180311,17.5 L19.0081969,17.5 C19.2723466,17.5 19.5,17.2721547 19.5,16.9995762 L19.5,3.57185241 C19.5,3.29289553 19.2800166,3.07142857 19.0081969,3.07142857 L15.0559749,3.07142857 L13.9446296,1.11183202 C13.7646951,0.794559674 13.2584878,0.5 12.8880031,0.5 L7.11199686,0.5 C6.73416323,0.5 6.23883293,0.788338858 6.05537037,1.11183202 Z" id="Combined-Shape" stroke="#97A4B6"></path>
+        <rect id="Rectangle-6" fill="#97A4B6" x="0" y="7" width="6" height="1"></rect>
+        <rect id="Rectangle-6-Copy" fill="#97A4B6" x="14" y="7" width="6" height="1"></rect>
+        <circle id="Oval-5" stroke="#97A4B6" cx="10" cy="9.66666667" r="4.5"></circle>
+      </g>
+    </g>
+  </g>
+</svg>

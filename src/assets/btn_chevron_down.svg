@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+  <title>btn_chevron_down</title>
+  <desc>Created with Sketch.</desc>
+  <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="备注" transform="translate(-290.000000, -602.000000)">
+      <g id="btn_chevron_down" transform="translate(290.000000, 602.000000)">
+        <rect id="Rectangle-25" x="0" y="0" width="18" height="18"></rect>
+        <path d="M9.00000906,9.84147018 L12.1746134,7.12038076 C12.3842763,6.94066969 12.6999263,6.96495046 12.8796374,7.17461338 C13.0593484,7.3842763 13.0350677,7.69992629 12.8254048,7.87963737 L9.32540475,10.8796374 C9.13815989,11.040133 8.86185824,11.040133 8.67461338,10.8796374 L5.17461338,7.87963737 C4.96495046,7.69992629 4.94066969,7.3842763 5.12038076,7.17461338 C5.30009184,6.96495046 5.61574183,6.94066969 5.82540475,7.12038076 L9.00000906,9.84147018 Z" id="Path-17" fill="#3C73B9" fill-rule="nonzero"></path>
+      </g>
+    </g>
+  </g>
+</svg>

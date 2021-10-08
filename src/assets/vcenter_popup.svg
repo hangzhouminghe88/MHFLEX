@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+  <title>vcenter_popup</title>
+  <desc>Created with Sketch.</desc>
+  <defs></defs>
+  <g id="*图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-978.000000, -809.000000)">
+    <g id="vcenter_popup" transform="translate(978.000000, 809.000000)">
+      <rect id="Rectangle-2" x="0" y="0" width="36" height="36"></rect>
+      <g id="Group-58-Copy" transform="translate(9.000000, 9.000000)" stroke="#97A4B6" stroke-width="1.1">
+        <path d="M2.39641757,12.55 L0.763084238,17.45 L17.2369158,17.45 L15.6035824,12.55 L2.39641757,12.55 Z" id="Rectangle-33"></path>
+        <path d="M9,16.1408725 L11.7548199,12.8350887 L11.8588745,12.7835463 C14.0403856,11.7029566 15.45,9.47797526 15.45,7 C15.45,3.43776336 12.5622366,0.55 9,0.55 C5.43776336,0.55 2.55,3.43776336 2.55,7 C2.55,9.47797526 3.95961444,11.7029566 6.14112547,12.7835463 L6.24518014,12.8350887 L9,16.1408725 Z" id="Combined-Shape"></path>
+        <circle id="Oval-15" cx="9" cy="7" r="3.45"></circle>
+      </g>
+    </g>
+  </g>
+</svg>

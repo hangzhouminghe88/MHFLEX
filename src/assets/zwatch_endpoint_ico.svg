@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="60px" viewBox="0 0 62 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+  <title>endpoint_detail</title>
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <path d="M0.300710829,20.9786751 C0.686917574,9.39247279 10.4079804,0 22.0061566,0 L39.9938434,0 C51.5952233,0 61.3129775,9.38932566 61.6992892,20.9786751 L62,30 L61.6992892,39.0213249 C61.3130824,50.6075272 51.5920196,60 39.9938434,60 L22.0061566,60 C10.4047767,60 0.687022478,50.6106743 0.300710829,39.0213249 L0,30 L0.300710829,20.9786751 Z" id="path-1"></path>
+    <path d="M0,0 L0,5 C0,5.55228474 0.353459408,6 0.789473684,6 L29.2105263,6 C29.6465406,6 30,5.55228474 30,5 L30,0 L0,0 Z" id="path-2"></path>
+  </defs>
+  <g id="*图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-618.000000, -1230.000000)">
+    <g id="Group-131" transform="translate(618.000000, 1230.000000)">
+      <g id="Rectangle-11-Copy">
+        <use fill="#FAFDFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+        <path stroke="#97A4B6" stroke-width="1" d="M0.800433282,20.9953326 L0.499722453,29.9833426 L0.800433282,39.0046674 C1.17772202,50.3233297 10.6732548,59.5 22.0061566,59.5 L39.9938434,59.5 C51.3235597,59.5 60.8223835,50.3201644 61.1995667,39.0046674 L61.5002775,30.0166574 L61.1995667,20.9953326 C60.822278,9.67667031 51.3267452,0.5 39.9938434,0.5 L22.0061566,0.5 C10.6764403,0.5 1.17761651,9.67983562 0.800433282,20.9953326 Z"></path>
+      </g>
+      <g id="Group-130" transform="translate(16.000000, 16.000000)">
+        <rect id="Rectangle-66" fill="#97A4B6" fill-rule="nonzero" x="4" y="19" width="12" height="1" rx="0.5"></rect>
+        <rect id="Rectangle-27" stroke="#97A4B6" x="19.5" y="10.5" width="5" height="6" rx="1"></rect>
+        <polyline id="Path-27" stroke="#97A4B6" stroke-linecap="round" stroke-linejoin="round" points="13 16 16 19.5 13 23"></polyline>
+        <path d="M0.5,5.5 L0.5,27.1785714 C0.5,27.3604328 0.634137843,27.5 0.789473684,27.5 L29.2105263,27.5 C29.3658622,27.5 29.5,27.3604328 29.5,27.1785714 L29.5,5.5 L0.5,5.5 Z" id="Shape" stroke="#97A4B6"></path>
+        <g id="Shape" transform="translate(15.000000, 3.000000) scale(-1, 1) rotate(-180.000000) translate(-15.000000, -3.000000) ">
+          <use fill-opacity="0.39770154" fill="#97A4B6" fill-rule="evenodd" xlink:href="#path-2"></use>
+          <path stroke="#97A4B6" stroke-width="1" d="M0.5,0.5 L0.5,5 C0.5,5.29862088 0.658983512,5.5 0.789473684,5.5 L29.2105263,5.5 C29.3410165,5.5 29.5,5.2986209 29.5,5 L29.5,0.5 L0.5,0.5 Z"></path>
+        </g>
+      </g>
+    </g>
+    <g id="zwatch_endpoint_n" transform="translate(599.000000, 1202.000000)">
+      <rect id="Rectangle-2" x="0" y="0" width="36" height="36"></rect>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg width="36px" height="36px" viewBox="61 77 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <rect id="path-1" x="8" y="9" width="20" height="14" rx="1"></rect>
+    <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="14" fill="white">
+      <use xlink:href="#path-1"></use>
+    </mask>
+    <rect id="path-3" x="8" y="18" width="20" height="5" rx="1"></rect>
+    <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="5" fill="white">
+      <use xlink:href="#path-3"></use>
+    </mask>
+    <path d="M15,22 L21,22 L21,25 L22.2892435,26.2892435 C22.6817835,26.6817835 22.5443356,27 22.0046024,27 L13.9953976,27 C13.4456547,27 13.3125,26.6875 13.7107565,26.2892435 L15,25 L15,22 Z" id="path-5"></path>
+    <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="9.03379432" height="5" fill="white">
+      <use xlink:href="#path-5"></use>
+    </mask>
+  </defs>
+  <g id="Group-4-Copy-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(61.000000, 77.000000)">
+    <rect id="Rectangle-2" x="0" y="0" width="36" height="36"></rect>
+    <use id="Rectangle-7" stroke="#97A4B6" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+    <use id="Rectangle-7" stroke="#97A4B6" mask="url(#mask-4)" stroke-width="2" xlink:href="#path-3"></use>
+    <use id="Rectangle-10" stroke="#97A4B6" mask="url(#mask-6)" stroke-width="2" xlink:href="#path-5"></use>
+  </g>
+</svg>

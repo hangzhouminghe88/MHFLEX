@@ -1,0 +1,24 @@
+
+<svg width="36px" height="36px" viewBox="231 240 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <path d="M0,2.84325773 C0,2.29120937 0.4296875,1.75681179 0.977049619,1.64614645 L9.02295038,0.0194311226 C9.56255999,-0.0896668193 10,0.271686676 10,0.826114524 L10,17.0138144 C10,17.5684313 9.5443356,18.0180371 9.00460243,18.0180371 L0.995397568,18.0180371 C0.445654671,18.0180371 0,17.5685611 0,17.0184652 L0,2.84325773 Z" id="path-1"></path>
+    <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10" height="18.0180371" fill="white">
+      <use xlink:href="#path-1"></use>
+    </mask>
+    <path d="M9,0.823200122 C9,0.270477617 9.4296875,-0.0907205452 9.97704962,0.0199422488 L18.0229504,1.64662014 C18.56256,1.75571557 19,2.29362054 19,2.84370387 L19,17.0185851 C19,17.5706208 18.5443356,18.0181341 18.0046024,18.0181341 L9.99539757,18.0181341 C9.44565467,18.0181341 9,17.5740256 9,17.0185276 L9,9.30413549 L9,7.72439854 L9,0.823200122 Z" id="path-3"></path>
+    <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10" height="18.0181341" fill="white">
+      <use xlink:href="#path-3"></use>
+    </mask>
+  </defs>
+  <g id="Group-78" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(231.000000, 240.000000)">
+    <rect id="Rectangle-2" x="0" y="0" width="36" height="36"></rect>
+    <g id="Group-49" transform="translate(9.000000, 9.000000)">
+      <use id="Rectangle-19" stroke="#97A4B6" mask="url(#mask-2)" stroke-width="2" transform="translate(5.000000, 9.009019) scale(1, -1) translate(-5.000000, -9.009019) " xlink:href="#path-1"></use>
+      <use id="Rectangle-19-Copy" stroke="#97A4B6" mask="url(#mask-4)" stroke-width="2" transform="translate(14.000000, 9.009067) scale(1, -1) translate(-14.000000, -9.009067) " xlink:href="#path-3"></use>
+      <rect id="Rectangle-5-Copy-2" fill="#97A4B6" transform="translate(13.500000, 5.500000) rotate(-270.000000) translate(-13.500000, -5.500000) " x="12" y="5" width="3" height="1" rx="0.5"></rect>
+      <rect id="Rectangle-5-Copy-3" fill="#97A4B6" transform="translate(5.500000, 5.500000) rotate(-270.000000) translate(-5.500000, -5.500000) " x="4" y="5" width="3" height="1" rx="0.5"></rect>
+    </g>
+  </g>
+</svg>

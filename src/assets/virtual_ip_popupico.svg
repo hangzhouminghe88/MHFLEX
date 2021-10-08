@@ -1,0 +1,28 @@
+
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <circle id="path-1" cx="9" cy="9" r="9"></circle>
+    <circle id="path-2" cx="11.8333333" cy="6.83333333" r="2.5"></circle>
+  </defs>
+  <g id="云主机" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="*图标" transform="translate(-637.000000, -665.000000)">
+      <g id="Group-59" transform="translate(637.000000, 665.000000)">
+        <rect id="Rectangle-2" x="0" y="0" width="36" height="36"></rect>
+        <g id="Group-48" transform="translate(9.000000, 8.000000)">
+          <path d="M4.74489395,17.1183707 C4.90462533,16.7936434 5.37469659,16.5 5.73254337,16.5 L12.2692142,16.5 C12.629308,16.5 13.095825,16.790986 13.2568636,17.1183707 L14.3413147,19.3230145 C14.4227078,19.4884833 14.4155922,19.5 14.232839,19.5 L3.7689186,19.5 C3.58592589,19.5 3.57891372,19.4887599 3.6604429,19.3230145 L4.74489395,17.1183707 Z" id="Rectangle-38" stroke="#97A4B6"></path>
+          <g id="Oval">
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <circle stroke="#97A4B6" stroke-width="1" cx="9" cy="9" r="8.5"></circle>
+          </g>
+          <circle id="Oval" stroke="#97A4B6" cx="9" cy="9" r="4.5"></circle>
+          <g id="Oval">
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <circle stroke="#97A4B6" stroke-width="1" cx="11.8333333" cy="6.83333333" r="2"></circle>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

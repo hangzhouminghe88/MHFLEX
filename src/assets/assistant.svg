@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="110px" viewBox="0 0 110 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+  <title>Group 18</title>
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <circle id="path-1" cx="35" cy="35" r="35"></circle>
+    <filter x="-45.0%" y="-40.7%" width="190.0%" height="190.0%" filterUnits="objectBoundingBox" id="filter-2">
+      <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+      <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+      <feColorMatrix values="0 0 0 0 0.337727283   0 0 0 0 0.531953597   0 0 0 0 0.779150723  0 0 0 0.497650589 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+    </filter>
+  </defs>
+  <g id="Hybrid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="云主机_操作助手" transform="translate(-1790.000000, -953.000000)">
+      <g id="操作助手" transform="translate(1810.000000, 970.000000)">
+        <g id="Oval-14">
+          <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+          <use fill="#3C73B9" fill-rule="evenodd" xlink:href="#path-1"></use>
+          <circle stroke="#3C73B9" stroke-width="1" cx="35" cy="35" r="34.5"></circle>
+        </g>
+        <g id="Group-14" transform="translate(20.000000, 18.000000)">
+          <path d="M24.6296387,31.9223633 L23.2133789,22.1599121 C26.086263,20.6149902 27.624349,17.4864909 27.8276367,12.7744141 C28.1325684,5.70629883 22.574707,0.533447266 14.7536621,0.533447266 C6.93261719,0.533447266 3.27681847,5.94726562 2.57397461,8.70361328 C2.10541204,10.5411784 2.24693222,12.4790039 2.99853516,14.5170898 L0,19.453125 L3.13546104,19.453125 L4.31773117,26.0816485 L4.31773117,26.0816485 C4.4878951,27.0356908 5.31755925,27.7304688 6.28665798,27.7304688 L10.6296387,27.7304688 L11.6296387,31.9223633 L24.6296387,31.9223633 Z" id="Oval-16" fill="#FFFFFF"></path>
+          <circle id="Oval" fill="#3C73B9" cx="13.5" cy="11.5" r="3.5"></circle>
+          <circle id="Oval-Copy" fill="#3C73B9" cx="20.5" cy="7.5" r="2.5"></circle>
+          <circle id="Oval-Copy-2" fill="#3C73B9" cx="20.5" cy="15.5" r="1.5"></circle>
+          <rect id="Rectangle-34" fill="#3C73B9" transform="translate(16.982051, 9.433013) rotate(-30.000000) translate(-16.982051, -9.433013) " x="14.9820508" y="8.9330127" width="4" height="1"></rect>
+          <rect id="Rectangle-34-Copy" fill="#3C73B9" transform="translate(17.422836, 13.687500) rotate(-330.000000) translate(-17.422836, -13.687500) " x="14.9138611" y="13.1875" width="5.01794919" height="1"></rect>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

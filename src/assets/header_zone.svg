@@ -1,0 +1,29 @@
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <circle id="path-1" cx="10" cy="10" r="10"></circle>
+    <circle id="path-3" cx="10" cy="10" r="6"></circle>
+  </defs>
+  <g id="云主机" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="导航_网络服务_三级导航" transform="translate(-1598.000000, -14.000000)">
+      <g id="Group-14-Copy" transform="translate(1598.000000, 14.000000)">
+        <rect id="Rectangle-4" x="0" y="0" width="32" height="32"></rect>
+        <g id="Group-14" transform="translate(6.000000, 6.000000)">
+          <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+          </mask>
+          <g id="Mask">
+            <use fill="#F2FAFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <circle stroke="#007FDF" stroke-width="1" cx="10" cy="10" r="9.5"></circle>
+          </g>
+          <g id="Mask" mask="url(#mask-2)">
+            <use fill="#F2FAFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+            <circle stroke="#007FDF" stroke-width="1" cx="10" cy="10" r="5.5"></circle>
+          </g>
+          <path d="M13.085761,12.2789299 C13.6380458,12.2789299 14.085761,11.823169 14.085761,11.2764566 L14.085761,1.71092118 C14.085761,1.56774853 12.085761,1.50980122 12.085761,1.62400022 L12.085761,11.2764566 C12.085761,11.8301073 12.5296259,12.2789299 13.085761,12.2789299 Z" id="Rectangle-36" fill="#007FDF" mask="url(#mask-2)" transform="translate(13.085761, 6.921229) rotate(-315.000000) translate(-13.085761, -6.921229) "></path>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>sys_zoom_in</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="uikit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-447.000000, -647.000000)" fill="#97A4B6">
+            <g id="sys_zoom_in" transform="translate(448.000000, 648.000000)">
+                <rect id="Rectangle-30" transform="translate(4.181981, 11.681981) scale(-1, 1) rotate(-45.000000) translate(-4.181981, -11.681981) " x="3.18198052" y="8.18198052" width="2" height="7"></rect>
+                <rect id="Rectangle-30-Copy" transform="translate(11.681981, 4.181981) scale(-1, 1) rotate(-45.000000) translate(-11.681981, -4.181981) " x="10.6819805" y="0.681980515" width="2" height="7"></rect>
+                <polygon id="Path-4" fill-rule="nonzero" points="14 2 9 2 9 0 16 0 16 7 14 7"></polygon>
+                <polygon id="Path-4" fill-rule="nonzero" transform="translate(3.500000, 12.500000) scale(-1, -1) translate(-3.500000, -12.500000) " points="5 11 0 11 0 9 7 9 7 16 5 16"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
+

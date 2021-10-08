@@ -1,0 +1,32 @@
+
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <rect id="path-1" x="0" y="13" width="20" height="7" rx="1"></rect>
+    <rect id="path-2" x="2" y="10" width="16" height="4" rx="1"></rect>
+    <path d="M13.4833443,8.00223863 L16.3111549,8.00223863 C16.8666935,8.00223863 17.0211689,7.66656875 16.6548507,7.25098503 L10.6627309,0.452993701 C10.2970102,0.0380877968 9.70459575,0.0374099819 9.33820134,0.452993701 L3.34483378,7.25098503 C2.97903696,7.66589094 3.13653064,8.00223863 3.6883917,8.00223863 L6.49783267,8.00223863 L6.49783267,14 L13.4833443,14 L13.4833443,8.00223863 Z" id="path-3"></path>
+  </defs>
+  <g id="云主机" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="*图标" transform="translate(-637.000000, -737.000000)">
+      <g id="Group-67" transform="translate(637.000000, 737.000000)">
+        <rect id="Rectangle-2" x="0" y="0" width="36" height="36"></rect>
+        <g id="Group-62" transform="translate(8.000000, 8.000000)">
+          <g id="Rectangle">
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <rect stroke="#97A4B6" stroke-width="1" x="0.5" y="13.5" width="19" height="6" rx="1"></rect>
+          </g>
+          <g id="Rectangle">
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <rect stroke="#97A4B6" stroke-width="1" x="2.5" y="10.5" width="15" height="3" rx="1"></rect>
+          </g>
+          <g id="Combined-Shape">
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+            <path stroke="#97A4B6" stroke-width="1" d="M12.9833443,13.5 L6.99783267,13.5 L6.99783267,8.00223863 L6.99783267,7.50223863 L6.49783267,7.50223863 L3.78989343,7.50223863 L9.71325327,0.783653732 C9.88031864,0.59415944 10.1207233,0.594244445 10.2876448,0.783614994 L16.2098056,7.50223863 L13.4833443,7.50223863 L12.9833443,7.50223863 L12.9833443,8.00223863 L12.9833443,13.5 Z"></path>
+          </g>
+          <rect id="Rectangle-37" fill="#97A4B6" x="7" y="16" width="6" height="1" rx="0.5"></rect>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

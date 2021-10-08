@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+  <title>icon7_v2</title>
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <circle id="path-1" cx="25" cy="25" r="25"></circle>
+  </defs>
+  <g id="0425---stepbar-by-mm" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="进度条-v6" transform="translate(-311.000000, -79.000000)">
+      <g id="content" transform="translate(240.000000, 60.000000)">
+        <g id="top">
+          <g id="StepBar" transform="translate(61.000000, 14.000000)">
+            <g id="Group-5" transform="translate(10.000000, 5.000000)">
+              <g id="Oval">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <circle stroke-opacity="0.5" stroke="#3C73B9" stroke-width="1" cx="25" cy="25" r="24.5"></circle>
+              </g>
+              <g id="Group-11" transform="translate(5.000000, 5.000000)">
+                <path d="M17.4784193,28.6135001 C17.1965065,28.6135001 16.9205688,28.5054674 16.7045034,28.2954966 L9.31943753,20.9104308 C8.89352082,20.4845141 8.89352082,19.7946103 9.31943753,19.3685741 C9.74547374,18.9426574 10.435258,18.9426574 10.8611747,19.3685741 L17.4724441,25.9798434 L31.1388253,12.3194375 C31.564742,11.8935208 32.2546458,11.8935208 32.6805625,12.3194375 C33.1064792,12.7454737 33.1064792,13.4353775 32.6805625,13.8612942 L18.2463601,28.2954966 C18.0363893,28.5054674 17.7544765,28.6135001 17.4784193,28.6135001" id="Fill-1" fill="#3C73B9"></path>
+                <rect id="Rectangle-2" x="0" y="0" width="40" height="40"></rect>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

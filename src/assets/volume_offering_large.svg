@@ -1,0 +1,28 @@
+
+<svg width="62px" height="61px" viewBox="842 372 62 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <path d="M0.300710829,20.9786751 C0.686917574,9.39247279 10.4079804,0 22.0061566,0 L39.9938434,0 C51.5952233,0 61.3129775,9.38932566 61.6992892,20.9786751 L62,30 L61.6992892,39.0213249 C61.3130824,50.6075272 51.5920196,60 39.9938434,60 L22.0061566,60 C10.4047767,60 0.687022478,50.6106743 0.300710829,39.0213249 L0,30 L0.300710829,20.9786751 Z" id="path-1"></path>
+    <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="62" height="60" fill="white">
+      <use xlink:href="#path-1"></use>
+    </mask>
+    <path d="M23.9744061,9.03809385 C27.361366,9.39855993 30,12.2725657 30,15.75 C30,19.4779221 26.9688472,22.5 23.2543495,22.5 L19.1181791,22.5 L6.00929216,22.5 C2.69045174,22.5 0,19.8069658 0,16.5 C0,13.6899708 1.92807544,11.3311211 4.54367942,10.6789588 C4.51477951,10.3731972 4.5,10.0633246 4.5,9.75 C4.5,4.36522369 8.86522369,0 14.25,0 C19.3953608,0 23.6098152,3.98568369 23.9744061,9.03809385 Z" id="path-3"></path>
+    <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="30" height="22.5" fill="white">
+      <use xlink:href="#path-3"></use>
+    </mask>
+    <ellipse id="path-5" cx="12.5" cy="15.5" rx="3.5" ry="3.5"></ellipse>
+    <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="7" height="7" fill="white">
+      <use xlink:href="#path-5"></use>
+    </mask>
+  </defs>
+  <g id="Group-41" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(842.000000, 372.000000)">
+    <use id="Rectangle-11" stroke="#97A4B6" mask="url(#mask-2)" stroke-width="2" fill="#FAFDFF" xlink:href="#path-1"></use>
+    <g id="Group-51" transform="translate(16.000000, 19.000000)">
+      <use id="Combined-Shape" stroke="#97A4B6" mask="url(#mask-4)" stroke-width="2" xlink:href="#path-3"></use>
+      <rect id="Rectangle-12-Copy-2" fill="#97A4B6" transform="translate(8.000000, 15.500000) scale(1, -1) translate(-8.000000, -15.500000) " x="6" y="15" width="4" height="1" rx="0.5"></rect>
+      <rect id="Rectangle-12-Copy-2" fill="#97A4B6" transform="translate(19.500000, 15.500000) scale(1, -1) translate(-19.500000, -15.500000) " x="15" y="15" width="9" height="1" rx="0.5"></rect>
+      <use id="Oval-5" stroke="#97A4B6" mask="url(#mask-6)" stroke-width="2" fill-opacity="0.39770154" fill="#97A4B6" xlink:href="#path-5"></use>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="60px" viewBox="0 0 62 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+  <title>Group 156</title>
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <path d="M0.300710829,20.9786751 C0.686917574,9.39247279 10.4079804,0 22.0061566,0 L39.9938434,0 C51.5952233,0 61.3129775,9.38932566 61.6992892,20.9786751 L62,30 L61.6992892,39.0213249 C61.3130824,50.6075272 51.5920196,60 39.9938434,60 L22.0061566,60 C10.4047767,60 0.687022478,50.6106743 0.300710829,39.0213249 L0,30 L0.300710829,20.9786751 Z" id="path-1"></path>
+    <circle id="path-2" cx="6.5" cy="15.5" r="6.5"></circle>
+  </defs>
+  <g id="UI-KIT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="*图标" transform="translate(-665.000000, -1290.000000)">
+      <g id="Group-156" transform="translate(665.000000, 1290.000000)">
+        <g id="Rectangle-11-Copy">
+          <use fill="#FAFDFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+          <path stroke="#97A4B6" stroke-width="1" d="M0.800433282,20.9953326 L0.499722453,29.9833426 L0.800433282,39.0046674 C1.17772202,50.3233297 10.6732548,59.5 22.0061566,59.5 L39.9938434,59.5 C51.3235597,59.5 60.8223835,50.3201644 61.1995667,39.0046674 L61.5002775,30.0166574 L61.1995667,20.9953326 C60.822278,9.67667031 51.3267452,0.5 39.9938434,0.5 L22.0061566,0.5 C10.6764403,0.5 1.17761651,9.67983562 0.800433282,20.9953326 Z"></path>
+        </g>
+        <g id="Group-153" transform="translate(16.000000, 15.000000)">
+          <circle id="Oval-19" stroke="#97A4B6" cx="20.5" cy="4.5" r="4"></circle>
+          <circle id="Oval-19" stroke="#97A4B6" cx="24" cy="24" r="5.5"></circle>
+          <polygon id="Rectangle-38-Copy" fill="#97A4B6" transform="translate(13.992465, 8.870912) rotate(55.000000) translate(-13.992465, -8.870912) " points="13.4924646 5.19843395 14.4924646 5.19843395 14.4924646 12.5433902 13.4924646 12.5433902"></polygon>
+          <polygon id="Rectangle-38-Copy" fill="#97A4B6" transform="translate(15.263759, 20.922067) scale(1, -1) rotate(64.000000) translate(-15.263759, -20.922067) " points="14.7637588 16.9220672 15.7637588 16.9220672 15.7637588 24.9220672 14.7637588 24.9220672"></polygon>
+          <g id="Oval-19-Copy">
+            <use fill-opacity="0.39770154" fill="#97A4B6" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <circle stroke="#97A4B6" stroke-width="1" cx="6.5" cy="15.5" r="6"></circle>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

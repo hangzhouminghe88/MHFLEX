@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+  <title>Group 161</title>
+  <desc>Created with Sketch.</desc>
+  <defs></defs>
+  <g id="UI-KIT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="*图标" transform="translate(-839.000000, -1130.000000)">
+      <g id="Group-161" transform="translate(839.000000, 1130.000000)">
+        <rect id="Rectangle-2" x="0" y="0" width="36" height="36"></rect>
+        <g id="Group-160" transform="translate(8.000000, 8.000000)">
+          <path d="M0.5,15.5 L19.5,15.5 L19.5,10.0029293 C19.5,9.71748762 19.2832614,9.5 19.0081969,9.5 L0.99180311,9.5 C0.72793399,9.5 0.5,9.7286975 0.5,10.0029293 L0.5,15.5 Z" id="Rectangle" stroke="#97A4B6"></path>
+          <rect id="Rectangle-37" fill="#97A4B6" x="4" y="12" width="1" height="1"></rect>
+          <rect id="Rectangle-37" fill="#97A4B6" x="7" y="12" width="1" height="1"></rect>
+          <rect id="Rectangle-37" fill="#97A4B6" x="12" y="12" width="4" height="1"></rect>
+          <path d="M0.5,15.5 L0.5,19.0001925 C0.5,19.2793847 0.719442199,19.5 0.99180311,19.5 L19.0081969,19.5 C19.2724156,19.5 19.5,19.2723641 19.5,19.0001925 L19.5,15.5 L0.5,15.5 Z" id="Rectangle-37-Copy-2" stroke="#97A4B6"></path>
+          <path d="M6,7 C6,4.791 7.791,3 10,3 C12.209,3 14,4.791 14,7 L13,7 C13,5.343 11.657,4 10,4 C8.343,4 7,5.343 7,7 L6,7 Z" id="Fill-1" fill="#97A4B6"></path>
+          <path d="M16,7 C16,3.687 13.313,1 10,1 C6.687,1 4,3.687 4,7 L3,7 C3,3.134 6.134,0 10,0 C13.866,0 17,3.134 17,7 L16,7 Z" id="Fill-3" fill="#97A4B6"></path>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

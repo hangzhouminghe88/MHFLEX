@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+  <title>Group 147</title>
+  <desc>Created with Sketch.</desc>
+  <defs></defs>
+  <g id="UI-KIT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="*图标" transform="translate(-839.000000, -1032.000000)">
+      <rect id="Rectangle-2" x="839" y="1032" width="36" height="36"></rect>
+      <g id="Group-146" transform="translate(847.000000, 1040.000000)">
+        <path d="M10,0.577350269 L1.83974596,5.28867513 L1.83974596,14.7113249 L10,19.4226497 L18.160254,14.7113249 L18.160254,5.28867513 L10,0.577350269 Z" id="Polygon" stroke="#97A4B6"></path>
+        <circle id="Oval-26" stroke="#97A4B6" cx="10" cy="10" r="4.5"></circle>
+        <circle id="Oval-9" fill="#97A4B6" cx="10" cy="10" r="1"></circle>
+      </g>
+    </g>
+  </g>
+</svg>

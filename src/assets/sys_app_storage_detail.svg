@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>sys_app_storage_detail</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#A2CFFF" offset="0%"></stop>
+            <stop stop-color="#84C0FF" offset="100%"></stop>
+        </linearGradient>
+        <ellipse id="path-2" cx="30.8" cy="43.4" rx="30.8" ry="12.6"></ellipse>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#D3E8FF" offset="0%"></stop>
+            <stop stop-color="#C0DEFF" offset="100%"></stop>
+        </linearGradient>
+        <ellipse id="path-4" cx="30.8" cy="28" rx="30.8" ry="12.6"></ellipse>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#E7F2FF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <ellipse id="path-6" cx="30.8" cy="12.6" rx="30.8" ry="12.6"></ellipse>
+    </defs>
+    <g id="应用中心" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sys_app_storage_detail">
+            <rect id="Rectangle-11" x="0" y="0" width="70" height="70"></rect>
+            <g id="Group-9-Copy" transform="translate(4.200000, 7.000000)">
+                <g id="Oval-Copy-2">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <ellipse stroke="#A0CEFF" stroke-width="1.4" cx="30.8" cy="43.4" rx="30.1" ry="11.9"></ellipse>
+                </g>
+                <g id="Oval-Copy-2">
+                    <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <ellipse stroke="#D5E9FF" stroke-width="1.4" cx="30.8" cy="28" rx="30.1" ry="11.9"></ellipse>
+                </g>
+                <g id="Oval">
+                    <use fill="url(#linearGradient-5)" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    <ellipse stroke="#FFFFFF" stroke-width="1.4" cx="30.8" cy="12.6" rx="30.1" ry="11.9"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+

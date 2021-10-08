@@ -1,0 +1,52 @@
+{
+  "ZStack/VM": {
+    "detailPage": "detailVm",
+    "path": "vm-instances",
+    "tableName": "vm"
+  },
+  "ZStack/LoadBalancer": {
+    "detailPage": "detailloadbalancerlistener",
+    "path": "load-balancers/listeners",
+    "tableName": "loadBalancerListener"
+  },
+  "ZStack/VRouter": {
+    "detailPage": "detailvirturalrouter",
+    "path": "vm-instances/appliances/virtual-routers",
+    "tableName": "vm"
+  },
+  "ZStack/Image": {
+    "detailPage": "detailImage",
+    "path": "images",
+    "tableName": "image"
+  },
+  "ZStack/BackupStorage": {
+    "detailPage": "detailbackupstorage",
+    "path": "backup-storage",
+    "tableName": "backupstorage"
+  },
+  "ZStack/Host": {
+    "detailPage": "detailHost",
+    "path": "hosts",
+    "tableName": "host"
+  },
+  "ZStack/L3Network": {
+    "detailPage": "detaill3network",
+    "path": "l3-networks",
+    "tableName": "l3network"
+  },
+  "ZStack/Volume": {
+    "detailPage": "detailVolume",
+    "path": "volumes",
+    "tableName": "volume"
+  },
+  "ZStack/VIP": {
+    "detailPage": "detialvip",
+    "path": "vips",
+    "tableName": "vip"
+  },
+  "ZStack/PrimaryStorage": {
+    "detailPage": "detailprimarystorage",
+    "path": "primary-storage",
+    "tableName": "primarystorage"
+  }
+}

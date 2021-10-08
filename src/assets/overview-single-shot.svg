@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="3px" viewBox="0 0 50 3" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+  <title>Group 26</title>
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <linearGradient x1="17.8652344%" y1="100%" x2="100%" y2="100%" id="linearGradient-1">
+      <stop stop-color="#57EFFF" offset="0%"></stop>
+      <stop stop-color="#2CDAFF" stop-opacity="0" offset="100%"></stop>
+    </linearGradient>
+  </defs>
+  <g id="大屏" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Group-26">
+      <path d="M50,1.5 C50,1.77614237 49.7761424,2 49.5,2 L0.5,2 C0.223857625,2 0,1.77614237 0,1.5 C0,1.22385763 0.223857625,1 0.5,1 L49.5,1 C49.7761424,1 50,1.22385763 50,1.5 Z" id="Rectangle-16" fill="url(#linearGradient-1)"></path>
+      <polygon id="Rectangle-15" fill="#2CDAFF" points="0 3 0 0 21 0 21 3"></polygon>
+    </g>
+  </g>
+</svg>

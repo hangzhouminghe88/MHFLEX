@@ -1,0 +1,294 @@
+{
+	"vm": {
+		"CPUAverageUsedUtilization": {
+			"index": 0,
+			"namespace": "ZStack/VM",
+			"name": "CPUAverageUsedUtilization",
+			"unit": "percent"
+		},
+		"DiskAllReadOps": {
+			"index": 1,
+			"namespace": "ZStack/VM",
+			"name": "DiskAllReadOps",
+			"unit": "ops"
+		},
+		"DiskAllWriteOps": {
+			"index": 2,
+			"namespace": "ZStack/VM",
+			"name": "DiskAllWriteOps",
+			"unit": "ops"
+		},
+		"DiskAllReadBytes": {
+			"index": 3,
+			"namespace": "ZStack/VM",
+			"name": "DiskAllReadBytes",
+			"unit": "bytes"
+		},
+		"DiskAllWriteBytes": {
+			"index": 4,
+			"namespace": "ZStack/VM",
+			"name": "DiskAllWriteBytes",
+			"unit": "bytes"
+		},
+		"NetworkInBytes": {
+			"index": 5,
+			"namespace": "ZStack/VM",
+			"name": "NetworkInBytes",
+			"unit": "bytes"
+		},
+		"NetworkInPackets": {
+			"index": 6,
+			"namespace": "ZStack/VM",
+			"name": "NetworkInPackets",
+			"unit": "pps"
+		},
+		"NetworkInErrors": {
+			"index": 7,
+			"namespace": "ZStack/VM",
+			"name": "NetworkInErrors",
+			"unit": "count"
+		},
+		"NetworkOutPackets": {
+			"index": 8,
+			"namespace": "ZStack/VM",
+			"name": "NetworkOutPackets",
+			"unit": "pps"
+		},
+		"NetworkOutErrors": {
+			"index": 9,
+			"namespace": "ZStack/VM",
+			"name": "NetworkOutErrors",
+			"unit": "count"
+		},
+		"MemoryUsedInPercent": {
+			"index": 10,
+			"namespace": "ZStack/VM",
+			"name": "MemoryUsedInPercent",
+			"unit": "percent"
+		},
+		"NetworkOutBytes": {
+			"index": 11,
+			"namespace": "ZStack/VM",
+			"name": "NetworkOutBytes",
+			"unit": "bytes"
+		},
+		"MemoryFreeInPercent": {
+			"index": 12,
+			"namespace": "ZStack/VM",
+			"name": "MemoryFreeInPercent",
+			"unit": "percent"
+		}
+	},
+	"vrouter": {
+		"CPUAverageUsedUtilization": {
+			"index": 0,
+			"namespace": "ZStack/VM",
+			"name": "CPUAverageUsedUtilization",
+			"unit": "percent"
+		},
+		"DiskAllReadOps": {
+			"index": 1,
+			"namespace": "ZStack/VM",
+			"name": "DiskAllReadOps",
+			"unit": "ops"
+		},
+		"DiskAllWriteOps": {
+			"index": 2,
+			"namespace": "ZStack/VM",
+			"name": "DiskAllWriteOps",
+			"unit": "ops"
+		},
+		"DiskAllReadBytes": {
+			"index": 3,
+			"namespace": "ZStack/VM",
+			"name": "DiskAllReadBytes",
+			"unit": "bytes"
+		},
+		"DiskAllWriteBytes": {
+			"index": 4,
+			"namespace": "ZStack/VM",
+			"name": "DiskAllWriteBytes",
+			"unit": "bytes"
+		},
+		"NetworkInBytes": {
+			"index": 5,
+			"namespace": "ZStack/VM",
+			"name": "NetworkInBytes",
+			"unit": "bytes"
+		},
+		"NetworkInPackets": {
+			"index": 6,
+			"namespace": "ZStack/VM",
+			"name": "NetworkInPackets",
+			"unit": "pps"
+		},
+		"NetworkInErrors": {
+			"index": 7,
+			"namespace": "ZStack/VM",
+			"name": "NetworkInErrors",
+			"unit": "count"
+		},
+		"NetworkOutPackets": {
+			"index": 8,
+			"namespace": "ZStack/VM",
+			"name": "NetworkOutPackets",
+			"unit": "pps"
+		},
+		"NetworkOutErrors": {
+			"index": 9,
+			"namespace": "ZStack/VM",
+			"name": "NetworkOutErrors",
+			"unit": "count"
+		},
+		"MemoryUsedInPercent": {
+			"index": 10,
+			"namespace": "ZStack/VM",
+			"name": "MemoryUsedInPercent",
+			"unit": "percent"
+		},
+		"NetworkOutBytes": {
+			"index": 11,
+			"namespace": "ZStack/VM",
+			"name": "NetworkOutBytes",
+			"unit": "bytes"
+		},
+		"MemoryFreeInPercent": {
+			"index": 12,
+			"namespace": "ZStack/VM",
+			"name": "MemoryFreeInPercent",
+			"unit": "percent"
+		}
+	},
+	"host": {
+		"MemoryUsedInPercent": {
+			"index": 0,
+			"namespace": "ZStack/Host",
+			"name": "MemoryUsedInPercent",
+			"unit": "percent"
+		},
+		"DiskAllReadOps": {
+			"index": 1,
+			"namespace": "ZStack/Host",
+			"name": "DiskAllReadOps",
+			"unit": "ops"
+		},
+		"DiskAllWriteOps": {
+			"index": 2,
+			"namespace": "ZStack/Host",
+			"name": "DiskAllWriteOps",
+			"unit": "ops"
+		},
+		"DiskAllReadBytes": {
+			"index": 3,
+			"namespace": "ZStack/Host",
+			"name": "DiskAllReadBytes",
+			"unit": "bytes"
+		},
+		"DiskAllWriteBytes": {
+			"index": 4,
+			"namespace": "ZStack/Host",
+			"name": "DiskAllWriteBytes",
+			"unit": "bytes"
+		},
+		"NetworkInBytes": {
+			"index": 5,
+			"namespace": "ZStack/Host",
+			"name": "NetworkInBytes",
+			"unit": "bytes"
+		},
+		"NetworkInPackets": {
+			"index": 6,
+			"namespace": "ZStack/Host",
+			"name": "NetworkInPackets",
+			"unit": "pps"
+		},
+		"NetworkInErrors": {
+			"index": 7,
+			"namespace": "ZStack/Host",
+			"name": "NetworkInErrors",
+			"unit": "count"
+		},
+		"NetworkOutBytes": {
+			"index": 8,
+			"namespace": "ZStack/Host",
+			"name": "NetworkOutBytes",
+			"unit": "bytes"
+		},
+		"NetworkOutPackets": {
+			"index": 9,
+			"namespace": "ZStack/Host",
+			"name": "NetworkOutPackets",
+			"unit": "pps"
+		},
+		"NetworkOutErrors": {
+			"index": 10,
+			"namespace": "ZStack/Host",
+			"name": "NetworkOutErrors",
+			"unit": "count"
+		},
+		"DiskAllUsedCapacityInPercent": {
+			"index": 11,
+			"namespace": "ZStack/Host",
+			"name": "DiskAllUsedCapacityInPercent",
+			"unit": "percent"
+		},
+		"CPUAllUsedUtilization": {
+			"index": 12,
+			"namespace": "ZStack/Host",
+			"name": "CPUAllUsedUtilization",
+			"unit": "percent"
+		}
+	},
+	"l3network": {
+		"UsedIPInPercent": {
+			"index": 0,
+			"namespace": "ZStack/L3Network",
+			"name": "UsedIPInPercent",
+			"unit": "percent"
+		},
+		"UsedIPCount": {
+			"index": 1,
+			"namespace": "ZStack/L3Network",
+			"name": "UsedIPCount",
+			"unit": "count"
+		},
+		"AvailableIPInPercent": {
+			"index": 0,
+			"namespace": "ZStack/L3Network",
+			"name": "AvailableIPInPercent",
+			"unit": "percent"
+		},
+		"AvailableIPCount": {
+			"index": 1,
+			"namespace": "ZStack/L3Network",
+			"name": "AvailableIPCount",
+			"unit": "count"
+		}
+	},
+	"vip": {
+		"VIPInBoundTrafficInBytes": {
+			"index": 0,
+			"namespace": "ZStack/VIP",
+			"name": "VIPInBoundTrafficInBytes",
+			"unit": "bytes"
+		},
+		"VIPInBoundTrafficInPackages": {
+			"index": 1,
+			"namespace": "ZStack/VIP",
+			"name": "VIPInBoundTrafficInPackages",
+			"unit": "pps"
+		},
+		"VIPOutBoundTrafficInBytes": {
+			"index": 2,
+			"namespace": "ZStack/VIP",
+			"name": "VIPOutBoundTrafficInBytes",
+			"unit": "bytes"
+		},
+		"VIPOutBoundTrafficInPackages": {
+			"index": 3,
+			"namespace": "ZStack/VIP",
+			"name": "VIPOutBoundTrafficInPackages",
+			"unit": "pps"
+		}
+	}
+}

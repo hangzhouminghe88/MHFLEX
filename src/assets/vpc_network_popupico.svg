@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+  <title>Group 161</title>
+  <desc>Created with Sketch.</desc>
+  <defs></defs>
+  <g id="UI-KIT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="*图标" transform="translate(-679.000000, -1100.000000)">
+      <g id="Group-154" transform="translate(679.000000, 1100.000000)">
+        <rect id="Rectangle-2" x="0" y="0" width="36" height="36"></rect>
+        <g id="Group-153-Copy" transform="translate(8.000000, 8.000000)">
+          <circle id="Oval-19" stroke="#97A4B6" cx="13.6666667" cy="3" r="2.5"></circle>
+          <circle id="Oval-19" stroke="#97A4B6" cx="16" cy="16" r="3.5"></circle>
+          <polygon id="Rectangle-38-Copy" fill="#97A4B6" transform="translate(9.319720, 6.148311) rotate(55.000000) translate(-9.319720, -6.148311) " points="8.81972049 3.14831149 9.81972049 3.14831149 9.81972049 9.14831149 8.81972049 9.14831149"></polygon>
+          <polygon id="Rectangle-38-Copy" fill="#97A4B6" transform="translate(10.031210, 13.816657) scale(1, -1) rotate(64.000000) translate(-10.031210, -13.816657) " points="9.53120963 10.8166566 10.5312096 10.8166566 10.5312096 16.8166566 9.53120963 16.8166566"></polygon>
+          <circle id="Oval-19-Copy" stroke="#97A4B6" cx="4.33333333" cy="10.3333333" r="3.83333333"></circle>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

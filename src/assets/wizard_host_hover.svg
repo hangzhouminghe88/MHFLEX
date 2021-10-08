@@ -1,0 +1,29 @@
+
+<svg width="62px" height="61px" viewBox="0 0 62 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <rect id="path-1" x="0" y="17" width="30" height="10" rx="1"></rect>
+  </defs>
+  <g id="wizard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="wizard_状态" transform="translate(-679.000000, -414.000000)">
+      <g id="Group-63" transform="translate(679.000000, 414.000000)">
+        <path d="M0.300710829,20.9786751 C0.686917574,9.39247279 10.4079804,0 22.0061566,0 L39.9938434,0 C51.5952233,0 61.3129775,9.38932566 61.6992892,20.9786751 L62,30 L61.6992892,39.0213249 C61.3130824,50.6075272 51.5920196,60 39.9938434,60 L22.0061566,60 C10.4047767,60 0.687022478,50.6106743 0.300710829,39.0213249 L0,30 L0.300710829,20.9786751 Z" id="Rectangle-11"></path>
+        <g id="Group-61" transform="translate(16.000000, 17.000000)">
+          <rect id="Rectangle-4" stroke="#007FDF" x="0.5" y="0.5" width="29" height="26" rx="1"></rect>
+          <g id="Rectangle-8">
+            <use fill="#E0F3FF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <rect stroke="#007FDF" stroke-width="1" x="0.5" y="17.5" width="29" height="9" rx="1"></rect>
+          </g>
+          <path d="M1,9 L29,9" id="Path-Copy-2" stroke="#007FDF" stroke-linecap="round" stroke-linejoin="round"></path>
+          <rect id="Rectangle-5" fill="#007FDF" x="4.5" y="3.75" width="1.5" height="1.5"></rect>
+          <rect id="Rectangle-5-Copy-2" fill="#007FDF" x="7.5" y="3.75" width="1.5" height="1.5"></rect>
+          <rect id="Rectangle-5" fill="#007FDF" x="4.5" y="12" width="1.5" height="1.5"></rect>
+          <rect id="Rectangle-5-Copy-2" fill="#007FDF" x="7.5" y="12" width="1.5" height="1.5"></rect>
+          <rect id="Rectangle-5" fill="#007FDF" x="4.5" y="21" width="1.5" height="1.5"></rect>
+          <rect id="Rectangle-5-Copy-2" fill="#007FDF" x="7.5" y="21" width="1.5" height="1.5"></rect>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,251 @@
+{
+	"VmInstance": {
+		"dialogName": "VmInstanceMultiSelectListDlg",
+		"page": "src/dialog/vm/VmInstanceMultiSelectListDlg",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [
+			"status!=Deleted"
+		],
+		"dbTable": "vm"
+	},
+	"DataVolume": {
+		"dialogName": "VolumeSingleSelectListDlg",
+		"page": "windows/Volume/dialogs/SingleSelectList",
+		"mode": "none",
+		"param": "",
+		"conditions": [
+			"status!=Deleted"
+		],
+		"dbTable": "volume"
+	},
+	"Image": {
+		"dialogName": "",
+		"page": "windows/Image/dialogs/MultiSelectListConfirm",
+		"mode": "panel",
+		"param": {
+			"imageType": "DataVolumeTemplate"
+		},
+		"conditions": [
+			"status!=Deleted"
+		],
+		"dbTable": "image"
+	},
+	"AffinityGroup": {
+		"dialogName": "AffinityGroupListSingleSelectList",
+		"page": "windows/AffinityGroup/dialogs/SingleSelectList",
+		"mode": "none",
+		"param": "",
+		"conditions": [],
+		"dbTable": "affinitygroup"
+	},
+	"InstanceOffering": {
+		"page": "windows/InstanceOffering/dialogs/SingleSelectList",
+		"mode": "none",
+		"param": "",
+		"conditions": [],
+		"dbTable": "instanceOffering"
+	},
+	"DiskOffering": {
+		"dialogName": "",
+		"page": "windows/VolumeOffering/dialogs/MultiSelectListConfirm",
+		"mode": "panel",
+		"param": "",
+		"conditions": [],
+		"dbTable": "volumeoffering"
+	},
+	"Zone": {
+		"dialogName": "",
+		"page": "windows/Zone/dialogs/MultiSelectListConfirm",
+		"mode": "panel",
+		"param": "",
+		"conditions": [],
+		"dbTable": "zone"
+	},
+	"Cluster": {
+		"dialogName": "ClusterListSingleSelectList",
+		"page": "windows/Cluster/dialogs/SingleSelectList",
+		"mode": "none",
+		"param": "",
+		"conditions": [],
+		"dbTable": "cluster"
+	},
+	"Host": {
+		"dialogName": "HostListMultiSelectDlg",
+		"page": "windows/Host/dialogs/MultiSelectList",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [],
+		"dbTable": "host"
+	},
+	"PrimaryStorage": {
+		"dialogName": "PrimaryStorageListSingleSelectList",
+		"page": "windows/PrimaryStorage/dialogs/SingleSelectList",
+		"mode": "none",
+		"param": "",
+		"conditions": [],
+		"dbTable": "primarystorage"
+	},
+	"BackupStorage": {
+		"dialogName": "BackupStorageListMultiSelectListDlg",
+		"page": "windows/BackupStorage/dialogs/MultiSelectList",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [],
+		"dbTable": "backupstorage"
+	},
+	"L2Network": {
+		"dialogName": "L2NetworkSingleSelectListDlg",
+		"page": "windows/L2Network/dialogs/SingleSelectList",
+		"mode": "none",
+		"param": "",
+		"conditions": [],
+		"dbTable": "l2network"
+	},
+	"L3Network": {
+		"dialogName": "PrivateAndPublicL3NetworkMultiSelectListDlg",
+		"page": "windows/L3Network/dialogs/PrivateAndPublicL3NetworkMultiSelectList",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [],
+		"dbTable": "l3network"
+	},
+	"VirtualRouter": {
+		"dialogName": "VirtualRouterListMultiSelectDlg",
+		"page": "windows/VirtualRouter/dialogs/MultiSelectList",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [],
+		"dbTable": "vm"
+	},
+	"VirtualRouterOffering": {
+		"dialogName": "VirtualRouterInstanceOfferingListSingleSelectDlg",
+		"page": "windows/VirtualRouterOffering/dialogs/SingleSelectList",
+		"mode": "none",
+		"param": "",
+		"conditions": [],
+		"dbTable": "instanceOffering"
+	},
+	"VRouterRouteTable": {
+		"page": "windows/VRouterRouteTable/dialogs/SingleSelectList",
+		"mode": "none",
+		"param": "",
+		"conditions": [],
+		"dbTable": "vRouterRouteTable"
+	},
+	"VpcVRouter": {
+		"dialogName": "VpcVRouterMultiSelectListDlg",
+		"page": "windows/VpcVRouter/dialogs/MultiSelectList",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [],
+		"dbTable": "vm"
+	},
+	"SecurityGroup": {
+		"dialogName": "SecurityGroupMultiSelectListConfirmDlg",
+		"page": "windows/SecurityGroup/dialogs/MultiSelectList",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [],
+		"dbTable": "securitygroup"
+	},
+	"SecurityGroupRule": {
+		"page": "windows/SecurityGroup/dialogs/RuleSingleSelectList",
+		"mode": "none",
+		"param": "",
+		"conditions": [],
+		"dbTable": ""
+	},
+	"PortForwardingRule": {
+		"page": "windows/PortForwarding/dialogs/RuleSingleSelectList",
+		"mode": "none",
+		"param": "",
+		"conditions": [],
+		"dbTable": ""
+	},
+	"Vip": {
+		"dialogName": "VIPMultiSelectList",
+		"page": "windows/Vip/dialogs/MultiSelectList",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [],
+		"dbTable": "vip"
+	},
+	"Eip": {
+		"dialogName": "",
+		"page": "windows/Eip/dialogs/SingleSelectList",
+		"mode": "none",
+		"param": "",
+		"conditions": [],
+		"dbTable": "eip"
+	},
+	"PortForwarding": {
+		"dialogName": "",
+		"page": "windows/PortForwarding/dialogs/SingleSelectList",
+		"mode": "none",
+		"param": "",
+		"conditions": [],
+		"dbTable": "portforwarding"
+	},
+	"LoadBalancer": {
+		"page": "windows/LoadBalancer/dialogs/SingleSelectList",
+		"mode": "none",
+		"param": "",
+		"conditions": [],
+		"dbTable": "loadBalancer"
+	},
+	"LoadBalancerListener": {
+		"dialogName": "",
+		"page": "windows/LoadBalancerListener/dialogs/SingleSelectList",
+		"mode": "none",
+		"param": "",
+		"conditions": [],
+		"dbTable": "loadBalancerListener"
+	},
+	"IPsecConnection": {
+		"page": "windows/IPsec/dialogs/SingleSelectList",
+		"mode": "none",
+		"param": "",
+		"conditions": [],
+		"dbTable": "ipsec"
+	},
+	"L2VxlanNetworkPool": {
+		"page": "windows/VXLANPool/dialogs/SingleSelectList",
+		"mode": "none",
+		"param": "",
+		"conditions": [],
+		"dbTable": ""
+	},
+	"L2NoVlanNetwork": {
+		"dialogName": "L2NetworkSingleSelectListDlg",
+		"page": "windows/L2Network/dialogs/SingleSelectList",
+		"mode": "none",
+		"param": "",
+		"conditions": [],
+		"dbTable": "l2network"
+	},
+	"L2VlanNetwork": {
+		"dialogName": "L2NetworkSingleSelectListDlg",
+		"page": "windows/L2Network/dialogs/SingleSelectList",
+		"mode": "none",
+		"param": "",
+		"conditions": [],
+		"dbTable": "l2network"
+	},
+	"L2VxlanNetwork": {
+		"dialogName": "L2NetworkSingleSelectListDlg",
+		"page": "windows/L2Network/dialogs/SingleSelectList",
+		"mode": "none",
+		"param": "",
+		"conditions": [],
+		"dbTable": "l2network"
+	},
+	"VniRange": {
+		"dialogName": "",
+		"page": "windows/L2Network/dialogs/VniRangeList",
+		"mode": "none",
+		"param": "",
+		"conditions": [],
+		"dbTable": ""
+	}
+}

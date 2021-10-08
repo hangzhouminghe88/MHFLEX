@@ -1,0 +1,36 @@
+@import './mixins';
+@prefixCls: ~'topMenu';
+.@{prefixCls}{
+  height: 60px;
+  background: #333854;
+  color: #fff;
+  display: inline-block;
+  &-path{
+    display: inline-block;
+    background-color:#333854;
+    color: @primary-color;
+    margin-left: 10pt;
+    .el-menu-item{
+      color: @primary-color;
+      &:focus{
+        background-color: #2d8cf0!important;
+        color: #fff!important;
+      }
+      &:hover{
+        background-color: #2d8cf0!important;
+        color: #fff!important;
+      }
+    }
+
+    >.el-menu-item.is-active{
+      transition: border-bottom 0.5s ease-in-out 0s;
+      color: @blue-color;
+      &:hover{
+        color: #fff!important;
+      }
+      &:focus{
+        color: #fff!important;
+      }
+    }
+  }
+}

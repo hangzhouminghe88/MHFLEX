@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="60px" viewBox="0 0 62 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>vxlanpool_ico</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.300710829,20.9786751 C0.686917574,9.39247279 10.4079804,0 22.0061566,0 L39.9938434,0 C51.5952233,0 61.3129775,9.38932566 61.6992892,20.9786751 L62,30 L61.6992892,39.0213249 C61.3130824,50.6075272 51.5920196,60 39.9938434,60 L22.0061566,60 C10.4047767,60 0.687022478,50.6106743 0.300710829,39.0213249 L0,30 L0.300710829,20.9786751 Z" id="path-1"></path>
+        <circle id="path-2" cx="13.5" cy="8.5" r="8.5"></circle>
+    </defs>
+    <g id="*图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1099.000000, -1379.000000)">
+        <g id="vxlanpool_ico" transform="translate(1099.000000, 1379.000000)">
+            <g id="Rectangle-11-Copy-3">
+                <use fill="#FAFDFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <path stroke="#97A4B6" stroke-width="1" d="M0.800433282,20.9953326 L0.499722453,29.9833426 L0.800433282,39.0046674 C1.17772202,50.3233297 10.6732548,59.5 22.0061566,59.5 L39.9938434,59.5 C51.3235597,59.5 60.8223835,50.3201644 61.1995667,39.0046674 L61.5002775,30.0166574 L61.1995667,20.9953326 C60.822278,9.67667031 51.3267452,0.5 39.9938434,0.5 L22.0061566,0.5 C10.6764403,0.5 1.17761651,9.67983562 0.800433282,20.9953326 Z"></path>
+            </g>
+            <g id="Group-187" transform="translate(18.000000, 15.000000)">
+                <g id="Oval">
+                    <use fill="#D2D9E2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#97A4B6" stroke-width="1" cx="13.5" cy="8.5" r="8"></circle>
+                </g>
+                <circle id="Oval-Copy" stroke="#97A4B6" cx="3.5" cy="20.5" r="3"></circle>
+                <circle id="Oval-Copy-2" stroke="#97A4B6" cx="13.5" cy="26" r="3"></circle>
+                <circle id="Oval-Copy-2" stroke="#97A4B6" cx="23.5" cy="20.5" r="3"></circle>
+                <path d="M13.5,16.5 L13.5,23.25" id="Path-6" stroke="#97A4B6"></path>
+                <path d="M5.7226499,22.4160251 L6.2773501,21.5839749 L10.8915516,24.6601092 L10.3368514,25.4921595 L5.7226499,22.4160251 Z M16.7521097,25.4328521 L16.1974095,24.6008018 L20.7226499,21.5839749 L21.2773501,22.4160251 L16.7521097,25.4328521 Z" id="Path-31" fill="#97A4B6" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
+

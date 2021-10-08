@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+  <title>Group 4 Copy 16</title>
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <circle id="path-1" cx="7" cy="7" r="7"></circle>
+  </defs>
+  <g id="Hybrid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <rect id="Rectangle-2-Copy-5" x="0" y="0" width="36" height="36"></rect>
+    <g id="Group-15-Copy" transform="translate(8.000000, 8.000000)">
+      <circle id="Mask" stroke="#97A4B6" cx="10" cy="10" r="9.5"></circle>
+      <g id="Group-47" transform="translate(3.000000, 3.000000)">
+        <mask id="mask-2" fill="white">
+          <use xlink:href="#path-1"></use>
+        </mask>
+        <circle stroke="#FFFFFF" cx="7" cy="7" r="6.5"></circle>
+        <path d="M15.8380112,15.6069882 L7.36307203,6.65623104 C7.3535973,6.64640503 7.3535973,6.64640503 7.34377129,6.6369303 C7.14325215,6.44707066 6.82678761,6.4557119 6.63692797,6.65623104 L-1.83801116,15.6069882 L15.8380112,15.6069882 Z" id="Rectangle-30" stroke="#97A4B6" mask="url(#mask-2)"></path>
+      </g>
+      <circle id="Mask" stroke="#97A4B6" cx="10" cy="10" r="6.5"></circle>
+    </g>
+  </g>
+</svg>

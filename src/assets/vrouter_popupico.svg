@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+  <title>Group 4 Copy 21</title>
+  <desc>Created with Sketch.</desc>
+  <defs></defs>
+  <g id="Hybrid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Group-107-Copy-2">
+      <rect id="Rectangle-2" x="0" y="0" width="36" height="36"></rect>
+      <g id="Group-106" transform="translate(8.000000, 8.000000)" stroke="#97A4B6">
+        <path d="M8.33333333,8.33333333 L6.11111111,6.11111111 L8.33333333,8.33333333 Z" id="Path-4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <polyline id="Path-5" stroke-linecap="round" stroke-linejoin="round" points="5.44777307 8.59046987 5.46023729 5.46023729 8.6029341 5.46023729"></polyline>
+        <path d="M13.8888889,8.33333333 L11.6666667,6.11111111 L13.8888889,8.33333333 Z" id="Path-4" stroke-linecap="round" stroke-linejoin="round" transform="translate(12.777778, 7.222222) scale(-1, 1) translate(-12.777778, -7.222222) "></path>
+        <polyline id="Path-5" stroke-linecap="round" stroke-linejoin="round" transform="translate(12.974646, 7.025354) scale(-1, 1) translate(-12.974646, -7.025354) " points="11.3970659 8.59046987 11.4095301 5.46023729 14.5522269 5.46023729"></polyline>
+        <path d="M8.33333333,13.8888889 L6.11111111,11.6666667 L8.33333333,13.8888889 Z" id="Path-4" stroke-linecap="round" stroke-linejoin="round" transform="translate(7.222222, 12.777778) scale(1, -1) translate(-7.222222, -12.777778) "></path>
+        <polyline id="Path-5" stroke-linecap="round" stroke-linejoin="round" transform="translate(7.025354, 12.974646) scale(1, -1) translate(-7.025354, -12.974646) " points="5.44777307 14.5397627 5.46023729 11.4095301 8.6029341 11.4095301"></polyline>
+        <path d="M13.8888889,13.8888889 L11.6666667,11.6666667 L13.8888889,13.8888889 Z" id="Path-4" stroke-linecap="round" stroke-linejoin="round" transform="translate(12.777778, 12.777778) scale(-1, -1) translate(-12.777778, -12.777778) "></path>
+        <polyline id="Path-5" stroke-linecap="round" stroke-linejoin="round" transform="translate(12.974646, 12.974646) scale(-1, -1) translate(-12.974646, -12.974646) " points="11.3970659 14.5397627 11.4095301 11.4095301 14.5522269 11.4095301"></polyline>
+        <circle id="Oval-11" cx="10" cy="10" r="9.5"></circle>
+      </g>
+    </g>
+  </g>
+</svg>

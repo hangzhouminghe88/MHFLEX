@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="51px" viewBox="0 0 51 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+  <title>Group 30</title>
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <linearGradient x1="31.4453125%" y1="33.8378906%" x2="57.421875%" y2="99.4257812%" id="linearGradient-1">
+      <stop stop-color="#57EFFF" offset="0%"></stop>
+      <stop stop-color="#2CDAFF" stop-opacity="0" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="38.6523438%" y1="0%" x2="100%" y2="0%" id="linearGradient-2">
+      <stop stop-color="#57EFFF" offset="0%"></stop>
+      <stop stop-color="#2CDAFF" stop-opacity="0" offset="100%"></stop>
+    </linearGradient>
+  </defs>
+  <g id="大屏" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Group-30">
+      <path d="M49.5,50 C49.2238576,50 49,49.7761424 49,49.5 L49,0.5 C49,0.223857625 49.2238576,0 49.5,0 C49.7761424,0 50,0.223857625 50,0.5 L50,49.5 C50,49.7761424 49.7761424,50 49.5,50 Z" id="Combined-Shape" fill="url(#linearGradient-1)" transform="translate(49.500000, 25.000000) scale(-1, -1) translate(-49.500000, -25.000000) "></path>
+      <polygon id="Rectangle-15" fill="#2CDAFF" transform="translate(49.500000, 40.500000) scale(-1, 1) translate(-49.500000, -40.500000) " points="48 51 48 30 51 30 51 51"></polygon>
+      <path d="M50,49.5 C50,49.7761424 49.7761424,50 49.5,50 L0.5,50 C0.223857625,50 0,49.7761424 0,49.5 C0,49.2238576 0.223857625,49 0.5,49 L49.5,49 C49.7761424,49 50,49.2238576 50,49.5 Z" id="Rectangle-16" fill="url(#linearGradient-2)" transform="translate(25.000000, 49.500000) scale(-1, 1) translate(-25.000000, -49.500000) "></path>
+      <polygon id="Rectangle-15" fill="#2CDAFF" transform="translate(40.500000, 49.500000) scale(-1, 1) translate(-40.500000, -49.500000) " points="30 48 51 48 51 51 30 51"></polygon>
+    </g>
+  </g>
+</svg>

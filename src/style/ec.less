@@ -1,0 +1,42 @@
+@prefixCls: ~'ecs-main';
+
+.@{prefixCls} {
+  height: calc(100% - 60px);
+  overflow: hidden;
+
+  a {
+    color: #666;
+  }
+
+  &-path {
+    display: inline-block;
+    width: 140pt;
+    height: 100%;
+
+    .el-icon-tickets{
+      height:56px;
+      line-height: 56px!important;
+    }
+
+  }
+
+  &-content {
+    display: inline-block;
+    position: absolute;
+    width: calc(100% - 140pt);
+    height: calc(100% - 60px);
+    top: 60px;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    background: #f2f2f2 !important;
+  }
+
+  &-enter{
+    transition: width 0.3s ease-in-out;
+  }
+
+  &-leave{
+    transition: width 0.3s ease-out;
+  }
+
+}

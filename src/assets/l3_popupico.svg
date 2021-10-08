@@ -1,0 +1,47 @@
+
+<svg width="36px" height="36px" viewBox="231 328 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <path d="M10.4399414,11.9978027 C12.372938,11.9978027 13.9399414,10.4307994 13.9399414,8.49780273 C13.9399414,6.56480611 12.372938,4.99780273 10.4399414,4.99780273 C8.50694478,4.99780273 6.93994141,6.56480611 6.93994141,8.49780273 C6.93994141,10.4307994 8.50694478,11.9978027 10.4399414,11.9978027 Z" id="path-1"></path>
+    <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="7" height="7" fill="white">
+      <use xlink:href="#path-1"></use>
+    </mask>
+    <path d="M2.5,18 C3.88071187,18 5,16.8807119 5,15.5 C5,14.1192881 3.88071187,13 2.5,13 C1.11928813,13 0,14.1192881 0,15.5 C0,16.8807119 1.11928813,18 2.5,18 Z" id="path-3"></path>
+    <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="5" height="5" fill="white">
+      <use xlink:href="#path-3"></use>
+    </mask>
+    <path d="M15.5,5 C16.8807119,5 18,3.88071187 18,2.5 C18,1.11928813 16.8421377,0 15.4614258,0 C14.0807139,0 13,1.11928813 13,2.5 C13,3.88071187 14.1192881,5 15.5,5 Z" id="path-5"></path>
+    <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="5" height="5" fill="white">
+      <use xlink:href="#path-5"></use>
+    </mask>
+    <circle id="path-7" cx="10.5" cy="16.5" r="2.5"></circle>
+    <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="5" height="5" fill="white">
+      <use xlink:href="#path-7"></use>
+    </mask>
+    <circle id="path-9" cx="17.4142136" cy="14" r="2"></circle>
+    <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="4" height="4" fill="white">
+      <use xlink:href="#path-9"></use>
+    </mask>
+    <path d="M5.23712158,4.36401367 C6.34169108,4.36401367 7.23712158,3.46858317 7.23712158,2.36401367 C7.23712158,1.25944417 6.34169108,0.364013672 5.23712158,0.364013672 C4.13255208,0.364013672 3.23712158,1.25944417 3.23712158,2.36401367 C3.23712158,3.46858317 4.13255208,4.36401367 5.23712158,4.36401367 Z" id="path-11"></path>
+    <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="4" height="4" fill="white">
+      <use xlink:href="#path-11"></use>
+    </mask>
+  </defs>
+  <g id="Group-104" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(231.000000, 328.000000)">
+    <rect id="Rectangle-6" x="0" y="0" width="36" height="36"></rect>
+    <g id="Group-25" transform="translate(8.000000, 9.000000)">
+      <use id="Oval" stroke="#97A4B6" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+      <use id="Oval-Copy" stroke="#97A4B6" mask="url(#mask-4)" stroke-width="2" xlink:href="#path-3"></use>
+      <use id="Oval-Copy-3" stroke="#97A4B6" mask="url(#mask-6)" stroke-width="2" xlink:href="#path-5"></use>
+      <use id="Oval-Copy-2" stroke="#97A4B6" mask="url(#mask-8)" stroke-width="2" xlink:href="#path-7"></use>
+      <use id="Oval-Copy-2" stroke="#97A4B6" mask="url(#mask-10)" stroke-width="2" xlink:href="#path-9"></use>
+      <use id="Oval-Copy-4" stroke="#97A4B6" mask="url(#mask-12)" stroke-width="2" xlink:href="#path-11"></use>
+      <path d="M10.5,11.5 L10.5,14.5" id="Path-6" stroke="#97A4B6"></path>
+      <rect id="Rectangle-15" fill="#97A4B6" transform="translate(6.060660, 12.181981) rotate(-315.000000) translate(-6.060660, -12.181981) " x="5.56066017" y="9.59619408" width="1" height="5.17157288"></rect>
+      <polygon id="Rectangle-15-Copy" fill="#97A4B6" transform="translate(13.239618, 5.031424) rotate(-315.000000) translate(-13.239618, -5.031424) " points="12.7396183 3.73853111 13.7396183 3.73853111 13.7396183 6.32431755 12.7396183 6.32431755"></polygon>
+      <polygon id="Rectangle-15" fill="#97A4B6" transform="translate(14.543222, 11.592247) scale(-1, 1) rotate(-315.000000) translate(-14.543222, -11.592247) " points="14.0432217 9.59224739 15.0432217 9.59224739 15.0432217 13.5922474 14.0432217 13.5922474"></polygon>
+      <polygon id="Rectangle-15-Copy-2" fill="#97A4B6" transform="translate(7.621431, 4.710252) scale(-1, 1) rotate(-315.000000) translate(-7.621431, -4.710252) " points="7.12143097 3.21025162 8.12143097 3.21025162 8.12143097 6.21025162 7.12143097 6.21025162"></polygon>
+    </g>
+  </g>
+</svg>

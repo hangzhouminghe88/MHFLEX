@@ -1,0 +1,123 @@
+{
+	"ZStack/VM": {
+		"VMHAStarted": {
+			"labelNames": [
+				"DestinationHostUuid"
+			],
+			"tags": [],
+			"name": "VMHAStarted",
+			"namespace": "ZStack/VM"
+		},
+		"VMStateChangedOnHost": {
+			"labelNames": [
+				"OldState",
+				"NewState"
+			],
+			"tags": [],
+			"name": "VMStateChangedOnHost",
+			"namespace": "ZStack/VM"
+		}
+	},
+	"ZStack/VRouter": {
+		"VRouterDisconnected": {
+			"labelNames": [
+				"Error"
+			],
+			"tags": [
+				"noLabels"
+			],
+			"name": "VRouterDisconnected",
+			"namespace": "ZStack/VRouter"
+		}
+	},
+	"ZStack/BackupStorage": {
+		"BackupStorageDisconnected": {
+			"labelNames": [
+				"Error"
+			],
+			"tags": [
+				"noLabels"
+			],
+			"name": "BackupStorageDisconnected",
+			"namespace": "ZStack/BackupStorage"
+		}
+	},
+	"ZStack/MN": {
+		"ManagementNodeLeft": {
+			"labelNames": [],
+			"tags": [],
+			"name": "ManagementNodeLeft",
+			"namespace": "ZStack/MN"
+		},
+		"ManagementNodeJoin": {
+			"labelNames": [],
+			"tags": [],
+			"name": "ManagementNodeJoin",
+			"namespace": "ZStack/MN"
+		}
+	},
+	"ZStack/Host": {
+		"HostUnknownVMDetected": {
+			"labelNames": [
+				"UnknownVMIdentity"
+			],
+			"tags": [
+				"noLabels"
+			],
+			"name": "HostUnknownVMDetected",
+			"namespace": "ZStack/Host"
+		},
+		"HostDisconnected": {
+			"labelNames": [
+				"Error"
+			],
+			"tags": [
+				"noLabels"
+			],
+			"name": "HostDisconnected",
+			"namespace": "ZStack/Host"
+		}
+	},
+	"ZStack/PrimaryStorage": {
+		"PrimaryStorageHostDisconnected": {
+			"labelNames": [
+				"Error"
+			],
+			"tags": [
+				"noLabels"
+			],
+			"name": "PrimaryStorageHostDisconnected",
+			"namespace": "ZStack/PrimaryStorage"
+		},
+		"PrimaryStorageDisconnected": {
+			"labelNames": [
+				"Error"
+			],
+			"tags": [
+				"noLabels"
+			],
+			"name": "PrimaryStorageDisconnected",
+			"namespace": "ZStack/PrimaryStorage"
+		},
+		"FaultMountPointOnHost": {
+			"labelNames": [],
+			"tags": [
+				"noLabels"
+			],
+			"name": "FaultMountPointOnHost",
+			"namespace": "ZStack/AliyunNasHost"
+		}
+	},
+	"ZStack/VCenter": {
+		"VCenterHostWrongDateTime": {
+			"labelNames": [
+				"TimeDifferenceInHour"
+			],
+			"tags": [
+				"noLabels"
+			],
+			"name": "VCenterHostWrongDateTime",
+			"namespace": "ZStack/VCenter"
+		}
+	}
+}

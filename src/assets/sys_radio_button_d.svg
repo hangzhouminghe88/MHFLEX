@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>sys_radio button_d</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,2 C6.48,2 2,6.48 2,12 C2,17.52 6.48,22 12,22 C17.52,22 22,17.52 22,12 C22,6.48 17.52,2 12,2 L12,2 Z" id="path-1"></path>
+    </defs>
+    <g id="uikit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-929.000000, -939.000000)">
+        <g id="sys_radio-button_d" transform="translate(929.000000, 939.000000)">
+            <polygon id="Bounds" points="0 0 24 0 24 24 0 24"></polygon>
+            <g id="Shape">
+                <use fill="#F4F7F9" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <path stroke="#DAE0E6" stroke-width="1" d="M12,2.5 C6.75614237,2.5 2.5,6.75614237 2.5,12 C2.5,17.2438576 6.75614237,21.5 12,21.5 C17.2438576,21.5 21.5,17.2438576 21.5,12 C21.5,6.75614237 17.2438576,2.5 12,2.5 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

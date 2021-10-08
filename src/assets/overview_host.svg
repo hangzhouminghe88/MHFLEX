@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+  <title>Group 4 Copy</title>
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <path d="M0.8,8.55555556 L15.2,8.55555556 C15.6418278,8.55555556 16,8.91372776 16,9.35555556 L16,13.2 C16,13.6418278 15.6418278,14 15.2,14 L0.8,14 C0.3581722,14 -1.67936305e-16,13.6418278 -2.22044605e-16,13.2 L-1.11022302e-16,9.35555556 C-1.65130603e-16,8.91372776 0.3581722,8.55555556 0.8,8.55555556 Z M2.4,10.8888889 L2.4,11.6666667 L3.2,11.6666667 L3.2,10.8888889 L2.4,10.8888889 Z M4,10.8888889 L4,11.6666667 L4.8,11.6666667 L4.8,10.8888889 L4,10.8888889 Z" id="path-1"></path>
+  </defs>
+  <g id="大屏" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Group-4-Copy" transform="translate(5.000000, 6.000000)">
+      <g id="Group-12">
+        <g id="Group-11">
+          <rect id="Rectangle-5" fill="#FFFFFF" x="2.4" y="1.94444444" width="1" height="1"></rect>
+          <rect id="Rectangle-5-Copy-2" fill="#FFFFFF" x="4" y="1.94444444" width="1" height="1"></rect>
+          <rect id="Rectangle-4" stroke="#FFFFFF" stroke-width="0.8" x="0.4" y="0.4" width="15.2" height="13.2" rx="0.8"></rect>
+          <g id="Combined-Shape">
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <path stroke="#FFFFFF" stroke-width="0.8" d="M0.8,8.95555556 C0.5790861,8.95555556 0.4,9.13464166 0.4,9.35555556 L0.4,13.2 C0.4,13.4209139 0.5790861,13.6 0.8,13.6 L15.2,13.6 C15.4209139,13.6 15.6,13.4209139 15.6,13.2 L15.6,9.35555556 C15.6,9.13464166 15.4209139,8.95555556 15.2,8.95555556 L0.8,8.95555556 Z M2,12.0666667 L2,10.4888889 L3.6,10.4888889 L3.6,12.0666667 L2,12.0666667 Z M2.42222222,11.2666667 L2.41111111,11.2777778 L2.42222222,11.2888889 L3.17777778,11.2888889 L3.18888889,11.2777778 L3.17777778,11.2666667 L2.42222222,11.2666667 Z M4.02222222,11.2888889 L4.77777778,11.2888889 L4.78888889,11.2777778 L4.77777778,11.2666667 L4.02222222,11.2666667 L4.01111111,11.2777778 L4.02222222,11.2888889 Z M3.6,10.4888889 L5.2,10.4888889 L5.2,12.0666667 L3.6,12.0666667 L3.6,10.4888889 Z"></path>
+          </g>
+          <path d="M0.8,4.40740741 L15.2,4.40740741" id="Path-Copy-2" stroke="#FFFFFF" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"></path>
+          <rect id="Rectangle-5" fill="#FFFFFF" x="2.4" y="6.22222222" width="1" height="1"></rect>
+          <rect id="Rectangle-5-Copy-2" fill="#FFFFFF" x="4" y="6.22222222" width="1" height="1"></rect>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

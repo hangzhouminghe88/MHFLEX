@@ -1,0 +1,100 @@
+@prefixCls: ~"prefixCls-menu";
+.@{prefixCls} {
+  height: 100%;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  &::-webkit-scrollbar{
+    width: 8px;
+    background: #ddd;
+    border-radius: 5px;
+  }
+
+  &::-webkit-scrollbar-button{
+    display: none;
+  }
+
+  &::-webkit-scrollbar-thumb{
+    width: 5px;
+    background: #bebebe;
+    border-radius: 5px;
+  }
+
+  a {
+    color: #fff;
+  }
+
+  .router-link-exact-active {
+    color: #409EFF;
+  }
+
+  .el-menu {
+    background: rgb(81, 90, 110);
+    color: #bbb !important;
+    min-height: 100%;
+
+
+    .el-menu-item.is-active {
+      color: #409EFF;
+      border-left: 3px solid #409eff;
+      &:hover{
+        color: #fff;
+      }
+      &:focus{
+        color: #fff;
+      }
+    }
+
+    .el-menu-item {
+      color: #fff;
+    }
+
+    .el-submenu{
+      .el-menu-item{
+        min-width: 140pt;
+      }
+      .el-submenu__title{
+        color: #fff!important;
+      }
+    }
+
+    .el-submenu.is-active .el-submenu__title{
+      color: #409EFF !important;
+    }
+
+  }
+
+  &-content {
+    display: inline-block;
+    position: absolute;
+    top: 60px;
+  }
+
+  .el-menu-vertical-demo:not(.el-menu--collapse) {
+    width: 140pt;
+    min-height: 100%;;
+  }
+
+  &-collapse {
+    height: 40px;
+    width: 20px;
+    border: 1px solid #cccccc;
+    margin-left: 125pt;
+    position: absolute;
+    z-index: 10;
+    top: 50%;
+    color: #222;
+    background: #fff;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+
+    i {
+      height: 40px;
+      line-height: 40px;
+    }
+  }
+
+  .el-icon-tickets {
+    height: 56px;
+    line-height: 56px !important;
+  }
+}

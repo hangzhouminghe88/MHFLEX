@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+  <title>pop_backup_data_n</title>
+  <desc>Created with Sketch.</desc>
+  <defs></defs>
+  <g id="uikit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="*图标" transform="translate(-1712.000000, -762.000000)">
+      <g id="pop_backup_data_n" transform="translate(1712.000000, 762.000000)">
+        <rect id="Rectangle-2" x="0" y="0" width="36" height="36"></rect>
+        <g id="Group-155" transform="translate(8.000000, 9.000000)">
+          <rect id="Rectangle-12" fill="#97A4B6" x="6" y="4" width="8" height="1" rx="0.5"></rect>
+          <rect id="Rectangle-12-Copy-4" fill="#97A4B6" x="6" y="8" width="8" height="1" rx="0.5"></rect>
+          <path d="M1,0.499938607 C0.723857625,0.499938607 0.5,0.723796233 0.5,0.999938607 L0.5,17 C0.5,17.2761424 0.723857625,17.5 1,17.5 L19,17.5 C19.2761424,17.5 19.5,17.2761424 19.5,17 L19.5,0.999938607 C19.5,0.723796233 19.2761424,0.499938607 19,0.499938607 L1,0.499938607 Z" id="Rectangle-7" stroke="#97A4B6"></path>
+          <path d="M0.5,10.5 L0.5,17 C0.5,17.2761424 0.723857625,17.5 0.999999979,17.5 L19,17.4999992 C19.2761422,17.4999992 19.4999998,17.2761419 19.5,16.9999996 L19.5000056,10.5 L16.5351838,10.5 C16.3680072,10.5 16.2118915,10.5835506 16.1191586,10.7226499 L14.7128917,12.8320503 C14.434693,13.2493483 13.966346,13.5 13.4648162,13.5 L6.53518376,13.5 C6.03365398,13.5 5.56530699,13.2493483 5.28710832,12.8320503 L3.88084139,10.7226499 C3.7881085,10.5835506 3.63199284,10.5 3.46481624,10.5 L0.5,10.5 Z" id="Rectangle-53" stroke="#97A4B6"></path>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+
+<svg width="62px" height="60px" viewBox="0 0 62 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <path d="M0.300710829,20.9786751 C0.686917574,9.39247279 10.4079804,0 22.0061566,0 L39.9938434,0 C51.5952233,0 61.3129775,9.38932566 61.6992892,20.9786751 L62,30 L61.6992892,39.0213249 C61.3130824,50.6075272 51.5920196,60 39.9938434,60 L22.0061566,60 C10.4047767,60 0.687022478,50.6106743 0.300710829,39.0213249 L0,30 L0.300710829,20.9786751 Z" id="path-1"></path>
+    <rect id="path-2" x="12" y="24" width="6" height="6" rx="1"></rect>
+    <rect id="path-3" x="24" y="24" width="6" height="6" rx="1"></rect>
+    <rect id="path-4" x="0" y="24" width="6" height="6" rx="1"></rect>
+  </defs>
+  <g id="云主机" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="*图标" transform="translate(-60.000000, -883.000000)">
+      <g id="Group-32" transform="translate(60.000000, 883.000000)">
+        <g id="Rectangle-11">
+          <use fill="#FAFDFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+          <path stroke="#97A4B6" stroke-width="1" d="M0.800433282,20.9953326 C1.17761651,9.67983562 10.6764403,0.5 22.0061566,0.5 L39.9938434,0.5 C51.3267452,0.5 60.822278,9.67667031 61.1995667,20.9953326 L61.5002775,30.0166574 L61.1995667,39.0046674 C60.8223835,50.3201644 51.3235597,59.5 39.9938434,59.5 L22.0061566,59.5 C10.6732548,59.5 1.17772202,50.3233297 0.800433282,39.0046674 L0.499722453,29.9833426 L0.800433282,20.9953326 L0.800433282,20.9953326 Z"></path>
+        </g>
+        <g id="Group-29" transform="translate(16.000000, 15.000000)">
+          <path d="M23.3435576,8.51059566 C26.2312008,8.68901011 28.5,11.0947856 28.5,14 C28.5,17.0383856 26.0388388,19.5 22.9995073,19.5 L18.8327791,19.5 L6.33493441,19.5 C3.66679615,19.5 1.5,17.3321727 1.5,14.6666667 C1.5,12.3666898 3.1156569,10.3998856 5.33852377,9.93570334 L5.77577313,9.8443963 L5.73414128,9.39965956 C5.71142797,9.15702217 5.7,8.91254063 5.7,8.66666667 C5.7,4.16194487 9.54504211,0.5 14.3,0.5 C18.8130254,0.5 22.5432453,3.81133338 22.875924,8.0506642 L22.9099143,8.48380279 L23.3435576,8.51059566 Z" id="Combined-Shape" stroke="#97A4B6"></path>
+          <rect id="Rectangle-12-Copy-2" fill="#97A4B6" x="14.5" y="20" width="1" height="4"></rect>
+          <rect id="Rectangle-12-Copy-2" fill="#97A4B6" x="9" y="20" width="1" height="8"></rect>
+          <rect id="Rectangle-12-Copy-2" fill="#97A4B6" x="6" y="27" width="4" height="1"></rect>
+          <rect id="Rectangle-12-Copy-2" fill="#97A4B6" x="20" y="20" width="1" height="8"></rect>
+          <rect id="Rectangle-12-Copy-2" fill="#97A4B6" x="20" y="27" width="4" height="1"></rect>
+          <g id="Rectangle-21-Copy">
+            <use fill-opacity="0.39770154" fill="#97A4B6" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <rect stroke="#97A4B6" stroke-width="1" x="12.5" y="24.5" width="5" height="5" rx="1"></rect>
+          </g>
+          <g id="Rectangle-21-Copy-3">
+            <use fill-opacity="0.39770154" fill="#97A4B6" fill-rule="evenodd" xlink:href="#path-3"></use>
+            <rect stroke="#97A4B6" stroke-width="1" x="24.5" y="24.5" width="5" height="5" rx="1"></rect>
+          </g>
+          <g id="Rectangle-21-Copy-2">
+            <use fill-opacity="0.39770154" fill="#97A4B6" fill-rule="evenodd" xlink:href="#path-4"></use>
+            <rect stroke="#97A4B6" stroke-width="1" x="0.5" y="24.5" width="5" height="5" rx="1"></rect>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

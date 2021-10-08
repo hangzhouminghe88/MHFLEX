@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+  <title>sys_login_verification_code_grey copy</title>
+  <desc>Created with Sketch.</desc>
+  <defs></defs>
+  <g id="登录" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="sys_login_verification_code_grey-copy">
+      <rect id="Rectangle-22" x="0" y="0" width="30" height="30"></rect>
+      <g id="Group-16" transform="translate(6.000000, 5.000000)" stroke="#97A4B6">
+        <path d="M0.841886117,3.19232502 C0.637715047,3.26038204 0.5,3.45145146 0.5,3.66666667 L0.498538385,11.9077043 C0.700656645,14.5452821 3.43552751,17.0367333 8.79097701,19.3159938 C8.91986942,19.3708499 9.06584123,19.3691192 9.19342152,19.3112001 C14.6641781,16.8284732 17.4050604,14.3359771 17.5,11.9459074 L17.5,3.66666667 C17.5,3.45145146 17.362285,3.26038204 17.1581139,3.19232502 L9.15811388,0.525658351 C9.05548048,0.491447216 8.94451952,0.491447216 8.84188612,0.525658351 L0.841886117,3.19232502 Z" id="Rectangle-10"></path>
+        <path d="M7.8013081,10.1945296 L8.11271985,10.3650621 L7.59023021,13.5 L10.4097698,13.5 L9.88728015,10.3650621 L10.1986919,10.1945296 C10.9947983,9.75857288 11.5,8.92396639 11.5,8 C11.5,6.61928813 10.3807119,5.5 9,5.5 C7.61928813,5.5 6.5,6.61928813 6.5,8 C6.5,8.92396639 7.00520166,9.75857288 7.8013081,10.1945296 Z" id="Combined-Shape" fill="#E0F3FF"></path>
+      </g>
+    </g>
+  </g>
+</svg>

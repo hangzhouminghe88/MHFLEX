@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+  <title>zwatch_snstext_template_n</title>
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <path d="M5.67703296,0 L12.322967,6.66133815e-16 C12.7318716,1.31737972e-15 13.0995804,0.248950944 13.2514437,0.628609324 L14.4514437,3.62860932 C14.6565571,4.14139284 14.4071412,4.72336328 13.8943577,4.92847669 C13.7762374,4.9757248 13.6501865,5 13.522967,5 L4.47703296,5 C3.92474821,5 3.47703296,4.55228475 3.47703296,4 C3.47703296,3.87278057 3.50130816,3.7467296 3.54855627,3.62860932 L4.74855627,0.628609324 C4.90041962,0.248950944 5.26812837,2.97159159e-16 5.67703296,2.22044605e-16 Z" id="path-1"></path>
+  </defs>
+  <g id="*图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-893.000000, -1314.000000)">
+    <g id="zwatch_snstext_template_n" transform="translate(893.000000, 1314.000000)">
+      <rect id="Rectangle-2" x="0" y="0" width="36" height="36"></rect>
+      <g id="Group-169" transform="translate(9.000000, 8.000000)">
+        <rect id="Rectangle-27" stroke="#97A4B6" x="0.5" y="1.5" width="17" height="17" rx="1"></rect>
+        <g id="Rectangle-28">
+          <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+          <path stroke="#97A4B6" stroke-width="1" d="M5.67703296,0.5 C5.47258067,0.5 5.28872629,0.624475472 5.21279462,0.814304662 L4.01279462,3.81430466 C3.98917056,3.8733648 3.97703296,3.93639029 3.97703296,4 C3.97703296,4.27614237 4.20089059,4.5 4.47703296,4.5 L13.522967,4.5 C13.5865768,4.5 13.6496022,4.4878624 13.7086624,4.46423835 C13.9650541,4.36168164 14.0897621,4.07069642 13.9872054,3.81430466 L12.7872054,0.814304662 C12.7112737,0.624475472 12.5274193,0.5 12.322967,0.5 L5.67703296,0.5 Z"></path>
+        </g>
+        <rect id="Rectangle-66" fill="#97A4B6" x="5" y="8" width="8" height="1" rx="0.5"></rect>
+        <rect id="Rectangle-66" fill="#97A4B6" x="5" y="11" width="8" height="1" rx="0.5"></rect>
+        <rect id="Rectangle-66" fill="#97A4B6" x="5" y="14" width="8" height="1" rx="0.5"></rect>
+      </g>
+    </g>
+  </g>
+</svg>

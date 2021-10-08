@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="60px" viewBox="0 0 62 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+  <title>Group 39</title>
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <path d="M0.300710829,20.9786751 C0.686917574,9.39247279 10.4079804,0 22.0061566,0 L39.9938434,0 C51.5952233,0 61.3129775,9.38932566 61.6992892,20.9786751 L62,30 L61.6992892,39.0213249 C61.3130824,50.6075272 51.5920196,60 39.9938434,60 L22.0061566,60 C10.4047767,60 0.687022478,50.6106743 0.300710829,39.0213249 L0,30 L0.300710829,20.9786751 Z" id="path-1"></path>
+    <path d="M2,12.99436 C2,5.81777314 7.81871963,0 15,0 L15,0 C22.1797017,0 28,5.81628188 28,12.99436 L28,29 L2,29 L2,12.99436 Z" id="path-2"></path>
+    <path d="M8,12.9944363 C8,9.13151578 11.1418733,6 15,6 L15,6 C18.8659932,6 22,9.12581884 22,12.9944363 L22,29 L8,29 L8,12.9944363 Z" id="path-4"></path>
+    <rect id="path-6" x="2" y="4" width="13.5" height="25"></rect>
+  </defs>
+  <g id="Hybrid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="*导航_normal&amp;selected-间距调整" transform="translate(-780.000000, -313.000000)">
+      <g id="Group-39" transform="translate(780.000000, 313.000000)">
+        <g id="Rectangle-11-Copy">
+          <use fill="#FAFDFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+          <path stroke="#97A4B6" stroke-width="1" d="M0.800433282,20.9953326 L0.499722453,29.9833426 L0.800433282,39.0046674 C1.17772202,50.3233297 10.6732548,59.5 22.0061566,59.5 L39.9938434,59.5 C51.3235597,59.5 60.8223835,50.3201644 61.1995667,39.0046674 L61.5002775,30.0166574 L61.1995667,20.9953326 C60.822278,9.67667031 51.3267452,0.5 39.9938434,0.5 L22.0061566,0.5 C10.6764403,0.5 1.17761651,9.67983562 0.800433282,20.9953326 Z"></path>
+        </g>
+        <g id="Group-36" transform="translate(16.000000, 14.000000)">
+          <rect id="Rectangle-41" fill="#97A4B6" x="0" y="28" width="30" height="1" rx="0.5"></rect>
+          <mask id="mask-3" fill="white">
+            <use xlink:href="#path-2"></use>
+          </mask>
+          <path stroke="#97A4B6" d="M2.5,28.5 L27.5,28.5 L27.5,12.99436 C27.5,6.09299675 21.9041321,0.5 15,0.5 C8.09536804,0.5 2.5,6.09340969 2.5,12.99436 L2.5,28.5 Z"></path>
+          <mask id="mask-5" fill="white">
+            <use xlink:href="#path-4"></use>
+          </mask>
+          <path stroke="#97A4B6" d="M8.5,28.5 L21.5,28.5 L21.5,12.9944363 C21.5,9.40408088 18.591973,6.5 15,6.5 C11.4151231,6.5 8.5,9.41054677 8.5,12.9944363 L8.5,28.5 Z"></path>
+          <g id="Rectangle-42" mask="url(#mask-5)">
+            <use fill-opacity="0.39770154" fill="#97A4B6" fill-rule="evenodd" xlink:href="#path-6"></use>
+            <rect stroke="#97A4B6" stroke-width="1" x="2.5" y="4.5" width="12.5" height="24"></rect>
+          </g>
+          <rect id="Rectangle-43" fill="#97A4B6" mask="url(#mask-5)" x="18" y="15" width="1" height="4" rx="0.5"></rect>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

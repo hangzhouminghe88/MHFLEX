@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+  <title>btn_filter_tag</title>
+  <desc>Created with Sketch.</desc>
+  <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="备注" transform="translate(-321.000000, -602.000000)">
+      <g id="btn_filter_tag" transform="translate(321.000000, 602.000000)">
+        <g id="Group-67">
+          <rect id="Rectangle-25" x="0" y="0" width="18" height="18"></rect>
+        </g>
+        <path d="M3,2.5 C2.72614237,2.5 2.5,2.72614237 2.5,3 C2.5,3.14001359 2.55205688,3.2649501 2.64355339,3.35644661 L7.5,8.21289322 L7.5,15 C7.5,15.2738576 7.72614237,15.5 8,15.5 C8.14001359,15.5 8.2649501,15.4479431 8.35644661,15.3564466 L10.3564466,13.3564466 C10.4479431,13.2649501 10.5,13.1400136 10.5,13 L10.5,8.20289322 L15.3564466,3.34644661 C15.4479431,3.2549501 15.5,3.13001359 15.5,2.99 C15.5,2.7253682 15.2730667,2.5 15,2.5 L3,2.5 Z" id="Icon" stroke="#3C73B9" fill-opacity="0.4" fill="#0077D1"></path>
+      </g>
+    </g>
+  </g>
+</svg>

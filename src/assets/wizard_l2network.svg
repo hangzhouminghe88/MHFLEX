@@ -1,0 +1,29 @@
+
+<svg width="62px" height="61px" viewBox="0 0 62 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <circle id="path-1" cx="14.25" cy="26.25" r="3.75"></circle>
+  </defs>
+  <g id="wizard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="wizard_状态" transform="translate(-1603.000000, -252.000000)">
+      <g id="Group-24" transform="translate(1603.000000, 252.000000)">
+        <g id="Group-41-Copy">
+          <path d="M0.300710829,20.9786751 C0.686917574,9.39247279 10.4079804,0 22.0061566,0 L39.9938434,0 C51.5952233,0 61.3129775,9.38932566 61.6992892,20.9786751 L62,30 L61.6992892,39.0213249 C61.3130824,50.6075272 51.5920196,60 39.9938434,60 L22.0061566,60 C10.4047767,60 0.687022478,50.6106743 0.300710829,39.0213249 L0,30 L0.300710829,20.9786751 Z" id="Rectangle-11"></path>
+        </g>
+        <g id="Group-11" transform="translate(17.000000, 15.000000)">
+          <circle id="Oval" stroke="#97A4B6" cx="14.25" cy="8.25" r="7.75"></circle>
+          <circle id="Oval-Copy" stroke="#97A4B6" cx="3.75" cy="20.25" r="3.25"></circle>
+          <g id="Oval-Copy-2">
+            <use fill-opacity="0.39770154" fill="#97A4B6" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <circle stroke="#97A4B6" stroke-width="1" cx="14.25" cy="26.25" r="3.25"></circle>
+          </g>
+          <circle id="Oval-Copy-2" stroke="#97A4B6" cx="24.75" cy="20.25" r="3.25"></circle>
+          <path d="M14.25,15.75 L14.25,23.25" id="Path-6" stroke="#97A4B6"></path>
+          <rect id="Rectangle-15" fill="#97A4B6" transform="translate(7.333185, 16.041815) rotate(-315.000000) translate(-7.333185, -16.041815) " x="6.83318453" y="13.7918155" width="1" height="4.5"></rect>
+          <rect id="Rectangle-15" fill="#97A4B6" transform="translate(21.371320, 15.621320) scale(-1, 1) rotate(-315.000000) translate(-21.371320, -15.621320) " x="20.8713203" y="13.3713203" width="1" height="4.5"></rect>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

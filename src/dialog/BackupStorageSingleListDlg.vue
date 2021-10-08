@@ -1,0 +1,199 @@
+<template>
+  <el-dialog :visible.async="visiabled" @close="close">
+    <div slot="title">{{$t('common.selectBackupStorage')}}</div>
+    <div style="padding:30px;overflow-y: hidden;">
+      <div class="radio-group" style="text-align: right">
+       <span style="padding: 0 15px;display: inline-block;">
+            <el-input placeholder="请输入内容" v-model="searchStr" @blur="search()" @change="search()">
+               <el-select v-model="selectVal" slot="prepend" placeholder="请选择" style="width: 100px">
+                   <el-option v-for="(item, index ) in conditionNameList" :label="$t(`${item.name}`)" :key="index"
+                              :value="item.value"></el-option>
+               </el-select>
+              <span slot="append"><i class="el-icon-search icon"></i></span>
+            </el-input>
+          </span>
+      </div>
+      <el-table
+        highlight-current-row
+        @row-click="handleSingleSelect"
+        :data="backupStorageItemList">
+         <span slot="empty" class="table-nodata">
+           <p class="empty-text" v-text="$t('common.noData')"></p>
+         </span>
+        <el-table-column width="50px">
+          <template slot-scope="scope">
+            <el-radio :label="scope.row.uuid" v-model="templateRadio">&nbsp</el-radio>
+          </template>
+        </el-table-column>
+        <el-table-column
+          prop="name"
+          :label="$t('common.name')"></el-table-column>
+        <el-table-column
+          :label="$t('visualizationEditor.Type')"
+          prop="type"></el-table-column>
+        <el-table-column
+          label="URL"
+          prop="url"></el-table-column>
+        <el-table-column
+          :label="$t('common.availableCapacity')">
+          <template slot-scope="scope">
+            {{bytesToSize(scope.row.availableCapacity)}}
+          </template>
+        </el-table-column>
+        <el-table-column
+          :label="$t('home.total')">
+          <template slot-scope="scope">
+            {{bytesToSize(scope.row.totalCapacity)}}
+          </template>
+        </el-table-column>
+        <el-table-column
+          :label="$t('common.createDate')">
+          <template slot-scope="scope">
+            {{formatDatetime(new Date(scope.row.createDate))}}
+          </template>
+        </el-table-column>
+      </el-table>
+      <el-pagination v-if="windowData.availableCount > 0"
+        :current-page="windowData.pageIndex"
+        :page-size="5"
+        :page-sizes="[5, 10]"
+        :total="windowData.availableCount"
+        @current-change="pageCurrentChange"
+        @size-change="pageSizeChange"
+        class="page-table-pagination"
+        layout="total, sizes, prev, pager, next"></el-pagination>
+    </div>
+    <div slot="footer" class="dialog-footer">
+      <span class="btn-confirm" @click="confirmDlg">{{$t('common.ok')}}</span>
+      <span class="btn-cancel" @click="close">{{$t('common.cancel')}}</span>
+    </div>
+  </el-dialog>
+</template>
+
+<script>
+  import BSList from 'src/storage/backupstorage/List';
+  import WindowBase from 'src/windows/Window';
+  import Utils from 'src/utils/utils';
+  import _ from 'lodash';
+
+  export default {
+    name: "BackupStorageSingleDlg",
+    mixins: [WindowBase,BSList],
+    props: {
+      model: {
+        type: Boolean,
+        default: false
+      },
+      message: {
+        type: Object,
+        default: {}
+      }
+    },
+    computed: {
+      backupStorageItemList(){
+        if (!_.isArray(this.windowData.uuidList)) return [];
+        // sometimes, uuid will not exist. so should be excluded firstly.
+        this.windowData.uuidList = this.windowData.uuidList.filter(uuid => this.dbData.backupstorage[uuid]
+        );
+        return this.windowData.uuidList.map(uuid => {
+            return this.dbData.backupstorage[uuid]
+          }
+        )
+      }
+    },
+    data(){
+      return{
+        visiabled: false,
+        templateRadio: '',
+        selectVal: 'name',
+        searchStr:  '',
+        conditionNameList: [
+          {name: 'common.name', value: 'name'},
+          {name: 'UUID', value: 'uuid'}
+        ],
+        isVCenter: false,
+      }
+    },
+    mounted(){
+      let self = this;
+      self.visiabled = this.model;
+      self.updateWindow({
+        pageIndex: 1,
+        pageSize: 5,
+        sortBy: 'createDate',
+        sortDirection: '-'
+      }).then(()=>{
+        self.queryList();
+      });
+      this.isVCenter = this.message.isVCenter
+    },
+    methods: {
+      ...Utils,
+      close(){
+        let self = this;
+        self.visiabled = false;
+        self.$emit('close');
+      },
+      confirmDlg(){
+        let self = this;
+        self.$emit('close', self.templateRadio);
+      },
+      getCondition: function () {
+        let conditionList = [];
+        conditionList.push(`zone.uuid=${window.localStorage.getItem('currZoneUuid')}`);
+        conditionList = conditionList.concat(this.message.conditions);
+        conditionList.push('__systemTag__!?=remote,onlybackup,aliyun,remotebackup');
+        if (this.searchStr !== '' && this.selectVal !== '') {
+          conditionList = conditionList.concat(`${this.selectVal}~=%25${this.searchStr}%25`)
+        }
+        return conditionList
+      },
+      handleSingleSelect(row){
+        let self = this;
+        self.templateRadio = row.uuid;
+      },
+      search(){
+        let self = this;
+        self.updateWindow({
+          pageIndex: 1
+        });
+        self.queryList();
+      },
+      pageCurrentChange(val) {
+        this.updateWindow({
+          pageIndex: val
+        })
+      },
+      pageSizeChange(val) {
+        this.updateWindow({
+          pageSize: val
+        })
+      },
+      handleSort(e) {
+        if (e.order === 'ascending') {
+          this.updateWindow({
+            sortBy: e.prop,
+            sortDirection: '+'
+          })
+        } else {
+          this.updateWindow({
+            sortBy: e.prop,
+            sortDirection: '-'
+          })
+        }
+        this.queryList();
+      },
+    },
+    watch: {
+      model(newVal, oldVal){
+        if(newVal, oldVal){
+          this.visiabled = newVal;
+        }
+      }
+    }
+  }
+</script>
+
+<style scoped>
+
+</style>

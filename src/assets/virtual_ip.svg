@@ -1,0 +1,38 @@
+
+<svg width="62px" height="60px" viewBox="0 0 62 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <path d="M270.300711,763.978675 C270.686918,752.392473 280.40798,743 292.006157,743 L309.993843,743 C321.595223,743 331.312978,752.389326 331.699289,763.978675 L332,773 L331.699289,782.021325 C331.313082,793.607527 321.59202,803 309.993843,803 L292.006157,803 C280.404777,803 270.687022,793.610674 270.300711,782.021325 L270,773 L270.300711,763.978675 Z" id="path-1"></path>
+    <path d="M6.20052222,24.8982606 C6.44857004,24.402165 7.09714196,24 7.64815486,24 L18.6511502,24 C19.2026078,24 19.8464909,24.3936768 20.0987828,24.8982606 L22.2005222,29.1017394 C22.44857,29.597835 22.1987271,30 21.6548814,30 L4.6444237,30 C4.09502675,30 3.84649091,29.6063232 4.09878284,29.1017394 L6.20052222,24.8982606 Z" id="path-2"></path>
+    <circle id="path-3" cx="13.5" cy="13.5" r="13.5"></circle>
+    <circle id="path-4" cx="13.5" cy="13.5" r="8.5"></circle>
+    <circle id="path-5" cx="18" cy="9" r="4"></circle>
+  </defs>
+  <g id="云主机" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="*图标" transform="translate(-270.000000, -743.000000)">
+      <g id="Rectangle-11-Copy">
+        <use fill="#FAFDFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+        <path stroke="#97A4B6" stroke-width="1" d="M270.800433,763.995333 C271.177617,752.679836 280.67644,743.5 292.006157,743.5 L309.993843,743.5 C321.326745,743.5 330.822278,752.67667 331.199567,763.995333 L331.500278,773.016657 L331.199567,782.004667 C330.822383,793.320164 321.32356,802.5 309.993843,802.5 L292.006157,802.5 C280.673255,802.5 271.177722,793.32333 270.800433,782.004667 L270.499722,772.983343 L270.800433,763.995333 Z"></path>
+      </g>
+      <g id="Group-6" transform="translate(288.000000, 758.000000)">
+        <g id="Rectangle-38">
+          <use fill="#FAFDFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+          <path stroke="#97A4B6" stroke-width="1" d="M6.64773582,25.1218674 C6.81116443,24.7950102 7.28670238,24.5 7.64815486,24.5 L18.6511502,24.5 C19.0165482,24.5 19.4854598,24.7896485 19.6515692,25.1218674 L21.7533086,29.3253462 C21.8348214,29.4883718 21.8277083,29.5 21.6548814,29.5 L4.6444237,29.5 C4.46410073,29.5 4.46110566,29.4951277 4.54599644,29.3253462 L6.64773582,25.1218674 Z"></path>
+        </g>
+        <g id="Oval">
+          <use fill="#FAFDFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+          <circle stroke="#97A4B6" stroke-width="1" cx="13.5" cy="13.5" r="13"></circle>
+        </g>
+        <g id="Oval">
+          <use fill-opacity="0.39770154" fill="#97A4B6" fill-rule="evenodd" xlink:href="#path-4"></use>
+          <circle stroke="#97A4B6" stroke-width="1" cx="13.5" cy="13.5" r="8"></circle>
+        </g>
+        <g id="Oval">
+          <use fill="#FAFDFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+          <circle stroke="#97A4B6" stroke-width="1" cx="18" cy="9" r="3.5"></circle>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

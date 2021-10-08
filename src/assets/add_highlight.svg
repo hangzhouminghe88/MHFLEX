@@ -1,0 +1,17 @@
+<svg width="23px" height="23px" viewBox="777 499 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.5,0.5 C5.428,0.5 0.5,5.428 0.5,11.5 C0.5,17.572 5.428,22.5 11.5,22.5 C17.572,22.5 22.5,17.572 22.5,11.5 C22.5,5.428 17.572,0.5 11.5,0.5 L11.5,0.5 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="22" height="22" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Group-27-Copy-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(777.000000, 499.000000)">
+        <g id="Group-33">
+            <use id="Shape" stroke="#3C73B9" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+            <rect id="Rectangle-28" fill="#3C73B9" x="6" y="11" width="11" height="1"></rect>
+            <rect id="Rectangle-29" fill="#3C73B9" x="11" y="6" width="1" height="11"></rect>
+        </g>
+    </g>
+</svg>

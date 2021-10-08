@@ -1,0 +1,323 @@
+{
+	"VmInstance": {
+		"dialogName": "VmSingleSelectListDlg",
+		"page": "src/dialog/vm/VmSingleSelectListDlg",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [
+			"hypervisorType=KVM"
+		],
+		"dbTable": "vm"
+	},
+	"DataVolume": {
+		"dialogName": "VolumeSingleSelectListDlg",
+		"page": "src/dialog/volume/VolumeSingleSelectListDlg",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [
+			"status!=Deleted"
+		],
+		"dbTable": "volume"
+	},
+	"Image": {
+		"dialogName": "VirtualRouterImageAndImageSingleSelectListDlg",
+		"page": "src/dialog/image/SingleSelect",
+		"mode": "dialog",
+		"param": {
+			"imageType": "DataVolumeTemplate",
+      "withTab": true
+		},
+		"conditions": [
+			"status!=Deleted",
+			"type!=vmware"
+		],
+		"dbTable": "image"
+	},
+	"AffinityGroup": {
+		"dialogName": "AffinityGroupListSingleSelectList",
+		"page": "src/dialog/AffinityGroup/SingleSelectListDlg",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [],
+		"dbTable": "affinitygroup"
+	},
+	"InstanceOffering": {
+		"dialogName": "InstanceOfferingListSingleSelectDlg",
+		"page": "src/dialog/instanceOffering/SingleSelectList",
+		"mode": "dialog",
+		"param": {
+      "showTab": true
+    },
+		"conditions": [],
+		"dbTable": "instanceOffering"
+	},
+	"DiskOffering": {
+		"dialogName": "VolumeOfferingListSingleSelectList",
+		"page": "src/dialog/VolumeOffering/SingleSelectList",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [],
+		"dbTable": "volumeoffering"
+	},
+	"Zone": {
+		"dialogName": "ZoneListSingleSelectList",
+		"page": "src/dialog/Zone/SingleSelectList",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [],
+		"dbTable": "zone"
+	},
+	"Cluster": {
+		"dialogName": "ClusterSelectListDlg",
+		"page": "src/dialog/cluster/ClusterSelectListDlg",
+		"mode": "dialog",
+		"param": {
+      "type": "radio"
+    },
+		"conditions": [
+			"hypervisorType=KVM"
+		],
+		"dbTable": "cluster"
+	},
+	"Host": {
+		"dialogName": "HostListSingleSelectList",
+		"page": "src/dialog/zwatchalarm/HostListSingleSelectList",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [],
+		"dbTable": "host"
+	},
+	"PrimaryStorage": {
+		"dialogName": "PrimaryStorageListSingleSelectList",
+		"page": "src/dialog/zwatchalarm/PrimaryStorageListSingleSelectList",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [],
+		"dbTable": "primarystorage"
+	},
+	"BackupStorage": {
+		"dialogName": "BackupStorageSingleSelectListDlg",
+		"page": "src/dialog/backupStorage/SingleSelectListDlg",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [],
+		"dbTable": "backupstorage"
+	},
+	"L2Network": {
+		"dialogName": "L2NetworkSingleSelectListDlg",
+		"page": "src/dialog/l2NetWork/SingleSelectListDlg",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [
+			"type!=VxlanNetworkPool",
+			"cluster.type=zstack"
+		],
+		"dbTable": "l2network"
+	},
+	"L3Network": {
+		"dialogName": "PrivateAndPublicL3NetworkSingleSelectListDlg",
+		"page": "src/dialog/L3Network/PrivateAndPublicL3NetworkSingleSelectListDlg",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [
+			"l2Network.cluster.type=zstack",
+			"system=false"
+		],
+		"dbTable": "l3network"
+	},
+	"VirtualRouter": {
+		"dialogName": "VirtualRouterVmInstanceListSingleSelectDlg",
+		"page": "windows/VirtualRouter/dialogs/SingleSelectList",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [],
+		"dbTable": "vm"
+	},
+	"VirtualRouterOffering": {
+		"dialogName": "VirtualRouterInstanceOfferingListSingleSelectDlg",
+		"page": "windows/VirtualRouterOffering/dialogs/SingleSelectList",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [],
+		"dbTable": "instanceOffering"
+	},
+	"VRouterRouteTable": {
+		"page": "windows/VRouterRouteTable/dialogs/SingleSelectList",
+		"mode": "none",
+		"param": "",
+		"conditions": [],
+		"dbTable": "vRouterRouteTable"
+	},
+	"VpcVRouter": {
+		"dialogName": "VpcVRouterSingleSelectListDlg",
+		"page": "windows/VpcVRouter/dialogs/SingleSelectList",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [],
+		"dbTable": "vm"
+	},
+	"SecurityGroup": {
+		"page": "windows/SecurityGroup/dialogs/SingleSelectList",
+		"mode": "panel",
+		"param": "",
+		"conditions": [
+			"l3Network.l2Network.cluster.type=zstack"
+		],
+		"dbTable": "securitygroup"
+	},
+	"SecurityGroupRule": {
+		"page": "windows/SecurityGroup/dialogs/RuleSingleSelectList",
+		"mode": "none",
+		"param": "",
+		"conditions": [],
+		"dbTable": ""
+	},
+	"PortForwardingRule": {
+		"page": "windows/PortForwarding/dialogs/RuleSingleSelectList",
+		"mode": "none",
+		"param": "",
+		"conditions": [
+			"vip.l3Network.l2Network.cluster.type=zstack"
+		],
+		"dbTable": ""
+	},
+	"Vip": {
+		"dialogName": "VipSingleSelectListDlg",
+		"page": "src/dialog/vip/SingleSelectListDlg",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [
+			"l3Network.l2Network.cluster.type=zstack"
+		],
+		"dbTable": "vip"
+	},
+	"Eip": {
+		"dialogName": "",
+		"page": "windows/Eip/dialogs/SingleSelectList",
+		"mode": "panel",
+		"param": "",
+		"conditions": [
+			"vip.l3Network.l2Network.cluster.type=zstack"
+		],
+		"dbTable": "eip"
+	},
+	"PortForwarding": {
+		"dialogName": "",
+		"page": "windows/PortForwarding/dialogs/SingleSelectList",
+		"mode": "panel",
+		"param": "",
+		"conditions": [
+			"vip.l3Network.l2Network.cluster.type=zstack"
+		],
+		"dbTable": "portforwarding"
+	},
+	"LoadBalancer": {
+    "dialogName": "LoadBalancerSingleSelectDlg",
+		"page": "src/dialog/loadBalancer/LoadBalancerSingleSelectDlg",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [
+			"vip.l3Network.l2Network.cluster.type=zstack"
+		],
+		"dbTable": "loadBalancer"
+	},
+	"LoadBalancerListener": {
+		"dialogName": "",
+		"page": "windows/LoadBalancerListener/dialogs/SingleSelectList",
+		"mode": "panel",
+		"param": "",
+		"conditions": [
+			"loadBalancer.vip.l3Network.l2Network.cluster.type=zstack"
+		],
+		"dbTable": "loadBalancerListener"
+	},
+	"IPsecConnection": {
+		"page": "windows/IPsec/dialogs/SingleSelectList",
+		"mode": "none",
+		"param": "",
+		"conditions": [
+			"vip.l3Network.l2Network.cluster.type=zstack"
+		],
+		"dbTable": "ipsec"
+	},
+	"L2VxlanNetworkPool": {
+		"page": "windows/VXLANPool/dialogs/SingleSelectList",
+		"mode": "none",
+		"param": "",
+		"conditions": [],
+		"dbTable": ""
+	},
+	"L2NoVlanNetwork": {
+		"dialogName": "L2NetworkSingleSelectListDlg",
+		"page": "windows/L2Network/dialogs/SingleSelectList",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [
+			"cluster.type=zstack"
+		],
+		"dbTable": "l2network"
+	},
+	"L2VlanNetwork": {
+		"dialogName": "L2NetworkSingleSelectListDlg",
+		"page": "windows/L2Network/dialogs/SingleSelectList",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [
+			"cluster.type=zstack"
+		],
+		"dbTable": "l2network"
+	},
+	"L2VxlanNetwork": {
+		"dialogName": "L2NetworkSingleSelectListDlg",
+		"page": "windows/L2Network/dialogs/SingleSelectList",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [
+			"cluster.type=zstack"
+		],
+		"dbTable": "l2network"
+	},
+	"VniRange": {
+		"dialogName": "",
+		"page": "windows/L2Network/dialogs/VniRangeList",
+		"mode": "none",
+		"param": "",
+		"conditions": [],
+		"dbTable": ""
+	},
+	"VpcNetwork": {
+		"dialogName": "VpcNetworSingleSelectListDlg",
+		"page": "windows/VpcNetwork/dialogs/SingleSelectList",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [
+			"l2Network.cluster.type=zstack",
+			"type=L3VpcNetwork"
+		],
+		"dbTable": "l3network"
+	},
+	"PrivateNetwork": {
+		"dialogName": "L3NetworkSingleSelectListDlg",
+		"page": "",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [
+			"l2Network.cluster.type=zstack",
+			"category=Private",
+			"type=L3BasicNetwork"
+		],
+		"dbTable": "l3network"
+	},
+	"PublicNetwork": {
+		"dialogName": "L3NetworkSingleSelectListDlg",
+		"page": "",
+		"mode": "dialog",
+		"param": "",
+		"conditions": [
+			"l2Network.cluster.type=zstack",
+			"category=Public",
+			"type=L3BasicNetwork"
+		],
+		"dbTable": "l3network"
+	}
+}

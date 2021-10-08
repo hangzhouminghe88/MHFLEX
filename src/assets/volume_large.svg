@@ -1,0 +1,37 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="62px" height="60px" viewBox="613 512 62 60" version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
+  <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <path
+      d="M0.300710829,20.9786751 C0.686917574,9.39247279 10.4079804,0 22.0061566,0 L39.9938434,0 C51.5952233,0 61.3129775,9.38932566 61.6992892,20.9786751 L62,30 L61.6992892,39.0213249 C61.3130824,50.6075272 51.5920196,60 39.9938434,60 L22.0061566,60 C10.4047767,60 0.687022478,50.6106743 0.300710829,39.0213249 L0,30 L0.300710829,20.9786751 Z"
+      id="path-1"></path>
+    <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="62" height="60"
+          fill="white">
+      <use xlink:href="#path-1"></use>
+    </mask>
+    <path
+      d="M20.5068094,28.382193 C17.8865297,29.3073075 16,31.809002 16,34.75 C16,38.4703365 19.0201306,41.5 22.7456505,41.5 L26.8818209,41.5 L39.9907078,41.5 C43.3187892,41.5 46,38.8137085 46,35.5 C46,32.1930342 43.3095483,29.5 39.9907078,29.5 L39.9715828,29.5 C39.9904128,29.2524688 40,29.002354 40,28.75 C40,23.3652237 35.6347763,19 30.25,19 C24.9883726,19 20.7001971,23.167843 20.5068094,28.382193 Z"
+      id="path-3"></path>
+    <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="30"
+          height="22.5" fill="white">
+      <use xlink:href="#path-3"></use>
+    </mask>
+    <ellipse id="path-5" cx="40" cy="35.5" rx="6" ry="6"></ellipse>
+    <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="12"
+          fill="white">
+      <use xlink:href="#path-5"></use>
+    </mask>
+  </defs>
+  <g id="Group-28" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"
+     transform="translate(613.000000, 512.000000)">
+    <g id="Group-35" stroke-width="2" stroke="#97A4B6">
+      <g id="Group-57">
+        <use id="Rectangle-11" mask="url(#mask-2)" fill="#FAFDFF" xlink:href="#path-1"></use>
+        <use id="Combined-Shape" mask="url(#mask-4)" xlink:href="#path-3"></use>
+        <use id="Oval-4" mask="url(#mask-6)" fill-opacity="0.39770154" fill="#97A4B6" xlink:href="#path-5"></use>
+      </g>
+    </g>
+    <g id="Group-37" transform="translate(16.000000, 19.000000)"></g>
+  </g>
+</svg>

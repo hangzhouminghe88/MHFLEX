@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+  <title>timed_task_n</title>
+  <desc>Created with Sketch.</desc>
+  <defs></defs>
+  <g id="*图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1317.000000, -1049.000000)">
+    <g id="timed_task_n" transform="translate(1317.000000, 1049.000000)">
+      <rect id="Rectangle-2" x="0" y="0" width="36" height="36"></rect>
+      <g id="Group-212" transform="translate(8.500000, 8.000000)">
+        <circle id="Oval-31" stroke="#97A4B6" cx="9" cy="10" r="4.5"></circle>
+        <polyline id="Path-34" stroke="#97A4B6" stroke-linecap="round" stroke-linejoin="round" points="9 8 9 10 11 10"></polyline>
+        <rect id="Rectangle-85" fill="#97A4B6" x="16" y="9.5" width="3" height="1" rx="0.5"></rect>
+        <rect id="Rectangle-85-Copy" fill="#97A4B6" x="16" y="6" width="3" height="1" rx="0.5"></rect>
+        <rect id="Rectangle-85" fill="#97A4B6" x="16" y="13" width="3" height="1" rx="0.5"></rect>
+        <path d="M1,0 L17,0 C17.5522847,-1.01453063e-16 18,0.44771525 18,1 L0,1 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01453063e-16 1,0 Z" id="Rectangle-86" fill="#97A4B6"></path>
+        <path d="M0,19 L18,19 L18,19 C18,19.5522847 17.5522847,20 17,20 L1,20 C0.44771525,20 6.76353751e-17,19.5522847 0,19 Z" id="Rectangle-86-Copy" fill="#97A4B6"></path>
+        <path d="M1,0 L1,20 L1,20 C0.44771525,20 6.76353751e-17,19.5522847 0,19 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01453063e-16 1,0 Z" id="Rectangle-86" fill="#97A4B6"></path>
+        <path d="M17,0 L17,0 C17.5522847,-1.01453063e-16 18,0.44771525 18,1 L18,3.5 C18,3.77614237 17.7761424,4 17.5,4 L17.5,4 C17.2238576,4 17,3.77614237 17,3.5 L17,0 Z" id="Rectangle-86-Copy-2" fill="#97A4B6"></path>
+        <path d="M17.5,16 L17.5,16 C17.7761424,16 18,16.2238576 18,16.5 L18,19 L17,19 L17,16.5 C17,16.2238576 17.2238576,16 17.5,16 Z" id="Rectangle-86-Copy-3" fill="#97A4B6"></path>
+      </g>
+    </g>
+  </g>
+</svg>

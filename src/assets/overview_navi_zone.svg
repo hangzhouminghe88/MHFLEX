@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+  <title>navi_zone copy</title>
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <path d="M11,21 C15.4442149,21 19.2113046,18.100882 20.5132396,14.0906753 C20.8292256,13.1173786 21,12.0786326 21,11 C21,5.4771525 16.5228475,1 11,1 C5.4771525,1 1,5.4771525 1,11 C1,16.5228475 5.4771525,21 11,21 Z" id="path-1"></path>
+  </defs>
+  <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="navi_zone-copy" transform="translate(-1.000000, -1.000000)">
+      <rect id="Rectangle-4" x="0" y="0" width="22" height="22"></rect>
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"></use>
+      </mask>
+      <path stroke="#2CDAFF" d="M11,20.5 C15.1468714,20.5 18.7772127,17.8187416 20.0376744,13.9362805 C20.3427928,12.996458 20.5,12.0091723 20.5,11 C20.5,5.75329488 16.2467051,1.5 11,1.5 C5.75329488,1.5 1.5,5.75329488 1.5,11 C1.5,16.2467051 5.75329488,20.5 11,20.5 Z"></path>
+      <circle id="Mask" stroke="#2CDAFF" mask="url(#mask-2)" cx="11" cy="11" r="5.5"></circle>
+      <path d="M14.5399351,13.467055 C15.0922198,13.467055 15.5399351,13.011294 15.5399351,12.4645817 L15.5399351,2.46952827 C15.5399351,1.91587756 15.0960703,1.46705497 14.5399351,1.46705497 C13.9876503,1.46705497 13.5399351,1.92281593 13.5399351,2.46952827 L13.5399351,12.4645817 C13.5399351,13.0182324 13.9837999,13.467055 14.5399351,13.467055 Z" id="Rectangle-36" fill="#2CDAFF" mask="url(#mask-2)" transform="translate(14.539935, 7.467055) rotate(-315.000000) translate(-14.539935, -7.467055) "></path>
+    </g>
+  </g>
+</svg>
+

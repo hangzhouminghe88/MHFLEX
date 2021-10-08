@@ -1,0 +1,2168 @@
+{
+  "ZStack/VM": {
+    "DiskAllFreeCapacityInBytes": {
+      "namespace": "ZStack/VM",
+      "name": "DiskAllFreeCapacityInBytes",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "byte"
+    },
+    "DiskAllFreeCapacityInPercent": {
+      "namespace": "ZStack/VM",
+      "name": "DiskAllFreeCapacityInPercent",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "percent"
+    },
+    "DiskAllUsedCapacityInBytes": {
+      "namespace": "ZStack/VM",
+      "name": "DiskAllUsedCapacityInBytes",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "byte"
+    },
+    "DiskAllUsedCapacityInPercent": {
+      "namespace": "ZStack/VM",
+      "name": "DiskAllUsedCapacityInPercent",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "percent"
+    },
+    "DiskUsedCapacityInBytes": {
+      "namespace": "ZStack/VM",
+      "name": "DiskUsedCapacityInBytes",
+      "labelNames": [
+        "VMUuid",
+        "DiskDeviceLetter",
+        "MountPoint"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "byte"
+    },
+    "DiskUsedCapacityInPercent": {
+      "namespace": "ZStack/VM",
+      "name": "DiskUsedCapacityInPercent",
+      "labelNames": [
+        "VMUuid",
+        "DiskDeviceLetter",
+        "MountPoint"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "percent"
+    },
+    "DiskFreeCapacityInPercent": {
+      "namespace": "ZStack/VM",
+      "name": "DiskFreeCapacityInPercent",
+      "labelNames": [
+        "VMUuid",
+        "DiskDeviceLetter",
+        "MountPoint"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "percent"
+    },
+    "DiskFreeCapacityInBytes": {
+      "namespace": "ZStack/VM",
+      "name": "DiskFreeCapacityInBytes",
+      "labelNames": [
+        "VMUuid",
+        "DiskDeviceLetter",
+        "MountPoint"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "byte"
+    },
+    "CPUUsedUtilization": {
+      "namespace": "ZStack/VM",
+      "name": "CPUUsedUtilization",
+      "labelNames": [
+        "VMUuid",
+        "CPUNum"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "percent"
+    },
+    "CPUIdleUtilization": {
+      "namespace": "ZStack/VM",
+      "name": "CPUIdleUtilization",
+      "labelNames": [
+        "VMUuid",
+        "CPUNum"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "percent"
+    },
+    "CPUAllUsedUtilization": {
+      "namespace": "ZStack/VM",
+      "name": "CPUAllUsedUtilization",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "percent"
+    },
+    "CPUAverageUsedUtilization": {
+      "namespace": "ZStack/VM",
+      "name": "CPUAverageUsedUtilization",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "percent"
+    },
+    "CPUAllIdleUtilization": {
+      "namespace": "ZStack/VM",
+      "name": "CPUAllIdleUtilization",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "percent"
+    },
+    "DiskReadOps": {
+      "namespace": "ZStack/VM",
+      "name": "DiskReadOps",
+      "labelNames": [
+        "VMUuid",
+        "DiskDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "count"
+    },
+    "DiskAllReadOps": {
+      "namespace": "ZStack/VM",
+      "name": "DiskAllReadOps",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "count"
+    },
+    "DiskWriteOps": {
+      "namespace": "ZStack/VM",
+      "name": "DiskWriteOps",
+      "labelNames": [
+        "VMUuid",
+        "DiskDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "count"
+    },
+    "DiskAllWriteOps": {
+      "namespace": "ZStack/VM",
+      "name": "DiskAllWriteOps",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "count"
+    },
+    "DiskReadBytes": {
+      "namespace": "ZStack/VM",
+      "name": "DiskReadBytes",
+      "labelNames": [
+        "VMUuid",
+        "DiskDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "byte/s"
+    },
+    "DiskAllReadBytes": {
+      "namespace": "ZStack/VM",
+      "name": "DiskAllReadBytes",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "byte/s"
+    },
+    "DiskWriteBytes": {
+      "namespace": "ZStack/VM",
+      "name": "DiskWriteBytes",
+      "labelNames": [
+        "VMUuid",
+        "DiskDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "byte/s"
+    },
+    "DiskAllWriteBytes": {
+      "namespace": "ZStack/VM",
+      "name": "DiskAllWriteBytes",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "byte/s"
+    },
+    "NetworkInBytes": {
+      "namespace": "ZStack/VM",
+      "name": "NetworkInBytes",
+      "labelNames": [
+        "VMUuid",
+        "NetworkDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "byte/s"
+    },
+    "NetworkAllInBytes": {
+      "namespace": "ZStack/VM",
+      "name": "NetworkAllInBytes",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "byte/s"
+    },
+    "NetworkInPackets": {
+      "namespace": "ZStack/VM",
+      "name": "NetworkInPackets",
+      "labelNames": [
+        "VMUuid",
+        "NetworkDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "count"
+    },
+    "NetworkAllInPackets": {
+      "namespace": "ZStack/VM",
+      "name": "NetworkAllInPackets",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "count"
+    },
+    "NetworkInErrors": {
+      "namespace": "ZStack/VM",
+      "name": "NetworkInErrors",
+      "labelNames": [
+        "VMUuid",
+        "NetworkDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "count"
+    },
+    "NetworkAllInErrors": {
+      "namespace": "ZStack/VM",
+      "name": "NetworkAllInErrors",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "count"
+    },
+    "NetworkOutBytes": {
+      "namespace": "ZStack/VM",
+      "name": "NetworkOutBytes",
+      "labelNames": [
+        "VMUuid",
+        "NetworkDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "byte/s"
+    },
+    "NetworkAllOutBytes": {
+      "namespace": "ZStack/VM",
+      "name": "NetworkAllOutBytes",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "byte/s"
+    },
+    "NetworkOutPackets": {
+      "namespace": "ZStack/VM",
+      "name": "NetworkOutPackets",
+      "labelNames": [
+        "VMUuid",
+        "NetworkDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "count"
+    },
+    "NetworkAllOutPackets": {
+      "namespace": "ZStack/VM",
+      "name": "NetworkAllOutPackets",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "count"
+    },
+    "NetworkOutErrors": {
+      "namespace": "ZStack/VM",
+      "name": "NetworkOutErrors",
+      "labelNames": [
+        "VMUuid",
+        "NetworkDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "count"
+    },
+    "NetworkAllOutErrors": {
+      "namespace": "ZStack/VM",
+      "name": "NetworkAllOutErrors",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "count"
+    },
+    "MemoryFreeBytes": {
+      "namespace": "ZStack/VM",
+      "name": "MemoryFreeBytes",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "byte"
+    },
+    "MemoryFreeInPercent": {
+      "namespace": "ZStack/VM",
+      "name": "MemoryFreeInPercent",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "percent"
+    },
+    "MemoryUsedBytes": {
+      "namespace": "ZStack/VM",
+      "name": "MemoryUsedBytes",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "byte"
+    },
+    "MemoryUsedInPercent": {
+      "namespace": "ZStack/VM",
+      "name": "MemoryUsedInPercent",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "percent"
+    },
+    "TotalVMCount": {
+      "namespace": "ZStack/VM",
+      "name": "TotalVMCount",
+      "labelNames": [],
+      "tags": [],
+      "unit": "count"
+    },
+    "RunningVMCount": {
+      "namespace": "ZStack/VM",
+      "name": "RunningVMCount",
+      "labelNames": [],
+      "tags": [],
+      "unit": "count"
+    },
+    "RunningVMInPercent": {
+      "namespace": "ZStack/VM",
+      "name": "RunningVMInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "StoppedVMCount": {
+      "namespace": "ZStack/VM",
+      "name": "StoppedVMCount",
+      "labelNames": [],
+      "tags": [],
+      "unit": "count"
+    },
+    "StoppedVMInPercent": {
+      "namespace": "ZStack/VM",
+      "name": "StoppedVMInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "OtherStateVMCount": {
+      "namespace": "ZStack/VM",
+      "name": "OtherStateVMCount",
+      "labelNames": [],
+      "tags": [],
+      "unit": "count"
+    },
+    "OtherStateVMInPercent": {
+      "namespace": "ZStack/VM",
+      "name": "OtherStateVMInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    }
+  },
+  "ZStack/VRouter": {
+    "CPUUsedUtilization": {
+      "namespace": "ZStack/VM",
+      "name": "CPUUsedUtilization",
+      "labelNames": [
+        "VMUuid",
+        "CPUNum"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "percent"
+    },
+    "CPUIdleUtilization": {
+      "namespace": "ZStack/VM",
+      "name": "CPUIdleUtilization",
+      "labelNames": [
+        "VMUuid",
+        "CPUNum"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "percent"
+    },
+    "CPUAllUsedUtilization": {
+      "namespace": "ZStack/VM",
+      "name": "CPUAllUsedUtilization",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "percent"
+    },
+    "CPUAllIdleUtilization": {
+      "namespace": "ZStack/VM",
+      "name": "CPUAllIdleUtilization",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "percent"
+    },
+    "DiskReadOps": {
+      "namespace": "ZStack/VM",
+      "name": "DiskReadOps",
+      "labelNames": [
+        "VMUuid",
+        "DiskDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "count"
+    },
+    "DiskAllReadOps": {
+      "namespace": "ZStack/VM",
+      "name": "DiskAllReadOps",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "count"
+    },
+    "DiskWriteOps": {
+      "namespace": "ZStack/VM",
+      "name": "DiskWriteOps",
+      "labelNames": [
+        "VMUuid",
+        "DiskDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "count"
+    },
+    "DiskAllWriteOps": {
+      "namespace": "ZStack/VM",
+      "name": "DiskAllWriteOps",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "count"
+    },
+    "DiskReadBytes": {
+      "namespace": "ZStack/VM",
+      "name": "DiskReadBytes",
+      "labelNames": [
+        "VMUuid",
+        "DiskDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "byte/s"
+    },
+    "DiskAllReadBytes": {
+      "namespace": "ZStack/VM",
+      "name": "DiskAllReadBytes",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "byte/s"
+    },
+    "DiskWriteBytes": {
+      "namespace": "ZStack/VM",
+      "name": "DiskWriteBytes",
+      "labelNames": [
+        "VMUuid",
+        "DiskDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "byte/s"
+    },
+    "DiskAllWriteBytes": {
+      "namespace": "ZStack/VM",
+      "name": "DiskAllWriteBytes",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "byte/s"
+    },
+    "NetworkInBytes": {
+      "namespace": "ZStack/VM",
+      "name": "NetworkInBytes",
+      "labelNames": [
+        "VMUuid",
+        "NetworkDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "byte/s"
+    },
+    "NetworkAllInBytes": {
+      "namespace": "ZStack/VM",
+      "name": "NetworkAllInBytes",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "byte/s"
+    },
+    "NetworkInPackets": {
+      "namespace": "ZStack/VM",
+      "name": "NetworkInPackets",
+      "labelNames": [
+        "VMUuid",
+        "NetworkDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "count"
+    },
+    "NetworkAllInPackets": {
+      "namespace": "ZStack/VM",
+      "name": "NetworkAllInPackets",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "count"
+    },
+    "NetworkInErrors": {
+      "namespace": "ZStack/VM",
+      "name": "NetworkInErrors",
+      "labelNames": [
+        "VMUuid",
+        "NetworkDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "count"
+    },
+    "NetworkAllInErrors": {
+      "namespace": "ZStack/VM",
+      "name": "NetworkAllInErrors",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "count"
+    },
+    "NetworkOutBytes": {
+      "namespace": "ZStack/VM",
+      "name": "NetworkOutBytes",
+      "labelNames": [
+        "VMUuid",
+        "NetworkDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "byte/s"
+    },
+    "NetworkAllOutBytes": {
+      "namespace": "ZStack/VM",
+      "name": "NetworkAllOutBytes",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "byte/s"
+    },
+    "NetworkOutPackets": {
+      "namespace": "ZStack/VM",
+      "name": "NetworkOutPackets",
+      "labelNames": [
+        "VMUuid",
+        "NetworkDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "count"
+    },
+    "NetworkAllOutPackets": {
+      "namespace": "ZStack/VM",
+      "name": "NetworkAllOutPackets",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "count"
+    },
+    "NetworkOutErrors": {
+      "namespace": "ZStack/VM",
+      "name": "NetworkOutErrors",
+      "labelNames": [
+        "VMUuid",
+        "NetworkDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "count"
+    },
+    "NetworkAllOutErrors": {
+      "namespace": "ZStack/VM",
+      "name": "NetworkAllOutErrors",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "count"
+    },
+    "MemoryFreeBytes": {
+      "namespace": "ZStack/VM",
+      "name": "MemoryFreeBytes",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "byte"
+    },
+    "MemoryFreeInPercent": {
+      "namespace": "ZStack/VM",
+      "name": "MemoryFreeInPercent",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "percent"
+    },
+    "MemoryUsedBytes": {
+      "namespace": "ZStack/VM",
+      "name": "MemoryUsedBytes",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "byte"
+    },
+    "MemoryUsedInPercent": {
+      "namespace": "ZStack/VM",
+      "name": "MemoryUsedInPercent",
+      "labelNames": [
+        "VMUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "percent"
+    }
+  },
+  "ZStack/Image": {
+    "TotalImageCount": {
+      "namespace": "ZStack/Image",
+      "name": "TotalImageCount",
+      "labelNames": [],
+      "tags": [],
+      "unit": "count"
+    },
+    "ReadyImageCount": {
+      "namespace": "ZStack/Image",
+      "name": "ReadyImageCount",
+      "labelNames": [],
+      "tags": [],
+      "unit": "count"
+    },
+    "ReadyImageInPercent": {
+      "namespace": "ZStack/Image",
+      "name": "ReadyImageInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "RootVolumeTemplateCount": {
+      "namespace": "ZStack/Image",
+      "name": "RootVolumeTemplateCount",
+      "labelNames": [],
+      "tags": [],
+      "unit": "count"
+    },
+    "RootVolumeTemplateInPercent": {
+      "namespace": "ZStack/Image",
+      "name": "RootVolumeTemplateInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "DataVolumeTemplateCount": {
+      "namespace": "ZStack/Image",
+      "name": "DataVolumeTemplateCount",
+      "labelNames": [],
+      "tags": [],
+      "unit": "count"
+    },
+    "DataVolumeTemplateInPercent": {
+      "namespace": "ZStack/Image",
+      "name": "DataVolumeTemplateInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "ISOCount": {
+      "namespace": "ZStack/Image",
+      "name": "ISOCount",
+      "labelNames": [],
+      "tags": [],
+      "unit": "count"
+    },
+    "ISOInPercent": {
+      "namespace": "ZStack/Image",
+      "name": "ISOInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    }
+  },
+  "ZStack/BackupStorage": {
+    "TotalAvailableCapacityInBytes": {
+      "namespace": "ZStack/BackupStorage",
+      "name": "TotalAvailableCapacityInBytes",
+      "labelNames": [],
+      "tags": [],
+      "unit": "byte"
+    },
+    "TotalAvailableCapacityInPercent": {
+      "namespace": "ZStack/BackupStorage",
+      "name": "TotalAvailableCapacityInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "AvailableCapacityInBytes": {
+      "namespace": "ZStack/BackupStorage",
+      "name": "AvailableCapacityInBytes",
+      "labelNames": [
+        "BackupStorageUuid",
+        "BackupStorageType"
+      ],
+      "tags": [
+        "or",
+        "range::multiple"
+      ],
+      "unit": "byte"
+    },
+    "AvailableCapacityInPercent": {
+      "namespace": "ZStack/BackupStorage",
+      "name": "AvailableCapacityInPercent",
+      "labelNames": [
+        "BackupStorageUuid",
+        "BackupStorageType"
+      ],
+      "tags": [
+        "or",
+        "range::multiple"
+      ],
+      "unit": "percent"
+    },
+    "TotalUsedCapacityInBytes": {
+      "namespace": "ZStack/BackupStorage",
+      "name": "TotalUsedCapacityInBytes",
+      "labelNames": [],
+      "tags": [],
+      "unit": "byte"
+    },
+    "TotalUsedCapacityInPercent": {
+      "namespace": "ZStack/BackupStorage",
+      "name": "TotalUsedCapacityInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "UsedCapacityInBytes": {
+      "namespace": "ZStack/BackupStorage",
+      "name": "UsedCapacityInBytes",
+      "labelNames": [
+        "BackupStorageUuid",
+        "BackupStorageType"
+      ],
+      "tags": [
+        "or",
+        "range::multiple"
+      ],
+      "unit": "byte"
+    },
+    "UsedCapacityInPercent": {
+      "namespace": "ZStack/BackupStorage",
+      "name": "UsedCapacityInPercent",
+      "labelNames": [
+        "BackupStorageUuid",
+        "BackupStorageType"
+      ],
+      "tags": [
+        "or",
+        "range::multiple"
+      ],
+      "unit": "percent"
+    },
+    "TotalLockedCapacityInBytes": {
+      "namespace": "ZStack/BackupStorage",
+      "name": "TotalLockedCapacityInBytes",
+      "labelNames": [],
+      "tags": [],
+      "unit": "byte"
+    },
+    "TotalLockedCapacityInPercent": {
+      "namespace": "ZStack/BackupStorage",
+      "name": "TotalLockedCapacityInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    }
+  },
+  "ZStack/System": {
+    "ManagementServerDirFreeCapacityInBytes": {
+      "namespace": "ZStack/System",
+      "name": "ManagementServerDirFreeCapacityInBytes",
+      "labelNames": [
+        "ManagementNodeIP",
+        "DirPath"
+      ],
+      "tags": [],
+      "unit": "byte"
+    },
+    "ManagementServerDirFreeCapacityInPercent": {
+      "namespace": "ZStack/System",
+      "name": "ManagementServerDirFreeCapacityInPercent",
+      "labelNames": [
+        "ManagementNodeIP",
+        "DirPath"
+      ],
+      "tags": [],
+      "unit": "percent"
+    },
+    "ManagementServerDirUsedCapacityInBytes": {
+      "namespace": "ZStack/System",
+      "name": "ManagementServerDirUsedCapacityInBytes",
+      "labelNames": [
+        "ManagementNodeIP",
+        "DirPath"
+      ],
+      "tags": [],
+      "unit": "byte"
+    },
+    "ManagementServerDirUsedCapacityInPercent": {
+      "namespace": "ZStack/System",
+      "name": "ManagementServerDirUsedCapacityInPercent",
+      "labelNames": [
+        "ManagementNodeIP",
+        "DirPath"
+      ],
+      "tags": [],
+      "unit": "percent"
+    }
+  },
+  "ZStack/Host": {
+    "DiskRootUsedCapacityInPercent": {
+      "namespace": "ZStack/Host",
+      "name": "DiskRootUsedCapacityInPercent",
+      "labelNames": [
+        "HostUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "percent"
+    },
+    "DiskRootUsedCapacityInBytes": {
+      "namespace": "ZStack/Host",
+      "name": "DiskRootUsedCapacityInBytes",
+      "labelNames": [
+        "HostUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "byte"
+    },
+    "CPUIdleUtilization": {
+      "namespace": "ZStack/Host",
+      "name": "CPUIdleUtilization",
+      "labelNames": [
+        "HostUuid",
+        "CPUNum"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "percent"
+    },
+    "CPUAllIdleUtilization": {
+      "namespace": "ZStack/Host",
+      "name": "CPUAllIdleUtilization",
+      "labelNames": [
+        "HostUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "percent"
+    },
+    "CPUUsedUtilization": {
+      "namespace": "ZStack/Host",
+      "name": "CPUUsedUtilization",
+      "labelNames": [
+        "HostUuid",
+        "CPUNum"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "percent"
+    },
+    "CPUAverageUsedUtilization": {
+      "namespace": "ZStack/Host",
+      "name": "CPUAverageUsedUtilization",
+      "labelNames": [
+        "HostUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "percent"
+    },
+    "CPUAllUsedUtilization": {
+      "namespace": "ZStack/Host",
+      "name": "CPUAllUsedUtilization",
+      "labelNames": [
+        "HostUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "percent"
+    },
+    "MemoryFreeBytes": {
+      "namespace": "ZStack/Host",
+      "name": "MemoryFreeBytes",
+      "labelNames": [
+        "HostUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "byte"
+    },
+    "MemoryFreeInPercent": {
+      "namespace": "ZStack/Host",
+      "name": "MemoryFreeInPercent",
+      "labelNames": [
+        "HostUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "percent"
+    },
+    "MemoryUsedBytes": {
+      "namespace": "ZStack/Host",
+      "name": "MemoryUsedBytes",
+      "labelNames": [
+        "HostUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "byte"
+    },
+    "MemoryUsedInPercent": {
+      "namespace": "ZStack/Host",
+      "name": "MemoryUsedInPercent",
+      "labelNames": [
+        "HostUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "percent"
+    },
+    "DiskReadOps": {
+      "namespace": "ZStack/Host",
+      "name": "DiskReadOps",
+      "labelNames": [
+        "HostUuid",
+        "DiskDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "count"
+    },
+    "DiskAllReadOps": {
+      "namespace": "ZStack/Host",
+      "name": "DiskAllReadOps",
+      "labelNames": [
+        "HostUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "count"
+    },
+    "DiskWriteOps": {
+      "namespace": "ZStack/Host",
+      "name": "DiskWriteOps",
+      "labelNames": [
+        "HostUuid",
+        "DiskDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "count"
+    },
+    "DiskAllWriteOps": {
+      "namespace": "ZStack/Host",
+      "name": "DiskAllWriteOps",
+      "labelNames": [
+        "HostUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "count"
+    },
+    "DiskReadBytes": {
+      "namespace": "ZStack/Host",
+      "name": "DiskReadBytes",
+      "labelNames": [
+        "HostUuid",
+        "DiskDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "byte/s"
+    },
+    "DiskAllReadBytes": {
+      "namespace": "ZStack/Host",
+      "name": "DiskAllReadBytes",
+      "labelNames": [
+        "HostUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "byte/s"
+    },
+    "DiskWriteBytes": {
+      "namespace": "ZStack/Host",
+      "name": "DiskWriteBytes",
+      "labelNames": [
+        "HostUuid",
+        "DiskDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "byte/s"
+    },
+    "DiskAllWriteBytes": {
+      "namespace": "ZStack/Host",
+      "name": "DiskAllWriteBytes",
+      "labelNames": [
+        "HostUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "byte/s"
+    },
+    "NetworkInBytes": {
+      "namespace": "ZStack/Host",
+      "name": "NetworkInBytes",
+      "labelNames": [
+        "HostUuid",
+        "NetworkDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "byte/s"
+    },
+    "NetworkAllInBytes": {
+      "namespace": "ZStack/Host",
+      "name": "NetworkAllInBytes",
+      "labelNames": [
+        "HostUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "byte/s"
+    },
+    "NetworkInPackets": {
+      "namespace": "ZStack/Host",
+      "name": "NetworkInPackets",
+      "labelNames": [
+        "HostUuid",
+        "NetworkDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "count"
+    },
+    "NetworkAllInPackets": {
+      "namespace": "ZStack/Host",
+      "name": "NetworkAllInPackets",
+      "labelNames": [
+        "HostUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "count"
+    },
+    "NetworkInErrors": {
+      "namespace": "ZStack/Host",
+      "name": "NetworkInErrors",
+      "labelNames": [
+        "HostUuid",
+        "NetworkDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "count"
+    },
+    "NetworkAllInErrors": {
+      "namespace": "ZStack/Host",
+      "name": "NetworkAllInErrors",
+      "labelNames": [
+        "HostUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "count"
+    },
+    "NetworkOutBytes": {
+      "namespace": "ZStack/Host",
+      "name": "NetworkOutBytes",
+      "labelNames": [
+        "HostUuid",
+        "NetworkDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "byte/s"
+    },
+    "NetworkAllOutBytes": {
+      "namespace": "ZStack/Host",
+      "name": "NetworkAllOutBytes",
+      "labelNames": [
+        "HostUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "byte/s"
+    },
+    "NetworkOutPackets": {
+      "namespace": "ZStack/Host",
+      "name": "NetworkOutPackets",
+      "labelNames": [
+        "HostUuid",
+        "NetworkDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "count"
+    },
+    "NetworkAllOutPackets": {
+      "namespace": "ZStack/Host",
+      "name": "NetworkAllOutPackets",
+      "labelNames": [
+        "HostUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "count"
+    },
+    "NetworkOutErrors": {
+      "namespace": "ZStack/Host",
+      "name": "NetworkOutErrors",
+      "labelNames": [
+        "HostUuid",
+        "NetworkDeviceLetter"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "count"
+    },
+    "NetworkAllOutErrors": {
+      "namespace": "ZStack/Host",
+      "name": "NetworkAllOutErrors",
+      "labelNames": [
+        "HostUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "count"
+    },
+    "DiskAllFreeCapacityInBytes": {
+      "namespace": "ZStack/Host",
+      "name": "DiskAllFreeCapacityInBytes",
+      "labelNames": [
+        "HostUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "byte"
+    },
+    "DiskAllFreeCapacityInPercent": {
+      "namespace": "ZStack/Host",
+      "name": "DiskAllFreeCapacityInPercent",
+      "labelNames": [
+        "HostUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "percent"
+    },
+    "DiskAllUsedCapacityInBytes": {
+      "namespace": "ZStack/Host",
+      "name": "DiskAllUsedCapacityInBytes",
+      "labelNames": [
+        "HostUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "byte"
+    },
+    "DiskAllUsedCapacityInPercent": {
+      "namespace": "ZStack/Host",
+      "name": "DiskAllUsedCapacityInPercent",
+      "labelNames": [
+        "HostUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "percent"
+    },
+    "DiskCapacityInBytes": {
+      "namespace": "ZStack/Host",
+      "name": "DiskCapacityInBytes",
+      "labelNames": [
+        "HostUuid",
+        "DiskDeviceLetter",
+        "MountPoint"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "byte"
+    },
+    "DiskFreeCapacityInPercent": {
+      "namespace": "ZStack/Host",
+      "name": "DiskFreeCapacityInPercent",
+      "labelNames": [
+        "HostUuid",
+        "DiskDeviceLetter",
+        "MountPoint"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "percent"
+    },
+    "DiskUsedCapacityInBytes": {
+      "namespace": "ZStack/Host",
+      "name": "DiskUsedCapacityInBytes",
+      "labelNames": [
+        "HostUuid",
+        "DiskDeviceLetter",
+        "MountPoint"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "byte"
+    },
+    "DiskUsedCapacityInPercent": {
+      "namespace": "ZStack/Host",
+      "name": "DiskUsedCapacityInPercent",
+      "labelNames": [
+        "HostUuid",
+        "DiskDeviceLetter",
+        "MountPoint"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "percent"
+    },
+    "DiskXfsFragInPercent": {
+      "namespace": "ZStack/Host",
+      "name": "DiskXfsFragInPercent",
+      "labelNames": [
+        "HostUuid"
+      ],
+      "tags": [
+        "range::optional"
+      ],
+      "unit": "percent"
+    },
+    "HostTotal": {
+      "namespace": "ZStack/Host",
+      "name": "HostTotal",
+      "labelNames": [],
+      "tags": [],
+      "unit": "count"
+    },
+    "ConnectedHostCount": {
+      "namespace": "ZStack/Host",
+      "name": "ConnectedHostCount",
+      "labelNames": [],
+      "tags": [],
+      "unit": "count"
+    },
+    "ConnectedHostInPercent": {
+      "namespace": "ZStack/Host",
+      "name": "ConnectedHostInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "DisconnectedHostCount": {
+      "namespace": "ZStack/Host",
+      "name": "DisconnectedHostCount",
+      "labelNames": [],
+      "tags": [],
+      "unit": "count"
+    },
+    "DisconnectedHostInPercent": {
+      "namespace": "ZStack/Host",
+      "name": "DisconnectedHostInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "CPUCapacityTotal": {
+      "namespace": "ZStack/Host",
+      "name": "CPUCapacityTotal",
+      "labelNames": [],
+      "tags": [],
+      "unit": "count"
+    },
+    "CPUUsedCapacityCount": {
+      "namespace": "ZStack/Host",
+      "name": "CPUUsedCapacityCount",
+      "labelNames": [],
+      "tags": [],
+      "unit": "count"
+    },
+    "CPULockedCapacityCount": {
+      "namespace": "ZStack/Host",
+      "name": "CPULockedCapacityCount",
+      "labelNames": [],
+      "tags": [],
+      "unit": "count"
+    },
+    "CPUUsedCapacityInPercent": {
+      "namespace": "ZStack/Host",
+      "name": "CPUUsedCapacityInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "CPULockedCapacityInPercent": {
+      "namespace": "ZStack/Host",
+      "name": "CPULockedCapacityInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "CPUAvailableCapacityCount": {
+      "namespace": "ZStack/Host",
+      "name": "CPUAvailableCapacityCount",
+      "labelNames": [],
+      "tags": [],
+      "unit": "count"
+    },
+    "CPUAvailableCapacityInPercent": {
+      "namespace": "ZStack/Host",
+      "name": "CPUAvailableCapacityInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "CPUUsedCapacityPerHostCount": {
+      "namespace": "ZStack/Host",
+      "name": "CPUUsedCapacityPerHostCount",
+      "labelNames": [
+        "HostUuid",
+        "HypervisorType"
+      ],
+      "tags": [
+        "or",
+        "range::optional"
+      ],
+      "unit": "count"
+    },
+    "CPUUsedCapacityPerHostInPercent": {
+      "namespace": "ZStack/Host",
+      "name": "CPUUsedCapacityPerHostInPercent",
+      "labelNames": [
+        "HostUuid",
+        "HypervisorType"
+      ],
+      "tags": [
+        "or",
+        "range::optional"
+      ],
+      "unit": "percent"
+    },
+    "CPUAvailableCapacityPerHostCount": {
+      "namespace": "ZStack/Host",
+      "name": "CPUAvailableCapacityPerHostCount",
+      "labelNames": [
+        "HostUuid",
+        "HypervisorType"
+      ],
+      "tags": [
+        "or",
+        "range::optional"
+      ],
+      "unit": "count"
+    },
+    "CPUAvailableCapacityPerHostInPercent": {
+      "namespace": "ZStack/Host",
+      "name": "CPUAvailableCapacityPerHostInPercent",
+      "labelNames": [
+        "HostUuid",
+        "HypervisorType"
+      ],
+      "tags": [
+        "or",
+        "range::optional"
+      ],
+      "unit": "percent"
+    },
+    "MemoryCapacityTotal": {
+      "namespace": "ZStack/Host",
+      "name": "MemoryCapacityTotal",
+      "labelNames": [],
+      "tags": [],
+      "unit": "byte/s"
+    },
+    "MemoryUsedCapacityInBytes": {
+      "namespace": "ZStack/Host",
+      "name": "MemoryUsedCapacityInBytes",
+      "labelNames": [],
+      "tags": [],
+      "unit": "byte"
+    },
+    "MemoryUsedCapacityInPercent": {
+      "namespace": "ZStack/Host",
+      "name": "MemoryUsedCapacityInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "MemoryLockedCapacityInBytes": {
+      "namespace": "ZStack/Host",
+      "name": "MemoryLockedCapacityInBytes",
+      "labelNames": [],
+      "tags": [],
+      "unit": "byte"
+    },
+    "MemoryLockedCapacityInPercent": {
+      "namespace": "ZStack/Host",
+      "name": "MemoryLockedCapacityInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "MemoryAvailableCapacityInBytes": {
+      "namespace": "ZStack/Host",
+      "name": "MemoryAvailableCapacityInBytes",
+      "labelNames": [],
+      "tags": [],
+      "unit": "byte"
+    },
+    "MemoryAvailableCapacityInPercent": {
+      "namespace": "ZStack/Host",
+      "name": "MemoryAvailableCapacityInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "MemoryUsedCapacityPerHostInBytes": {
+      "namespace": "ZStack/Host",
+      "name": "MemoryUsedCapacityPerHostInBytes",
+      "labelNames": [
+        "HostUuid",
+        "HypervisorType"
+      ],
+      "tags": [
+        "or",
+        "range::multiple"
+      ],
+      "unit": "byte"
+    },
+    "MemoryUsedCapacityPerHostInPercent": {
+      "namespace": "ZStack/Host",
+      "name": "MemoryUsedCapacityPerHostInPercent",
+      "labelNames": [
+        "HostUuid",
+        "HypervisorType"
+      ],
+      "tags": [
+        "or",
+        "range::multiple"
+      ],
+      "unit": "percent"
+    },
+    "MemoryAvailableCapacityPerHostInBytes": {
+      "namespace": "ZStack/Host",
+      "name": "MemoryAvailableCapacityPerHostInBytes",
+      "labelNames": [
+        "HostUuid",
+        "HypervisorType"
+      ],
+      "tags": [
+        "or",
+        "range::multiple"
+      ],
+      "unit": "byte"
+    },
+    "MemoryAvailableCapacityPerHostInPercent": {
+      "namespace": "ZStack/Host",
+      "name": "MemoryAvailableCapacityPerHostInPercent",
+      "labelNames": [
+        "HostUuid",
+        "HypervisorType"
+      ],
+      "tags": [
+        "or",
+        "range::multiple"
+      ],
+      "unit": "percent"
+    }
+  },
+  "ZStack/L3Network": {
+    "TotalAvailableIPCount": {
+      "namespace": "ZStack/L3Network",
+      "name": "TotalAvailableIPCount",
+      "labelNames": [],
+      "tags": [],
+      "unit": "count"
+    },
+    "TotalAvailableIPInPercent": {
+      "namespace": "ZStack/L3Network",
+      "name": "TotalAvailableIPInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "TotalUsedIPCount": {
+      "namespace": "ZStack/L3Network",
+      "name": "TotalUsedIPCount",
+      "labelNames": [],
+      "tags": [],
+      "unit": "count"
+    },
+    "TotalUsedIPInPercent": {
+      "namespace": "ZStack/L3Network",
+      "name": "TotalUsedIPInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "TotalLockedIPCount": {
+      "namespace": "ZStack/L3Network",
+      "name": "TotalLockedIPCount",
+      "labelNames": [],
+      "tags": [],
+      "unit": "count"
+    },
+    "TotalLockedIPInPercent": {
+      "namespace": "ZStack/L3Network",
+      "name": "TotalLockedIPInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "AvailableIPCount": {
+      "namespace": "ZStack/L3Network",
+      "name": "AvailableIPCount",
+      "labelNames": [
+        "L3NetworkUuid",
+        "L3NetworkType"
+      ],
+      "tags": [
+        "or",
+        "range::multiple"
+      ],
+      "unit": "count"
+    },
+    "AvailableIPInPercent": {
+      "namespace": "ZStack/L3Network",
+      "name": "AvailableIPInPercent",
+      "labelNames": [
+        "L3NetworkUuid",
+        "L3NetworkType"
+      ],
+      "tags": [
+        "or",
+        "range::multiple"
+      ],
+      "unit": "percent"
+    },
+    "UsedIPCount": {
+      "namespace": "ZStack/L3Network",
+      "name": "UsedIPCount",
+      "labelNames": [
+        "L3NetworkUuid",
+        "L3NetworkType"
+      ],
+      "tags": [
+        "or",
+        "range::multiple"
+      ],
+      "unit": "count"
+    },
+    "UsedIPInPercent": {
+      "namespace": "ZStack/L3Network",
+      "name": "UsedIPInPercent",
+      "labelNames": [
+        "L3NetworkUuid",
+        "L3NetworkType"
+      ],
+      "tags": [
+        "or",
+        "range::multiple"
+      ],
+      "unit": "percent"
+    }
+  },
+  "ZStack/Volume": {
+    "TotalVolumeCount": {
+      "namespace": "ZStack/Volume",
+      "name": "TotalVolumeCount",
+      "labelNames": [],
+      "tags": [],
+      "unit": "count"
+    },
+    "RootVolumeCount": {
+      "namespace": "ZStack/Volume",
+      "name": "RootVolumeCount",
+      "labelNames": [],
+      "tags": [],
+      "unit": "count"
+    },
+    "RootVolumeInPercent": {
+      "namespace": "ZStack/Volume",
+      "name": "RootVolumeInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "DataVolumeCount": {
+      "namespace": "ZStack/Volume",
+      "name": "DataVolumeCount",
+      "labelNames": [],
+      "tags": [],
+      "unit": "count"
+    },
+    "DataVolumeInPercent": {
+      "namespace": "ZStack/Volume",
+      "name": "DataVolumeInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "ReadyDataVolumeCount": {
+      "namespace": "ZStack/Volume",
+      "name": "ReadyDataVolumeCount",
+      "labelNames": [],
+      "tags": [],
+      "unit": "count"
+    },
+    "ReadyDataVolumeInPercent": {
+      "namespace": "ZStack/Volume",
+      "name": "ReadyDataVolumeInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "TotalVolumeSnapshotCount": {
+      "namespace": "ZStack/Volume",
+      "name": "TotalVolumeSnapshotCount",
+      "labelNames": [],
+      "tags": [],
+      "unit": "count"
+    },
+    "RootVolumeSnapshotCount": {
+      "namespace": "ZStack/Volume",
+      "name": "RootVolumeSnapshotCount",
+      "labelNames": [],
+      "tags": [],
+      "unit": "count"
+    },
+    "RootVolumeSnapshotInPercent": {
+      "namespace": "ZStack/Volume",
+      "name": "RootVolumeSnapshotInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "DataVolumeSnapshotCount": {
+      "namespace": "ZStack/Volume",
+      "name": "DataVolumeSnapshotCount",
+      "labelNames": [],
+      "tags": [],
+      "unit": "count"
+    },
+    "DataVolumeSnapshotInPercent": {
+      "namespace": "ZStack/Volume",
+      "name": "DataVolumeSnapshotInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "VolumeActualSizeInPercent": {
+      "namespace": "ZStack/Volume",
+      "name": "VolumeActualSizeInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "VolumeXfsFragCount": {
+      "namespace": "ZStack/Volume",
+      "name": "VolumeXfsFragCount",
+      "labelNames": [
+        "VolumeUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "count"
+    }
+  },
+  "ZStack/VIP": {
+    "VIPInBoundTrafficInBytes": {
+      "namespace": "ZStack/VIP",
+      "name": "VIPInBoundTrafficInBytes",
+      "labelNames": [
+        "VipUUID"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "byte/s"
+    },
+    "VIPInBoundTrafficInPackages": {
+      "namespace": "ZStack/VIP",
+      "name": "VIPInBoundTrafficInPackages",
+      "labelNames": [
+        "VipUUID"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "count"
+    },
+    "VIPOutBoundTrafficInBytes": {
+      "namespace": "ZStack/VIP",
+      "name": "VIPOutBoundTrafficInBytes",
+      "labelNames": [
+        "VipUUID"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "byte/s"
+    },
+    "VIPOutBoundTrafficInPackages": {
+      "namespace": "ZStack/VIP",
+      "name": "VIPOutBoundTrafficInPackages",
+      "labelNames": [
+        "VipUUID"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "count"
+    }
+  },
+  "ZStack/PrimaryStorage": {
+    "TotalCapacityInBytes": {
+      "namespace": "ZStack/PrimaryStorage",
+      "name": "TotalCapacityInBytes",
+      "labelNames": [],
+      "tags": [],
+      "unit": "byte"
+    },
+    "TotalAvailableCapacityInBytes": {
+      "namespace": "ZStack/PrimaryStorage",
+      "name": "TotalAvailableCapacityInBytes",
+      "labelNames": [],
+      "tags": [],
+      "unit": "byte"
+    },
+    "TotalAvailableCapacityInPercent": {
+      "namespace": "ZStack/PrimaryStorage",
+      "name": "TotalAvailableCapacityInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "TotalUsedCapacityInBytes": {
+      "namespace": "ZStack/PrimaryStorage",
+      "name": "TotalUsedCapacityInBytes",
+      "labelNames": [],
+      "tags": [],
+      "unit": "byte"
+    },
+    "TotalUsedCapacityInPercent": {
+      "namespace": "ZStack/PrimaryStorage",
+      "name": "TotalUsedCapacityInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "TotalLockedCapacityInBytes": {
+      "namespace": "ZStack/PrimaryStorage",
+      "name": "TotalLockedCapacityInBytes",
+      "labelNames": [],
+      "tags": [],
+      "unit": "byte"
+    },
+    "TotalLockedCapacityInPercent": {
+      "namespace": "ZStack/PrimaryStorage",
+      "name": "TotalLockedCapacityInPercent",
+      "labelNames": [],
+      "tags": [],
+      "unit": "percent"
+    },
+    "AvailableCapacityInBytes": {
+      "namespace": "ZStack/PrimaryStorage",
+      "name": "AvailableCapacityInBytes",
+      "labelNames": [
+        "PrimaryStorageUuid",
+        "PrimaryStorageType"
+      ],
+      "tags": [
+        "or",
+        "range::multiple"
+      ],
+      "unit": "byte"
+    },
+    "AvailableCapacityInPercent": {
+      "namespace": "ZStack/PrimaryStorage",
+      "name": "AvailableCapacityInPercent",
+      "labelNames": [
+        "PrimaryStorageUuid",
+        "PrimaryStorageType"
+      ],
+      "tags": [
+        "or",
+        "range::multiple"
+      ],
+      "unit": "percent"
+    },
+    "UsedCapacityInBytes": {
+      "namespace": "ZStack/PrimaryStorage",
+      "name": "UsedCapacityInBytes",
+      "labelNames": [
+        "PrimaryStorageUuid",
+        "PrimaryStorageType"
+      ],
+      "tags": [
+        "or",
+        "range::multiple"
+      ],
+      "unit": "byte"
+    },
+    "UsedCapacityInPercent": {
+      "namespace": "ZStack/PrimaryStorage",
+      "name": "UsedCapacityInPercent",
+      "labelNames": [
+        "PrimaryStorageUuid",
+        "PrimaryStorageType"
+      ],
+      "tags": [
+        "or",
+        "range::multiple"
+      ],
+      "unit": "percent"
+    },
+    "AvailablePhysicalCapacityInBytes": {
+      "namespace": "ZStack/PrimaryStorage",
+      "name": "AvailablePhysicalCapacityInBytes",
+      "labelNames": [
+        "PrimaryStorageUuid",
+        "PrimaryStorageType"
+      ],
+      "tags": [
+        "or",
+        "range::multiple"
+      ],
+      "unit": "byte"
+    },
+    "AvailablePhysicalCapacityInPercent": {
+      "namespace": "ZStack/PrimaryStorage",
+      "name": "AvailablePhysicalCapacityInPercent",
+      "labelNames": [
+        "PrimaryStorageUuid",
+        "PrimaryStorageType"
+      ],
+      "tags": [
+        "or",
+        "range::multiple"
+      ],
+      "unit": "percent"
+    },
+    "UsedPhysicalCapacityInBytes": {
+      "namespace": "ZStack/PrimaryStorage",
+      "name": "UsedPhysicalCapacityInBytes",
+      "labelNames": [
+        "PrimaryStorageUuid",
+        "PrimaryStorageType"
+      ],
+      "tags": [
+        "or",
+        "range::multiple"
+      ],
+      "unit": "byte"
+    },
+    "UsedPhysicalCapacityInPercent": {
+      "namespace": "ZStack/PrimaryStorage",
+      "name": "UsedPhysicalCapacityInPercent",
+      "labelNames": [
+        "PrimaryStorageUuid",
+        "PrimaryStorageType"
+      ],
+      "tags": [
+        "or",
+        "range::multiple"
+      ],
+      "unit": "percent"
+    },
+    "RootVolumeCount": {
+      "namespace": "ZStack/PrimaryStorage",
+      "name": "RootVolumeCount",
+      "labelNames": [
+        "PrimaryStorageUuid",
+        "PrimaryStorageType"
+      ],
+      "tags": [
+        "or",
+        "range::multiple"
+      ],
+      "unit": "count"
+    },
+    "DataVolumeCount": {
+      "namespace": "ZStack/PrimaryStorage",
+      "name": "DataVolumeCount",
+      "labelNames": [
+        "PrimaryStorageUuid",
+        "PrimaryStorageType"
+      ],
+      "tags": [
+        "or",
+        "range::multiple"
+      ],
+      "unit": "count"
+    },
+    "SnapshotCount": {
+      "namespace": "ZStack/PrimaryStorage",
+      "name": "SnapshotCount",
+      "labelNames": [
+        "PrimaryStorageUuid",
+        "PrimaryStorageType"
+      ],
+      "tags": [
+        "or",
+        "range::multiple"
+      ],
+      "unit": "count"
+    }
+  },
+  "ZStack/LoadBalancer": {
+    "LoadBalancerSessionNumber": {
+      "namespace": "ZStack/LoadBalancer",
+      "name": "LoadBalancerSessionNumber",
+      "labelNames": [
+        "ListenerUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "count"
+    },
+    "LoadBalancerSessionUsage": {
+      "namespace": "ZStack/LoadBalancer",
+      "name": "LoadBalancerSessionUsage",
+      "labelNames": [
+        "ListenerUuid"
+      ],
+      "tags": [
+        "range::multiple"
+      ],
+      "unit": "percent"
+    }
+  }
+}

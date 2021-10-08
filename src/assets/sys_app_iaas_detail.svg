@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>sys_app_iaas_detail</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="67.9624496%" y2="30.859375%" id="linearGradient-1">
+            <stop stop-color="#A2CFFF" offset="0%"></stop>
+            <stop stop-color="#84C0FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="22.4" width="43.4" height="25.2" rx="12.6"></rect>
+        <linearGradient x1="37.0467748%" y1="61.8193655%" x2="50%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#D3E8FF" offset="0%"></stop>
+            <stop stop-color="#C0DEFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M54.5753354,22.7066525 C60.1988889,23.9707671 64.4,28.9947725 64.4,35 C64.4,41.9587878 58.7587878,47.6 51.8,47.6 L29.4,47.6 C28.1304597,47.6 26.9047726,47.4122421 25.7491923,47.0629798 C15.0309443,44.7468078 7,35.2112677 7,23.8 C7,10.655623 17.655623,0 30.8,0 C43.5779344,0 54.0039448,10.0697836 54.5753323,22.7066518 Z" id="path-4"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#E7F2FF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-6" cx="51.8" cy="35" r="12.6"></circle>
+    </defs>
+    <g id="应用中心" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sys_app_iaas_detail">
+            <rect id="Rectangle-11-Copy-3" x="0" y="0" width="70" height="70"></rect>
+            <g id="Group-14" transform="translate(2.800000, 11.200000)">
+                <g id="Rectangle-9">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#A0CEFF" stroke-width="1.4" x="0.7" y="23.1" width="42" height="23.8" rx="11.9"></rect>
+                </g>
+                <g id="Combined-Shape">
+                    <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <path stroke="#D5E9FF" stroke-width="1.4" d="M54.4218138,23.3896101 L53.900199,23.2723567 L53.8760468,22.7382706 C53.3197014,10.4340758 43.162451,0.7 30.8,0.7 C18.0422223,0.7 7.7,11.0422223 7.7,23.8 C7.7,34.7298485 15.3505354,44.0997125 25.9517122,46.3929159 C27.0599837,46.7278796 28.2180547,46.9 29.4,46.9 L51.8,46.9 C58.3721885,46.9 63.7,41.5721885 63.7,35 C63.7,29.4054688 59.8082724,24.6004283 54.4218138,23.3896101 Z"></path>
+                </g>
+                <g id="Oval-5">
+                    <use fill="url(#linearGradient-5)" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    <circle stroke="#FFFFFF" stroke-width="1.4" cx="51.8" cy="35" r="11.9"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+

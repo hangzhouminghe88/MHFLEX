@@ -1,0 +1,26 @@
+
+<svg width="63px" height="61px" viewBox="1331 582 63 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <path d="M0.300710829,20.9786751 C0.686917574,9.39247279 10.4079804,0 22.0061566,0 L39.9938434,0 C51.5952233,0 61.3129775,9.38932566 61.6992892,20.9786751 L62,30 L61.6992892,39.0213249 C61.3130824,50.6075272 51.5920196,60 39.9938434,60 L22.0061566,60 C10.4047767,60 0.687022478,50.6106743 0.300710829,39.0213249 L0,30 L0.300710829,20.9786751 Z" id="path-1"></path>
+    <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="62" height="60" fill="white">
+      <use xlink:href="#path-1"></use>
+    </mask>
+    <path d="M20.050415,18.6792453 L26.6715668,18.6792453 C28.5098097,18.6792453 30,20.1247837 30,21.898368 L30,25.9601226 C30,27.7379949 28.5122953,29.1792453 26.6676336,29.1792453 L3.33236643,29.1792453 C1.49195127,29.1792453 0,27.7337069 0,25.9601226 L0,21.898368 C0,20.1204956 1.49409579,18.6792453 3.337046,18.6792453 L9.79266357,18.6792453" id="path-3"></path>
+    <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="30" height="10.5" fill="white">
+      <use xlink:href="#path-3"></use>
+    </mask>
+    <path d="M14.8443396,22.2857143 C20.7052002,22.2857143 24.5943396,16.1064971 24.5943396,10.6764706 C24.5943396,5.24644406 20.2291159,4.54747351e-13 14.8443396,4.54747351e-13 C9.45956331,4.54747351e-13 5.09433962,5.24644406 5.09433962,10.6764706 C5.09433962,16.1064971 8.98347905,22.2857143 14.8443396,22.2857143 Z" id="path-5"></path>
+    <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="19.5" height="22.2857143" fill="white">
+      <use xlink:href="#path-5"></use>
+    </mask>
+  </defs>
+  <g id="Group-22-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(1331.000000, 582.000000)">
+    <use id="Rectangle-11-Copy" stroke="#97A4B6" mask="url(#mask-2)" stroke-width="2" fill="#FAFDFF" xlink:href="#path-1"></use>
+    <g id="Group-26" transform="translate(16.000000, 15.000000)" stroke="#97A4B6" stroke-width="2">
+      <use id="Rectangle-2" mask="url(#mask-4)" fill-opacity="0.39770154" fill="#97A4B6" xlink:href="#path-3"></use>
+      <use id="Oval-3" mask="url(#mask-6)" fill="#FAFDFF" xlink:href="#path-5"></use>
+    </g>
+  </g>
+</svg>

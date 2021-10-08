@@ -1,0 +1,31 @@
+
+<svg width="62px" height="60px" viewBox="613 582 62 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <path d="M0.300710829,20.9786751 C0.686917574,9.39247279 10.4079804,0 22.0061566,0 L39.9938434,0 C51.5952233,0 61.3129775,9.38932566 61.6992892,20.9786751 L62,30 L61.6992892,39.0213249 C61.3130824,50.6075272 51.5920196,60 39.9938434,60 L22.0061566,60 C10.4047767,60 0.687022478,50.6106743 0.300710829,39.0213249 L0,30 L0.300710829,20.9786751 Z" id="path-1"></path>
+    <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="62" height="60" fill="white">
+      <use xlink:href="#path-1"></use>
+    </mask>
+    <rect id="path-3" x="0" y="-1.59872116e-14" width="30" height="27" rx="1"></rect>
+    <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="30" height="27" fill="white">
+      <use xlink:href="#path-3"></use>
+    </mask>
+    <rect id="path-5" x="18" y="0" width="12" height="27" rx="1"></rect>
+    <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="27" fill="white">
+      <use xlink:href="#path-5"></use>
+    </mask>
+  </defs>
+  <g id="Group-56" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(613.000000, 582.000000)">
+    <use id="Rectangle-11" stroke="#97A4B6" mask="url(#mask-2)" stroke-width="2" fill="#FAFDFF" xlink:href="#path-1"></use>
+    <g id="Group-50" transform="translate(16.000000, 17.000000)">
+      <use id="Rectangle-7" stroke="#97A4B6" mask="url(#mask-4)" stroke-width="2" xlink:href="#path-3"></use>
+      <use id="Rectangle-7" stroke="#97A4B6" mask="url(#mask-6)" stroke-width="2" fill-opacity="0.39770154" fill="#97A4B6" xlink:href="#path-5"></use>
+      <rect id="Rectangle-12" fill="#97A4B6" x="21" y="10.5" width="6" height="1" rx="0.5"></rect>
+      <rect id="Rectangle-12-Copy-2" fill="#97A4B6" x="6" y="18" width="7.5" height="1" rx="0.5"></rect>
+      <rect id="Rectangle-12-Copy-3" fill="#97A4B6" transform="translate(9.750000, 9.500000) rotate(-270.000000) translate(-9.750000, -9.500000) " x="6" y="9" width="7.5" height="1" rx="0.5"></rect>
+      <rect id="Rectangle-12-Copy" fill="#97A4B6" x="21" y="15" width="6" height="1" rx="0.5"></rect>
+      <rect id="Rectangle-12-Copy-3" fill="#97A4B6" x="6" y="9" width="7.5" height="1" rx="0.5"></rect>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+  <title>pop_resource_stack_n</title>
+  <desc>Created with Sketch.</desc>
+  <defs></defs>
+  <g id="uikit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="*图标" transform="translate(-2162.000000, -1242.000000)">
+      <g id="pop_resource_stack_n" transform="translate(2162.000000, 1242.000000)">
+        <rect id="Rectangle-2-Copy-14" x="0" y="0" width="36" height="36"></rect>
+        <g id="Group-242" transform="translate(8.000000, 8.000000)">
+          <path d="M6.5,19.5 L13.5,19.5 L13.5,1 C13.5,0.723857625 13.2761424,0.5 13,0.5 L7,0.5 C6.72385763,0.5 6.5,0.723857625 6.5,1 L6.5,19.5 Z" id="Rectangle-107-Copy" stroke="#97A4B6"></path>
+          <path d="M6.5,19.5 L6.5,4 C6.5,3.72385763 6.27614237,3.5 6,3.5 L1,3.5 C0.723857625,3.5 0.5,3.72385763 0.5,4 L0.5,19 C0.5,19.2761424 0.723857625,19.5 1,19.5 L6.5,19.5 Z" id="Rectangle-107" stroke="#97A4B6"></path>
+          <path d="M13.5,19.5 L19,19.5 C19.2761424,19.5 19.5,19.2761424 19.5,19 L19.5,7 C19.5,6.72385763 19.2761424,6.5 19,6.5 L14,6.5 C13.7238576,6.5 13.5,6.72385763 13.5,7 L13.5,19.5 Z" id="Rectangle-107-Copy-2" stroke="#97A4B6"></path>
+          <rect id="Rectangle-108-Copy" fill="#97A4B6" x="9.5" y="8" width="1" height="8" rx="0.5"></rect>
+          <rect id="Rectangle-108-Copy-2" fill="#97A4B6" x="3" y="10" width="1" height="6" rx="0.5"></rect>
+          <rect id="Rectangle-108" fill="#97A4B6" x="16" y="12" width="1" height="4" rx="0.5"></rect>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

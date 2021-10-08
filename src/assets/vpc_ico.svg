@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="60px" viewBox="0 0 62 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+  <title>Group 14</title>
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <path d="M0.300710829,20.9786751 C0.686917574,9.39247279 10.4079804,0 22.0061566,0 L39.9938434,0 C51.5952233,0 61.3129775,9.38932566 61.6992892,20.9786751 L62,30 L61.6992892,39.0213249 C61.3130824,50.6075272 51.5920196,60 39.9938434,60 L22.0061566,60 C10.4047767,60 0.687022478,50.6106743 0.300710829,39.0213249 L0,30 L0.300710829,20.9786751 Z" id="path-1"></path>
+    <circle id="path-2" cx="15" cy="18" r="6"></circle>
+  </defs>
+  <g id="Hybrid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="*导航_normal&amp;selected-间距调整" transform="translate(-780.000000, -593.000000)">
+      <g id="Group-14" transform="translate(780.000000, 593.000000)">
+        <g id="Rectangle-11-Copy">
+          <use fill="#FAFDFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+          <path stroke="#97A4B6" stroke-width="1" d="M0.800433282,20.9953326 L0.499722453,29.9833426 L0.800433282,39.0046674 C1.17772202,50.3233297 10.6732548,59.5 22.0061566,59.5 L39.9938434,59.5 C51.3235597,59.5 60.8223835,50.3201644 61.1995667,39.0046674 L61.5002775,30.0166574 L61.1995667,20.9953326 C60.822278,9.67667031 51.3267452,0.5 39.9938434,0.5 L22.0061566,0.5 C10.6764403,0.5 1.17761651,9.67983562 0.800433282,20.9953326 Z"></path>
+        </g>
+        <g id="Group-13" transform="translate(16.000000, 15.000000)">
+          <circle id="Oval-19" stroke="#97A4B6" cx="25.5" cy="24.5" r="4"></circle>
+          <circle id="Oval-19" stroke="#97A4B6" cx="4.5" cy="24.5" r="4"></circle>
+          <circle id="Oval-19" stroke="#97A4B6" cx="15" cy="4.5" r="4"></circle>
+          <g id="Oval-19-Copy">
+            <use fill-opacity="0.39770154" fill="#97A4B6" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <circle stroke="#97A4B6" stroke-width="1" cx="15" cy="18" r="5.5"></circle>
+          </g>
+          <rect id="Rectangle-38" fill="#97A4B6" x="14.5" y="8.38842773" width="1" height="4"></rect>
+          <polygon id="Rectangle-38-Copy" fill="#97A4B6" transform="translate(9.334668, 21.269941) rotate(55.000000) translate(-9.334668, -21.269941) " points="8.83466833 19.7699407 9.83466833 19.7699407 9.83466833 22.7699407 8.83466833 22.7699407"></polygon>
+          <polygon id="Rectangle-38-Copy" fill="#97A4B6" transform="translate(20.515516, 21.269941) scale(-1, 1) rotate(55.000000) translate(-20.515516, -21.269941) " points="20.0155163 19.7699407 21.0155163 19.7699407 21.0155163 22.7699407 20.0155163 22.7699407"></polygon>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

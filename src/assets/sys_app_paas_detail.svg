@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>sys_app_paas_detail</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#E7F2FF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="7.69585503%" y1="78.6621094%" x2="100%" y2="-73.3300781%" id="linearGradient-2">
+            <stop stop-color="#A2CFFF" offset="0%"></stop>
+            <stop stop-color="#84C0FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M41.65,50.4 L53.2,50.4 C54.7463973,50.4 56,51.6536027 56,53.2 C56,54.7463973 54.7463973,56 53.2,56 L8.4,56 C6.8536027,56 5.6,54.7463973 5.6,53.2 C5.6,51.6536027 6.8536027,50.4 8.4,50.4 L19.95,50.4 L22.4,40.6 L39.2,40.6 L41.65,50.4 Z" id="path-3"></path>
+        <rect id="path-4" x="0" y="0" width="61.6" height="42" rx="5.6"></rect>
+        <linearGradient x1="50%" y1="172.786458%" x2="40.5229048%" y2="0%" id="linearGradient-5">
+            <stop stop-color="#D3E8FF" offset="0%"></stop>
+            <stop stop-color="#C0DEFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,29.4 L61.6,29.4 L61.6,36.4 C61.6,39.4927946 59.0927946,42 56,42 L5.6,42 C2.5072054,42 2.15511494e-15,39.4927946 1.77635684e-15,36.4 L0,29.4 Z" id="path-6"></path>
+    </defs>
+    <g id="应用中心" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sys_app_paas_detail">
+            <g id="Group-23-Copy-2">
+                <rect id="Rectangle-11-Copy-3" x="0" y="0" width="70" height="70"></rect>
+            </g>
+            <g id="Group-9" transform="translate(4.200000, 7.000000)">
+                <g id="Combined-Shape">
+                    <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <path stroke="#A0CEFF" stroke-width="1.4" d="M38.6534565,41.3 L22.9465435,41.3 L20.4965435,51.1 L8.4,51.1 C7.24020203,51.1 6.3,52.040202 6.3,53.2 C6.3,54.359798 7.24020203,55.3 8.4,55.3 L53.2,55.3 C54.359798,55.3 55.3,54.359798 55.3,53.2 C55.3,52.040202 54.359798,51.1 53.2,51.1 L41.1034565,51.1 L38.6534565,41.3 Z"></path>
+                </g>
+                <g id="Rectangle-15">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <rect stroke="#FFFFFF" stroke-width="1.4" x="0.7" y="0.7" width="60.2" height="40.6" rx="5.6"></rect>
+                </g>
+                <g id="Rectangle-15">
+                    <use fill="url(#linearGradient-5)" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    <path stroke="#D5E9FF" stroke-width="1.4" d="M0.7,30.1 L0.7,36.4 C0.7,39.1061953 2.89380473,41.3 5.6,41.3 L56,41.3 C58.7061953,41.3 60.9,39.1061953 60.9,36.4 L60.9,30.1 L0.7,30.1 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>sys_app_saas_type</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="172.786458%" x2="40.5229048%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#D3E8FF" offset="0%"></stop>
+            <stop stop-color="#C0DEFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M18.0625,0.0326633581 L18.0625,15.9375 L33.9673366,15.9375 C33.9890055,16.2888852 34,16.6431587 34,17 C34,26.3888407 26.3888407,34 17,34 C7.61115925,34 0,26.3888407 0,17 C0,7.61115925 7.61115925,0 17,0 C17.3568413,0 17.7111148,0.0109945429 18.0625,0.0326633581 Z" id="path-2"></path>
+        <linearGradient x1="-13.7162642%" y1="0%" x2="86.2659801%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#A2CFFF" offset="0%"></stop>
+            <stop stop-color="#84C0FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M-6,18 L16,18 L16,40 C3.8497355,40 -6,30.1502645 -6,18 Z" id="path-5"></path>
+        <linearGradient x1="50%" y1="1.14423775e-15%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#E7F2FF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M28.4350288,15.4350288 C25.6066017,18.263456 21.1282588,19.4419673 15,18.9705627 C14.5285955,12.842304 15.7071068,8.36396103 18.5355339,5.53553391 C21.363961,2.70710678 25.842304,1.52859548 31.9705627,2 C32.4419673,8.12825877 31.263456,12.6066017 28.4350288,15.4350288 Z M23.3989847,11.8989847 C24.2274119,11.8989847 24.8989847,11.2274119 24.8989847,10.3989847 C24.8989847,9.57055762 24.2274119,8.89898475 23.3989847,8.89898475 C22.5705576,8.89898475 21.8989847,9.57055762 21.8989847,10.3989847 C21.8989847,11.2274119 22.5705576,11.8989847 23.3989847,11.8989847 Z" id="path-7"></path>
+    </defs>
+    <g id="应用中心" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sys_app_saas_type">
+            <rect id="Rectangle-29" x="0" y="0" width="40" height="40"></rect>
+            <g id="Group-23" transform="translate(3.000000, 3.000000)">
+                <g id="Combined-Shape">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <g id="Mask">
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <path stroke="#D5E9FF" stroke-width="0.8" d="M17.6625,0.412972482 C17.4422503,0.404331667 17.22139,0.4 17,0.4 C7.83207315,0.4 0.4,7.83207315 0.4,17 C0.4,26.1679268 7.83207315,33.6 17,33.6 C26.1679268,33.6 33.6,26.1679268 33.6,17 C33.6,16.77861 33.5956683,16.5577497 33.5870275,16.3375 L17.6625,16.3375 L17.6625,0.412972482 Z"></path>
+                    </g>
+                    <g mask="url(#mask-3)">
+                        <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        <path stroke="#A0CEFF" stroke-width="0.8" d="M-5.59637053,18.4 C-5.38549167,30.0117354 3.98826458,39.3854917 15.6,39.5963705 L15.6,18.4 L-5.59637053,18.4 Z"></path>
+                    </g>
+                </g>
+                <g id="Combined-Shape">
+                    <use fill="url(#linearGradient-6)" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    <path stroke="#FFFFFF" stroke-width="0.8" d="M31.5965275,2.37403524 C25.7514892,1.98005032 21.5001848,3.13656844 18.8183766,5.81837662 C16.1365684,8.5001848 14.9800503,12.7514892 15.3740352,18.5965275 C21.2190735,18.9905124 25.470378,17.8339943 28.1521861,15.1521861 C30.8339943,12.470378 31.9905124,8.21907353 31.5965275,2.37403524 Z M23.3989847,12.2989847 C22.3496437,12.2989847 21.4989847,11.4483258 21.4989847,10.3989847 C21.4989847,9.34964372 22.3496437,8.49898475 23.3989847,8.49898475 C24.4483258,8.49898475 25.2989847,9.34964372 25.2989847,10.3989847 C25.2989847,11.4483258 24.4483258,12.2989847 23.3989847,12.2989847 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+

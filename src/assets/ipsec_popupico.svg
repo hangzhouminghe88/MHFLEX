@@ -1,0 +1,29 @@
+
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <path d="M1,9.00537044 C1,4.03184168 5.02834436,0 10,0 L10,0 C14.9705627,0 19,4.02323995 19,9.00537044 L19,20 L1,20 L1,9.00537044 Z" id="path-1"></path>
+    <path d="M5,8.99668583 C5,6.23709245 7.24419519,4 10,4 L10,4 C12.7614237,4 15,6.24157855 15,8.99668583 L15,20 L5,20 L5,8.99668583 Z" id="path-3"></path>
+  </defs>
+  <g id="云主机" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="*图标" transform="translate(-469.000000, -875.000000)">
+      <g id="Group-46" transform="translate(469.000000, 875.000000)">
+        <rect id="Rectangle-2" x="0" y="0" width="36" height="36"></rect>
+        <g id="Group-33" transform="translate(8.000000, 7.000000)">
+          <rect id="Rectangle-41" fill="#97A4B6" x="0" y="19" width="20" height="1" rx="0.5"></rect>
+          <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+          </mask>
+          <path stroke="#97A4B6" d="M18.5,19.5 L1.5,19.5 L1.5,9.00537044 C1.5,4.30753021 5.30494038,0.5 10,0.5 C14.6973985,0.5 18.5,4.30236022 18.5,9.00537044 L18.5,19.5 Z"></path>
+          <mask id="mask-4" fill="white">
+            <use xlink:href="#path-3"></use>
+          </mask>
+          <path stroke="#97A4B6" d="M14.5,19.5 L5.5,19.5 L5.5,8.99668583 C5.5,6.51533385 7.51823601,4.5 10,4.5 C12.4837368,4.5 14.5,6.51617637 14.5,8.99668583 L14.5,19.5 Z"></path>
+          <rect id="Rectangle-42" stroke="#97A4B6" mask="url(#mask-4)" x="2" y="3.5" width="8" height="16"></rect>
+          <rect id="Rectangle-43" fill="#97A4B6" mask="url(#mask-4)" x="12" y="10" width="1" height="3" rx="0.5"></rect>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

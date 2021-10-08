@@ -1,0 +1,27 @@
+
+<svg width="62px" height="61px" viewBox="0 0 62 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <rect id="path-1" x="14" y="16" width="16" height="14" rx="1"></rect>
+    <rect id="path-2" x="4.73684211" y="4.73684211" width="8" height="8" rx="1"></rect>
+  </defs>
+  <g id="wizard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="wizard_状态" transform="translate(-495.000000, -252.000000)">
+      <g id="Group-60" transform="translate(495.000000, 252.000000)">
+        <path d="M0.300710829,20.9786751 C0.686917574,9.39247279 10.4079804,0 22.0061566,0 L39.9938434,0 C51.5952233,0 61.3129775,9.38932566 61.6992892,20.9786751 L62,30 L61.6992892,39.0213249 C61.3130824,50.6075272 51.5920196,60 39.9938434,60 L22.0061566,60 C10.4047767,60 0.687022478,50.6106743 0.300710829,39.0213249 L0,30 L0.300710829,20.9786751 Z" id="Rectangle-11"></path>
+        <g id="Group-58" transform="translate(16.000000, 15.000000)">
+          <path d="M27.5,11.9493405 L14.8764727,0.5 L1.56403964,0.5 C0.971504812,0.5 0.5,0.970394104 0.5,1.55549365 L0.5,26.4445064 C0.5,27.0215692 0.97300009,27.5 1.54528528,27.5 L26.4547147,27.5 C27.03075,27.5 27.5,27.0262685 27.5,26.439754 L27.5,11.9493405 Z" id="Rectangle-7" stroke="#007FDF" transform="translate(14.000000, 14.000000) scale(1, -1) translate(-14.000000, -14.000000) "></path>
+          <g id="Rectangle-7" transform="translate(22.000000, 23.000000) scale(-1, -1) translate(-22.000000, -23.000000) ">
+            <use fill="#E0F3FF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <rect stroke="#007FDF" stroke-width="1" x="14.5" y="16.5" width="15" height="13" rx="1"></rect>
+          </g>
+          <g id="Rectangle-16" transform="translate(8.736842, 8.736842) scale(-1, -1) translate(-8.736842, -8.736842) ">
+            <use fill="#E0F3FF" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <rect stroke="#007FDF" stroke-width="1" x="5.23684211" y="5.23684211" width="7" height="7" rx="1"></rect>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

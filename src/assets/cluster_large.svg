@@ -1,0 +1,30 @@
+<svg width="63px" height="61px" viewBox="1105 372 63 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <path d="M0.300710829,20.9786751 C0.686917574,9.39247279 10.4079804,0 22.0061566,0 L39.9938434,0 C51.5952233,0 61.3129775,9.38932566 61.6992892,20.9786751 L62,30 L61.6992892,39.0213249 C61.3130824,50.6075272 51.5920196,60 39.9938434,60 L22.0061566,60 C10.4047767,60 0.687022478,50.6106743 0.300710829,39.0213249 L0,30 L0.300710829,20.9786751 Z" id="path-1"></path>
+    <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="62" height="60" fill="white">
+      <use xlink:href="#path-1"></use>
+    </mask>
+    <path d="M28,11.7278103 L28,26.439754 C28,27.3014541 27.3078613,28 26.4547147,28 L1.54528528,28 C0.691847788,28 0,27.292675 0,26.4445064 L0,1.55549365 C0,0.696418227 0.693189511,0 1.56403964,0 L15.0694444,0" id="path-3"></path>
+    <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="28" height="28" fill="white">
+      <use xlink:href="#path-3"></use>
+    </mask>
+    <rect id="path-5" x="14" y="16" width="16" height="14" rx="1"></rect>
+    <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="16" height="14" fill="white">
+      <use xlink:href="#path-5"></use>
+    </mask>
+    <rect id="path-7" x="4.73684211" y="4.73684211" width="8" height="8" rx="1"></rect>
+    <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="8" height="8" fill="white">
+      <use xlink:href="#path-7"></use>
+    </mask>
+  </defs>
+  <g id="Group-60" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(1105.000000, 372.000000)">
+    <use id="Rectangle-11" stroke="#97A4B6" mask="url(#mask-2)" stroke-width="2" fill="#FAFDFF" xlink:href="#path-1"></use>
+    <g id="Group-58" transform="translate(16.000000, 15.000000)" stroke="#97A4B6" stroke-width="2">
+      <use id="Rectangle-7" mask="url(#mask-4)" transform="translate(14.000000, 14.000000) scale(1, -1) translate(-14.000000, -14.000000) " xlink:href="#path-3"></use>
+      <use id="Rectangle-7" mask="url(#mask-6)" fill-opacity="0.39770154" fill="#97A4B6" transform="translate(22.000000, 23.000000) scale(-1, -1) translate(-22.000000, -23.000000) " xlink:href="#path-5"></use>
+      <use id="Rectangle-16" mask="url(#mask-8)" fill-opacity="0.39770154" fill="#97A4B6" transform="translate(8.736842, 8.736842) scale(-1, -1) translate(-8.736842, -8.736842) " xlink:href="#path-7"></use>
+    </g>
+  </g>
+</svg>

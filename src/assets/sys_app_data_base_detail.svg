@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>sys_app_data_base_detail</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="114.899554%" y1="18.9414062%" x2="28.0598958%" y2="80.8557581%" id="linearGradient-1">
+            <stop stop-color="#A2CFFF" offset="0%"></stop>
+            <stop stop-color="#84C0FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M39.2,18.2 L58.8,18.2 L58.8,47.6 C58.8,50.6927946 56.2927946,53.2 53.2,53.2 L40.6,53.2 C39.8268014,53.2 39.2,52.5731986 39.2,51.8 L39.2,18.2 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#D3E8FF" offset="0%"></stop>
+            <stop stop-color="#C0DEFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,18.2 L40.6,18.2 L40.6,51.8 C40.6,52.5731986 39.9731986,53.2 39.2,53.2 L5.6,53.2 C2.5072054,53.2 3.78758101e-16,50.6927946 0,47.6 L0,18.2 Z" id="path-4"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#E7F2FF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.6,0 L53.2,8.8817842e-16 C56.2927946,5.81394811e-15 58.8,2.5072054 58.8,5.6 L58.8,19.6 L0,19.6 L0,5.6 C-3.78758101e-16,2.5072054 2.5072054,2.34449399e-15 5.6,1.77635684e-15 Z M11.3590909,12.6 C12.4661708,12.6 13.3636364,11.659798 13.3636364,10.5 C13.3636364,9.34020203 12.4661708,8.4 11.3590909,8.4 C10.252011,8.4 9.35454545,9.34020203 9.35454545,10.5 C9.35454545,11.659798 10.252011,12.6 11.3590909,12.6 Z" id="path-6"></path>
+    </defs>
+    <g id="应用中心" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sys_app_data_base_detail">
+            <rect id="Rectangle-11-Copy" x="0" y="0" width="70" height="70"></rect>
+            <g id="Group-13-Copy" transform="translate(5.600000, 8.400000)">
+                <g id="Rectangle-8-Copy-2">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <path stroke="#A0CEFF" stroke-width="1.4" d="M39.9,18.9 L39.9,51.8 C39.9,52.1865993 40.2134007,52.5 40.6,52.5 L53.2,52.5 C55.9061953,52.5 58.1,50.3061953 58.1,47.6 L58.1,18.9 L39.9,18.9 Z"></path>
+                </g>
+                <g id="Rectangle-8-Copy">
+                    <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <path stroke="#D5E9FF" stroke-width="1.4" d="M0.7,18.9 L0.7,47.6 C0.7,50.3061953 2.89380473,52.5 5.6,52.5 L39.2,52.5 C39.5865993,52.5 39.9,52.1865993 39.9,51.8 L39.9,18.9 L0.7,18.9 Z"></path>
+                </g>
+                <g id="Combined-Shape">
+                    <use fill="url(#linearGradient-5)" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    <path stroke="#FFFFFF" stroke-width="1.4" d="M0.7,18.9 L58.1,18.9 L58.1,5.6 C58.1,2.89380473 55.9061953,0.7 53.2,0.7 L5.6,0.7 C2.89380473,0.7 0.7,2.89380473 0.7,5.6 L0.7,18.9 Z M11.3590909,13.3 C9.85794018,13.3 8.65454545,12.0393008 8.65454545,10.5 C8.65454545,8.96069924 9.85794018,7.7 11.3590909,7.7 C12.8602416,7.7 14.0636364,8.96069924 14.0636364,10.5 C14.0636364,12.0393008 12.8602416,13.3 11.3590909,13.3 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+
